@@ -1,0 +1,1809 @@
+02-13 23:18:35 Epoch[0] Batch [0]	Speed: 1.69 samples/sec
+02-13 23:18:35 acc_ignore: 0.441244444444; IoU: 0.187949506379; SoftmaxLoss: 1.13499782986
+02-13 23:18:42 Epoch[0] Batch [10]	Speed: 1.47 samples/sec
+02-13 23:18:42 acc_ignore: 0.434343434343; IoU: 0.195792080105; SoftmaxLoss: 1.145495494
+02-13 23:19:00 Epoch[0] Batch [20]	Speed: 0.56 samples/sec
+02-13 23:19:00 acc_ignore: 0.410929100529; IoU: 0.232025481127; SoftmaxLoss: 1.19265048363
+02-13 23:19:08 Epoch[0] Batch [30]	Speed: 1.25 samples/sec
+02-13 23:19:08 acc_ignore: 0.4096; IoU: 0.226284445706; SoftmaxLoss: 1.17540735327
+02-13 23:19:15 Epoch[0] Batch [40]	Speed: 1.45 samples/sec
+02-13 23:19:15 acc_ignore: 0.409201084011; IoU: 0.226581316846; SoftmaxLoss: 1.15740924373
+02-13 23:19:21 Epoch[0] Batch [50]	Speed: 1.46 samples/sec
+02-13 23:19:21 acc_ignore: 0.440491503268; IoU: 0.247226357233; SoftmaxLoss: 1.11453878336
+02-13 23:19:34 Epoch[0] Batch [60]	Speed: 0.80 samples/sec
+02-13 23:19:34 acc_ignore: 0.479871766849; IoU: 0.278514058126; SoftmaxLoss: 1.05885255045
+02-13 23:19:41 Epoch[0] Batch [70]	Speed: 1.45 samples/sec
+02-13 23:19:41 acc_ignore: 0.507189984351; IoU: 0.302986480967; SoftmaxLoss: 1.02721743233
+02-13 23:19:54 Epoch[0] Batch [80]	Speed: 0.78 samples/sec
+02-13 23:19:54 acc_ignore: 0.519699314129; IoU: 0.310828537571; SoftmaxLoss: 1.01421893031
+02-13 23:20:06 Epoch[0] Batch [90]	Speed: 0.80 samples/sec
+02-13 23:20:06 acc_ignore: 0.533888156288; IoU: 0.319157576185; SoftmaxLoss: 0.990230142991
+02-13 23:20:13 Epoch[0] Batch [100]	Speed: 1.48 samples/sec
+02-13 23:20:13 acc_ignore: 0.548590539054; IoU: 0.33145375542; SoftmaxLoss: 0.973756764817
+02-13 23:20:19 Epoch[0] Batch [110]	Speed: 1.51 samples/sec
+02-13 23:20:19 acc_ignore: 0.556346746747; IoU: 0.335435470946; SoftmaxLoss: 0.961419131632
+02-13 23:20:37 Epoch[0] Batch [120]	Speed: 0.56 samples/sec
+02-13 23:20:37 acc_ignore: 0.552261524334; IoU: 0.33513818931; SoftmaxLoss: 0.968519503271
+02-13 23:20:49 Epoch[0] Batch [130]	Speed: 0.83 samples/sec
+02-13 23:20:49 acc_ignore: 0.556217811705; IoU: 0.340423641251; SoftmaxLoss: 0.960855219929
+02-13 23:21:02 Epoch[0] Batch [140]	Speed: 0.79 samples/sec
+02-13 23:21:02 acc_ignore: 0.559445232467; IoU: 0.342275512238; SoftmaxLoss: 0.956344880627
+02-13 23:21:14 Epoch[0] Batch [150]	Speed: 0.81 samples/sec
+02-13 23:21:14 acc_ignore: 0.563981751288; IoU: 0.352019799307; SoftmaxLoss: 0.95113009882
+02-13 23:21:21 Epoch[0] Batch [160]	Speed: 1.47 samples/sec
+02-13 23:21:21 acc_ignore: 0.56921463078; IoU: 0.35563632428; SoftmaxLoss: 0.94387660415
+02-13 23:21:28 Epoch[0] Batch [170]	Speed: 1.46 samples/sec
+02-13 23:21:28 acc_ignore: 0.579564912281; IoU: 0.363294462612; SoftmaxLoss: 0.925592062241
+02-13 23:21:40 Epoch[0] Batch [180]	Speed: 0.82 samples/sec
+02-13 23:21:40 acc_ignore: 0.58269073051; IoU: 0.371197943015; SoftmaxLoss: 0.921717535562
+02-13 23:21:53 Epoch[0] Batch [190]	Speed: 0.78 samples/sec
+02-13 23:21:53 acc_ignore: 0.583680744619; IoU: 0.37179942174; SoftmaxLoss: 0.919049651755
+02-13 23:22:00 Epoch[0] Batch [200]	Speed: 1.45 samples/sec
+02-13 23:22:00 acc_ignore: 0.5896039801; IoU: 0.377665714405; SoftmaxLoss: 0.911370902216
+02-13 23:22:08 Epoch[0] Batch [210]	Speed: 1.32 samples/sec
+02-13 23:22:08 acc_ignore: 0.596032438125; IoU: 0.385289661469; SoftmaxLoss: 0.902023867619
+02-13 23:22:14 Epoch[0] Batch [220]	Speed: 1.46 samples/sec
+02-13 23:22:14 acc_ignore: 0.601187330317; IoU: 0.389446018877; SoftmaxLoss: 0.893532376116
+02-13 23:22:21 Epoch[0] Batch [230]	Speed: 1.48 samples/sec
+02-13 23:22:21 acc_ignore: 0.603595574796; IoU: 0.392307956976; SoftmaxLoss: 0.888975064353
+02-13 23:22:34 Epoch[0] Batch [240]	Speed: 0.77 samples/sec
+02-13 23:22:34 acc_ignore: 0.606837436607; IoU: 0.39686601205; SoftmaxLoss: 0.883202409755
+02-13 23:22:41 Epoch[0] Batch [250]	Speed: 1.43 samples/sec
+02-13 23:22:41 acc_ignore: 0.610089420097; IoU: 0.401018749326; SoftmaxLoss: 0.876897646653
+02-13 23:22:42 Epoch[0] Train-acc_ignore=0.609529
+02-13 23:22:42 Epoch[0] Train-IoU=0.400731
+02-13 23:22:42 Epoch[0] Train-SoftmaxLoss=0.877583
+02-13 23:22:42 Epoch[0] Time cost=248.642
+02-13 23:22:45 Saved checkpoint to "F:/Code/MyCode/CNN_Segmentation/Models/crossEx/Folder1\TusimpleDUC_Seg\2018_02_13_23_18_29\TusimpleDUC_Seg-0001.params"
+02-13 23:23:17 Epoch[0] Validation-acc_ignore=0.725930
+02-13 23:23:17 Epoch[0] Validation-IoU=0.504921
+02-13 23:23:17 Epoch[0] Validation-SoftmaxLoss=0.680874
+02-13 23:23:17 Epoch[1] Batch [0]	Speed: 0.28 samples/sec
+02-13 23:23:17 acc_ignore: 0.737066666667; IoU: 0.3338532801; SoftmaxLoss: 0.693487586806
+02-13 23:23:30 Epoch[1] Batch [10]	Speed: 0.80 samples/sec
+02-13 23:23:30 acc_ignore: 0.777907070707; IoU: 0.541129590563; SoftmaxLoss: 0.605213835622
+02-13 23:23:37 Epoch[1] Batch [20]	Speed: 1.47 samples/sec
+02-13 23:23:37 acc_ignore: 0.737219047619; IoU: 0.517602346849; SoftmaxLoss: 0.650065477224
+02-13 23:23:44 Epoch[1] Batch [30]	Speed: 1.39 samples/sec
+02-13 23:23:44 acc_ignore: 0.729278853047; IoU: 0.511936654258; SoftmaxLoss: 0.667854608395
+02-13 23:24:01 Epoch[1] Batch [40]	Speed: 0.58 samples/sec
+02-13 23:24:01 acc_ignore: 0.725125203252; IoU: 0.520749370852; SoftmaxLoss: 0.674564823637
+02-13 23:24:12 Epoch[1] Batch [50]	Speed: 0.88 samples/sec
+02-13 23:24:12 acc_ignore: 0.723691503268; IoU: 0.511658518871; SoftmaxLoss: 0.680717873434
+02-13 23:24:19 Epoch[1] Batch [60]	Speed: 1.53 samples/sec
+02-13 23:24:19 acc_ignore: 0.721363934426; IoU: 0.511173156632; SoftmaxLoss: 0.675397982127
+02-13 23:24:25 Epoch[1] Batch [70]	Speed: 1.56 samples/sec
+02-13 23:24:25 acc_ignore: 0.725283255086; IoU: 0.518760081958; SoftmaxLoss: 0.672102772276
+02-13 23:24:37 Epoch[1] Batch [80]	Speed: 0.88 samples/sec
+02-13 23:24:37 acc_ignore: 0.724589300412; IoU: 0.519279904709; SoftmaxLoss: 0.669889351852
+02-13 23:24:43 Epoch[1] Batch [90]	Speed: 1.56 samples/sec
+02-13 23:24:43 acc_ignore: 0.720298901099; IoU: 0.513091027243; SoftmaxLoss: 0.681482256611
+02-13 23:24:50 Epoch[1] Batch [100]	Speed: 1.52 samples/sec
+02-13 23:24:50 acc_ignore: 0.721332453245; IoU: 0.517316243141; SoftmaxLoss: 0.678145069487
+02-13 23:25:01 Epoch[1] Batch [110]	Speed: 0.86 samples/sec
+02-13 23:25:01 acc_ignore: 0.722575375375; IoU: 0.518880922194; SoftmaxLoss: 0.679901928295
+02-13 23:25:08 Epoch[1] Batch [120]	Speed: 1.51 samples/sec
+02-13 23:25:08 acc_ignore: 0.722340495868; IoU: 0.520699213796; SoftmaxLoss: 0.68121551183
+02-13 23:25:14 Epoch[1] Batch [130]	Speed: 1.54 samples/sec
+02-13 23:25:14 acc_ignore: 0.726974045802; IoU: 0.527765741319; SoftmaxLoss: 0.672220128784
+02-13 23:25:21 Epoch[1] Batch [140]	Speed: 1.52 samples/sec
+02-13 23:25:21 acc_ignore: 0.725180772262; IoU: 0.528279097623; SoftmaxLoss: 0.674225183
+02-13 23:25:38 Epoch[1] Batch [150]	Speed: 0.60 samples/sec
+02-13 23:25:38 acc_ignore: 0.728187196468; IoU: 0.534139550483; SoftmaxLoss: 0.668769850735
+02-13 23:25:54 Epoch[1] Batch [160]	Speed: 0.60 samples/sec
+02-13 23:25:54 acc_ignore: 0.727790200138; IoU: 0.536539370672; SoftmaxLoss: 0.668194811481
+02-13 23:26:01 Epoch[1] Batch [170]	Speed: 1.50 samples/sec
+02-13 23:26:01 acc_ignore: 0.724290578298; IoU: 0.53393154631; SoftmaxLoss: 0.671142596781
+02-13 23:26:08 Epoch[1] Batch [180]	Speed: 1.51 samples/sec
+02-13 23:26:08 acc_ignore: 0.726042480049; IoU: 0.534727475803; SoftmaxLoss: 0.668604801642
+02-13 23:26:21 Epoch[1] Batch [190]	Speed: 0.76 samples/sec
+02-13 23:26:21 acc_ignore: 0.726117044793; IoU: 0.536458084444; SoftmaxLoss: 0.66660300854
+02-13 23:26:28 Epoch[1] Batch [200]	Speed: 1.41 samples/sec
+02-13 23:26:28 acc_ignore: 0.729666334992; IoU: 0.540253038109; SoftmaxLoss: 0.661135604314
+02-13 23:26:35 Epoch[1] Batch [210]	Speed: 1.44 samples/sec
+02-13 23:26:35 acc_ignore: 0.728803791469; IoU: 0.538167870628; SoftmaxLoss: 0.662076712044
+02-13 23:26:47 Epoch[1] Batch [220]	Speed: 0.82 samples/sec
+02-13 23:26:47 acc_ignore: 0.729437506285; IoU: 0.540671875397; SoftmaxLoss: 0.659577770168
+02-13 23:26:59 Epoch[1] Batch [230]	Speed: 0.81 samples/sec
+02-13 23:26:59 acc_ignore: 0.727991534392; IoU: 0.539901075189; SoftmaxLoss: 0.661161152682
+02-13 23:27:06 Epoch[1] Batch [240]	Speed: 1.55 samples/sec
+02-13 23:27:06 acc_ignore: 0.728353342554; IoU: 0.539263604603; SoftmaxLoss: 0.660748953786
+02-13 23:27:13 Epoch[1] Batch [250]	Speed: 1.49 samples/sec
+02-13 23:27:13 acc_ignore: 0.729051792829; IoU: 0.539186235573; SoftmaxLoss: 0.660440132136
+02-13 23:27:13 Epoch[1] Train-acc_ignore=0.729614
+02-13 23:27:13 Epoch[1] Train-IoU=0.539595
+02-13 23:27:13 Epoch[1] Train-SoftmaxLoss=0.659274
+02-13 23:27:13 Epoch[1] Time cost=236.689
+02-13 23:27:16 Saved checkpoint to "F:/Code/MyCode/CNN_Segmentation/Models/crossEx/Folder1\TusimpleDUC_Seg\2018_02_13_23_18_29\TusimpleDUC_Seg-0002.params"
+02-13 23:27:48 Epoch[1] Validation-acc_ignore=0.751682
+02-13 23:27:48 Epoch[1] Validation-IoU=0.537305
+02-13 23:27:48 Epoch[1] Validation-SoftmaxLoss=0.623786
+02-13 23:27:48 Epoch[2] Batch [0]	Speed: 0.28 samples/sec
+02-13 23:27:48 acc_ignore: 0.720177777778; IoU: 0.442974561486; SoftmaxLoss: 0.67746953125
+02-13 23:27:55 Epoch[2] Batch [10]	Speed: 1.45 samples/sec
+02-13 23:27:55 acc_ignore: 0.690052525253; IoU: 0.483147301868; SoftmaxLoss: 0.736515644729
+02-13 23:28:08 Epoch[2] Batch [20]	Speed: 0.79 samples/sec
+02-13 23:28:08 acc_ignore: 0.720033862434; IoU: 0.519421526982; SoftmaxLoss: 0.679585693618
+02-13 23:28:15 Epoch[2] Batch [30]	Speed: 1.47 samples/sec
+02-13 23:28:15 acc_ignore: 0.738230824373; IoU: 0.541861097813; SoftmaxLoss: 0.639315951221
+02-13 23:28:28 Epoch[2] Batch [40]	Speed: 0.74 samples/sec
+02-13 23:28:28 acc_ignore: 0.747030894309; IoU: 0.556462177351; SoftmaxLoss: 0.62166152132
+02-13 23:28:35 Epoch[2] Batch [50]	Speed: 1.49 samples/sec
+02-13 23:28:35 acc_ignore: 0.760787799564; IoU: 0.563072050957; SoftmaxLoss: 0.598925710614
+02-13 23:28:42 Epoch[2] Batch [60]	Speed: 1.42 samples/sec
+02-13 23:28:42 acc_ignore: 0.750041530055; IoU: 0.549632397348; SoftmaxLoss: 0.622104763633
+02-13 23:28:54 Epoch[2] Batch [70]	Speed: 0.81 samples/sec
+02-13 23:28:54 acc_ignore: 0.753046635368; IoU: 0.561271822489; SoftmaxLoss: 0.614499951095
+02-13 23:29:06 Epoch[2] Batch [80]	Speed: 0.87 samples/sec
+02-13 23:29:06 acc_ignore: 0.750619478738; IoU: 0.567589915956; SoftmaxLoss: 0.614705312286
+02-13 23:29:13 Epoch[2] Batch [90]	Speed: 1.47 samples/sec
+02-13 23:29:13 acc_ignore: 0.750917704518; IoU: 0.564344503247; SoftmaxLoss: 0.620503450282
+02-13 23:29:19 Epoch[2] Batch [100]	Speed: 1.50 samples/sec
+02-13 23:29:19 acc_ignore: 0.752651265127; IoU: 0.564709979634; SoftmaxLoss: 0.618322649804
+02-13 23:29:36 Epoch[2] Batch [110]	Speed: 0.59 samples/sec
+02-13 23:29:36 acc_ignore: 0.753700900901; IoU: 0.564892971534; SoftmaxLoss: 0.617384799839
+02-13 23:29:49 Epoch[2] Batch [120]	Speed: 0.81 samples/sec
+02-13 23:29:49 acc_ignore: 0.747214692378; IoU: 0.560650793243; SoftmaxLoss: 0.627492751198
+02-13 23:29:55 Epoch[2] Batch [130]	Speed: 1.48 samples/sec
+02-13 23:29:55 acc_ignore: 0.748509584394; IoU: 0.562047413915; SoftmaxLoss: 0.624843916653
+02-13 23:30:02 Epoch[2] Batch [140]	Speed: 1.46 samples/sec
+02-13 23:30:02 acc_ignore: 0.748823955871; IoU: 0.559800858097; SoftmaxLoss: 0.626640739048
+02-13 23:30:14 Epoch[2] Batch [150]	Speed: 0.84 samples/sec
+02-13 23:30:14 acc_ignore: 0.74977718911; IoU: 0.558796518143; SoftmaxLoss: 0.622895177693
+02-13 23:30:21 Epoch[2] Batch [160]	Speed: 1.44 samples/sec
+02-13 23:30:21 acc_ignore: 0.753107522429; IoU: 0.561225655753; SoftmaxLoss: 0.616711680537
+02-13 23:30:34 Epoch[2] Batch [170]	Speed: 0.79 samples/sec
+02-13 23:30:34 acc_ignore: 0.751130864198; IoU: 0.561717174804; SoftmaxLoss: 0.619910520668
+02-13 23:30:41 Epoch[2] Batch [180]	Speed: 1.37 samples/sec
+02-13 23:30:41 acc_ignore: 0.746283609576; IoU: 0.557976952159; SoftmaxLoss: 0.628095547199
+02-13 23:30:54 Epoch[2] Batch [190]	Speed: 0.78 samples/sec
+02-13 23:30:54 acc_ignore: 0.743805468296; IoU: 0.555980500505; SoftmaxLoss: 0.631211070946
+02-13 23:31:01 Epoch[2] Batch [200]	Speed: 1.46 samples/sec
+02-13 23:31:01 acc_ignore: 0.742935102266; IoU: 0.553568083544; SoftmaxLoss: 0.634632576754
+02-13 23:31:08 Epoch[2] Batch [210]	Speed: 1.44 samples/sec
+02-13 23:31:08 acc_ignore: 0.743198736177; IoU: 0.553055145815; SoftmaxLoss: 0.634986469287
+02-13 23:31:30 Epoch[2] Batch [220]	Speed: 0.44 samples/sec
+02-13 23:31:30 acc_ignore: 0.744432780292; IoU: 0.55748041543; SoftmaxLoss: 0.632467415954
+02-13 23:31:37 Epoch[2] Batch [230]	Speed: 1.46 samples/sec
+02-13 23:31:37 acc_ignore: 0.742639345839; IoU: 0.557899866851; SoftmaxLoss: 0.63366933683
+02-13 23:31:44 Epoch[2] Batch [240]	Speed: 1.41 samples/sec
+02-13 23:31:44 acc_ignore: 0.743032918396; IoU: 0.558763125674; SoftmaxLoss: 0.633186497099
+02-13 23:31:51 Epoch[2] Batch [250]	Speed: 1.43 samples/sec
+02-13 23:31:51 acc_ignore: 0.745374059318; IoU: 0.561472852701; SoftmaxLoss: 0.629031817219
+02-13 23:31:52 Epoch[2] Train-acc_ignore=0.745716
+02-13 23:31:52 Epoch[2] Train-IoU=0.562383
+02-13 23:31:52 Epoch[2] Train-SoftmaxLoss=0.628396
+02-13 23:31:52 Epoch[2] Time cost=243.837
+02-13 23:31:55 Saved checkpoint to "F:/Code/MyCode/CNN_Segmentation/Models/crossEx/Folder1\TusimpleDUC_Seg\2018_02_13_23_18_29\TusimpleDUC_Seg-0003.params"
+02-13 23:32:25 Epoch[2] Validation-acc_ignore=0.754128
+02-13 23:32:25 Epoch[2] Validation-IoU=0.542150
+02-13 23:32:25 Epoch[2] Validation-SoftmaxLoss=0.628123
+02-13 23:32:31 Update[757]: Change learning rate to 5.00000e-05
+02-13 23:32:31 Epoch[3] Batch [0]	Speed: 0.25 samples/sec
+02-13 23:32:31 acc_ignore: 0.573155555556; IoU: 0.274505242135; SoftmaxLoss: 0.799775
+02-13 23:32:38 Epoch[3] Batch [10]	Speed: 1.43 samples/sec
+02-13 23:32:38 acc_ignore: 0.763119191919; IoU: 0.523959589843; SoftmaxLoss: 0.612746375868
+02-13 23:32:45 Epoch[3] Batch [20]	Speed: 1.46 samples/sec
+02-13 23:32:45 acc_ignore: 0.786302645503; IoU: 0.580025109778; SoftmaxLoss: 0.557198588376
+02-13 23:32:56 Epoch[3] Batch [30]	Speed: 0.84 samples/sec
+02-13 23:32:56 acc_ignore: 0.76826953405; IoU: 0.586103351533; SoftmaxLoss: 0.582839386271
+02-13 23:33:03 Epoch[3] Batch [40]	Speed: 1.43 samples/sec
+02-13 23:33:03 acc_ignore: 0.762640650407; IoU: 0.57693500219; SoftmaxLoss: 0.591474721852
+02-13 23:33:11 Epoch[3] Batch [50]	Speed: 1.42 samples/sec
+02-13 23:33:11 acc_ignore: 0.766539433551; IoU: 0.577548185367; SoftmaxLoss: 0.586480203014
+02-13 23:33:17 Epoch[3] Batch [60]	Speed: 1.46 samples/sec
+02-13 23:33:17 acc_ignore: 0.769331876138; IoU: 0.578977154314; SoftmaxLoss: 0.583186851271
+02-13 23:33:30 Epoch[3] Batch [70]	Speed: 0.81 samples/sec
+02-13 23:33:30 acc_ignore: 0.76954741784; IoU: 0.579064963766; SoftmaxLoss: 0.581258173171
+02-13 23:33:38 Epoch[3] Batch [80]	Speed: 1.19 samples/sec
+02-13 23:33:38 acc_ignore: 0.764865843621; IoU: 0.577930603829; SoftmaxLoss: 0.586182466082
+02-13 23:33:51 Epoch[3] Batch [90]	Speed: 0.81 samples/sec
+02-13 23:33:51 acc_ignore: 0.767064224664; IoU: 0.582024264445; SoftmaxLoss: 0.579194936661
+02-13 23:33:57 Epoch[3] Batch [100]	Speed: 1.44 samples/sec
+02-13 23:33:57 acc_ignore: 0.764960176018; IoU: 0.581389693587; SoftmaxLoss: 0.586052164338
+02-13 23:34:10 Epoch[3] Batch [110]	Speed: 0.82 samples/sec
+02-13 23:34:10 acc_ignore: 0.76123003003; IoU: 0.576366756271; SoftmaxLoss: 0.595943524579
+02-13 23:34:16 Epoch[3] Batch [120]	Speed: 1.52 samples/sec
+02-13 23:34:16 acc_ignore: 0.76282681359; IoU: 0.576457219444; SoftmaxLoss: 0.592952303934
+02-13 23:34:23 Epoch[3] Batch [130]	Speed: 1.41 samples/sec
+02-13 23:34:23 acc_ignore: 0.75961187447; IoU: 0.572199188827; SoftmaxLoss: 0.601134756348
+02-13 23:34:30 Epoch[3] Batch [140]	Speed: 1.43 samples/sec
+02-13 23:34:30 acc_ignore: 0.760148778566; IoU: 0.573170555636; SoftmaxLoss: 0.597554562525
+02-13 23:34:43 Epoch[3] Batch [150]	Speed: 0.80 samples/sec
+02-13 23:34:43 acc_ignore: 0.761257395143; IoU: 0.572860922069; SoftmaxLoss: 0.595292095377
+02-13 23:34:50 Epoch[3] Batch [160]	Speed: 1.44 samples/sec
+02-13 23:34:50 acc_ignore: 0.759824430642; IoU: 0.569824091834; SoftmaxLoss: 0.598198707217
+02-13 23:34:57 Epoch[3] Batch [170]	Speed: 1.38 samples/sec
+02-13 23:34:57 acc_ignore: 0.758117218973; IoU: 0.567912831035; SoftmaxLoss: 0.600155275722
+02-13 23:35:05 Epoch[3] Batch [180]	Speed: 1.31 samples/sec
+02-13 23:35:05 acc_ignore: 0.758237937385; IoU: 0.568032212764; SoftmaxLoss: 0.598426442123
+02-13 23:35:23 Epoch[3] Batch [190]	Speed: 0.55 samples/sec
+02-13 23:35:23 acc_ignore: 0.758079813845; IoU: 0.571238240161; SoftmaxLoss: 0.597575981107
+02-13 23:35:37 Epoch[3] Batch [200]	Speed: 0.72 samples/sec
+02-13 23:35:37 acc_ignore: 0.753187838585; IoU: 0.566030011277; SoftmaxLoss: 0.606851083234
+02-13 23:35:43 Epoch[3] Batch [210]	Speed: 1.46 samples/sec
+02-13 23:35:43 acc_ignore: 0.753470247499; IoU: 0.567225069675; SoftmaxLoss: 0.605768984087
+02-13 23:35:52 Epoch[3] Batch [220]	Speed: 1.15 samples/sec
+02-13 23:35:52 acc_ignore: 0.754207340372; IoU: 0.568642903867; SoftmaxLoss: 0.603697303431
+02-13 23:36:11 Epoch[3] Batch [230]	Speed: 0.54 samples/sec
+02-13 23:36:11 acc_ignore: 0.754897546898; IoU: 0.57241182501; SoftmaxLoss: 0.601302381422
+02-13 23:36:24 Epoch[3] Batch [240]	Speed: 0.75 samples/sec
+02-13 23:36:24 acc_ignore: 0.754911572153; IoU: 0.572501247579; SoftmaxLoss: 0.601623402652
+02-13 23:36:31 Epoch[3] Batch [250]	Speed: 1.38 samples/sec
+02-13 23:36:31 acc_ignore: 0.756428862328; IoU: 0.573731724028; SoftmaxLoss: 0.599042803569
+02-13 23:36:32 Epoch[3] Train-acc_ignore=0.756114
+02-13 23:36:32 Epoch[3] Train-IoU=0.573410
+02-13 23:36:32 Epoch[3] Train-SoftmaxLoss=0.599662
+02-13 23:36:32 Epoch[3] Time cost=246.954
+02-13 23:36:35 Saved checkpoint to "F:/Code/MyCode/CNN_Segmentation/Models/crossEx/Folder1\TusimpleDUC_Seg\2018_02_13_23_18_29\TusimpleDUC_Seg-0004.params"
+02-13 23:37:06 Epoch[3] Validation-acc_ignore=0.731137
+02-13 23:37:06 Epoch[3] Validation-IoU=0.529208
+02-13 23:37:06 Epoch[3] Validation-SoftmaxLoss=0.654079
+02-13 23:37:12 Epoch[4] Batch [0]	Speed: 0.24 samples/sec
+02-13 23:37:12 acc_ignore: 0.710933333333; IoU: 0.478017578273; SoftmaxLoss: 0.69571171875
+02-13 23:37:30 Epoch[4] Batch [10]	Speed: 0.57 samples/sec
+02-13 23:37:30 acc_ignore: 0.794004040404; IoU: 0.630812171328; SoftmaxLoss: 0.518797078204
+02-13 23:37:36 Epoch[4] Batch [20]	Speed: 1.53 samples/sec
+02-13 23:37:36 acc_ignore: 0.793083597884; IoU: 0.624099706692; SoftmaxLoss: 0.535114029431
+02-13 23:37:43 Epoch[4] Batch [30]	Speed: 1.51 samples/sec
+02-13 23:37:43 acc_ignore: 0.792200716846; IoU: 0.616017545474; SoftmaxLoss: 0.540301294383
+02-13 23:37:49 Epoch[4] Batch [40]	Speed: 1.49 samples/sec
+02-13 23:37:49 acc_ignore: 0.796500813008; IoU: 0.611303855347; SoftmaxLoss: 0.530390394224
+02-13 23:37:56 Epoch[4] Batch [50]	Speed: 1.45 samples/sec
+02-13 23:37:56 acc_ignore: 0.803670588235; IoU: 0.611941007665; SoftmaxLoss: 0.515197267327
+02-13 23:38:03 Epoch[4] Batch [60]	Speed: 1.44 samples/sec
+02-13 23:38:03 acc_ignore: 0.800250637523; IoU: 0.611930103247; SoftmaxLoss: 0.524715493369
+02-13 23:38:12 Epoch[4] Batch [70]	Speed: 1.10 samples/sec
+02-13 23:38:12 acc_ignore: 0.804880125196; IoU: 0.619228835804; SoftmaxLoss: 0.515147794711
+02-13 23:38:24 Epoch[4] Batch [80]	Speed: 0.83 samples/sec
+02-13 23:38:24 acc_ignore: 0.795658710562; IoU: 0.611133889397; SoftmaxLoss: 0.53319299581
+02-13 23:38:32 Epoch[4] Batch [90]	Speed: 1.40 samples/sec
+02-13 23:38:32 acc_ignore: 0.794262271062; IoU: 0.61233019551; SoftmaxLoss: 0.534188687138
+02-13 23:38:38 Epoch[4] Batch [100]	Speed: 1.45 samples/sec
+02-13 23:38:38 acc_ignore: 0.788289548955; IoU: 0.603815814698; SoftmaxLoss: 0.544572955342
+02-13 23:38:46 Epoch[4] Batch [110]	Speed: 1.41 samples/sec
+02-13 23:38:46 acc_ignore: 0.782645045045; IoU: 0.598498247202; SoftmaxLoss: 0.55431981982
+02-13 23:38:54 Epoch[4] Batch [120]	Speed: 1.19 samples/sec
+02-13 23:38:54 acc_ignore: 0.779701010101; IoU: 0.595891468635; SoftmaxLoss: 0.558273834582
+02-13 23:39:01 Epoch[4] Batch [130]	Speed: 1.46 samples/sec
+02-13 23:39:01 acc_ignore: 0.7768956743; IoU: 0.591288301101; SoftmaxLoss: 0.56475441118
+02-13 23:39:13 Epoch[4] Batch [140]	Speed: 0.83 samples/sec
+02-13 23:39:13 acc_ignore: 0.775660835303; IoU: 0.592084656937; SoftmaxLoss: 0.566705256661
+02-13 23:39:20 Epoch[4] Batch [150]	Speed: 1.47 samples/sec
+02-13 23:39:20 acc_ignore: 0.7735334805; IoU: 0.587229616658; SoftmaxLoss: 0.572454876345
+02-13 23:39:32 Epoch[4] Batch [160]	Speed: 0.81 samples/sec
+02-13 23:39:32 acc_ignore: 0.772585783299; IoU: 0.588668999178; SoftmaxLoss: 0.57439103827
+02-13 23:39:50 Epoch[4] Batch [170]	Speed: 0.56 samples/sec
+02-13 23:39:50 acc_ignore: 0.769894217024; IoU: 0.585784236229; SoftmaxLoss: 0.577390765742
+02-13 23:40:02 Epoch[4] Batch [180]	Speed: 0.83 samples/sec
+02-13 23:40:02 acc_ignore: 0.772086924494; IoU: 0.592479140793; SoftmaxLoss: 0.571928680004
+02-13 23:40:14 Epoch[4] Batch [190]	Speed: 0.85 samples/sec
+02-13 23:40:14 acc_ignore: 0.767756137289; IoU: 0.587104714492; SoftmaxLoss: 0.578709646665
+02-13 23:40:26 Epoch[4] Batch [200]	Speed: 0.84 samples/sec
+02-13 23:40:26 acc_ignore: 0.767641791045; IoU: 0.588076723929; SoftmaxLoss: 0.577774852625
+02-13 23:40:38 Epoch[4] Batch [210]	Speed: 0.82 samples/sec
+02-13 23:40:38 acc_ignore: 0.76198504476; IoU: 0.582294227602; SoftmaxLoss: 0.585297676717
+02-13 23:40:50 Epoch[4] Batch [220]	Speed: 0.82 samples/sec
+02-13 23:40:50 acc_ignore: 0.761919356461; IoU: 0.583497495621; SoftmaxLoss: 0.586401624462
+02-13 23:40:57 Epoch[4] Batch [230]	Speed: 1.46 samples/sec
+02-13 23:40:57 acc_ignore: 0.75927965368; IoU: 0.579294676844; SoftmaxLoss: 0.590826820427
+02-13 23:41:04 Epoch[4] Batch [240]	Speed: 1.52 samples/sec
+02-13 23:41:04 acc_ignore: 0.759775749193; IoU: 0.581003120592; SoftmaxLoss: 0.589256620094
+02-13 23:41:10 Epoch[4] Batch [250]	Speed: 1.48 samples/sec
+02-13 23:41:10 acc_ignore: 0.759778308986; IoU: 0.579852690901; SoftmaxLoss: 0.590438684152
+02-13 23:41:11 Epoch[4] Train-acc_ignore=0.760286
+02-13 23:41:11 Epoch[4] Train-IoU=0.580355
+02-13 23:41:11 Epoch[4] Train-SoftmaxLoss=0.589844
+02-13 23:41:11 Epoch[4] Time cost=244.627
+02-13 23:41:14 Saved checkpoint to "F:/Code/MyCode/CNN_Segmentation/Models/crossEx/Folder1\TusimpleDUC_Seg\2018_02_13_23_18_29\TusimpleDUC_Seg-0005.params"
+02-13 23:41:46 Epoch[4] Validation-acc_ignore=0.761049
+02-13 23:41:46 Epoch[4] Validation-IoU=0.553641
+02-13 23:41:46 Epoch[4] Validation-SoftmaxLoss=0.606112
+02-13 23:41:47 Epoch[5] Batch [0]	Speed: 0.27 samples/sec
+02-13 23:41:47 acc_ignore: 0.712; IoU: 0.424131676126; SoftmaxLoss: 0.726498914931
+02-13 23:42:00 Epoch[5] Batch [10]	Speed: 0.78 samples/sec
+02-13 23:42:00 acc_ignore: 0.754682828283; IoU: 0.589812842021; SoftmaxLoss: 0.602977597262
+02-13 23:42:07 Epoch[5] Batch [20]	Speed: 1.44 samples/sec
+02-13 23:42:07 acc_ignore: 0.754598941799; IoU: 0.589138842637; SoftmaxLoss: 0.611505072441
+02-13 23:42:20 Epoch[5] Batch [30]	Speed: 0.78 samples/sec
+02-13 23:42:20 acc_ignore: 0.774526164875; IoU: 0.609856962526; SoftmaxLoss: 0.57664563067
+02-13 23:42:27 Epoch[5] Batch [40]	Speed: 1.44 samples/sec
+02-13 23:42:27 acc_ignore: 0.758772899729; IoU: 0.586641499023; SoftmaxLoss: 0.60125001932
+02-13 23:42:34 Epoch[5] Batch [50]	Speed: 1.48 samples/sec
+02-13 23:42:34 acc_ignore: 0.755531154684; IoU: 0.576769499554; SoftmaxLoss: 0.603387182777
+02-13 23:42:46 Epoch[5] Batch [60]	Speed: 0.79 samples/sec
+02-13 23:42:46 acc_ignore: 0.754587978142; IoU: 0.573417301239; SoftmaxLoss: 0.604666677517
+02-13 23:42:59 Epoch[5] Batch [70]	Speed: 0.78 samples/sec
+02-13 23:42:59 acc_ignore: 0.751073552426; IoU: 0.565444947325; SoftmaxLoss: 0.607099431485
+02-13 23:43:18 Epoch[5] Batch [80]	Speed: 0.53 samples/sec
+02-13 23:43:18 acc_ignore: 0.747516049383; IoU: 0.562287081071; SoftmaxLoss: 0.6126121576
+02-13 23:43:25 Epoch[5] Batch [90]	Speed: 1.48 samples/sec
+02-13 23:43:25 acc_ignore: 0.750718437118; IoU: 0.563983041539; SoftmaxLoss: 0.607233858221
+02-13 23:43:32 Epoch[5] Batch [100]	Speed: 1.52 samples/sec
+02-13 23:43:32 acc_ignore: 0.7584440044; IoU: 0.571442883371; SoftmaxLoss: 0.593304951355
+02-13 23:43:43 Epoch[5] Batch [110]	Speed: 0.88 samples/sec
+02-13 23:43:43 acc_ignore: 0.763664464464; IoU: 0.578307737531; SoftmaxLoss: 0.581379073018
+02-13 23:43:55 Epoch[5] Batch [120]	Speed: 0.87 samples/sec
+02-13 23:43:55 acc_ignore: 0.763036914601; IoU: 0.577850705084; SoftmaxLoss: 0.583129968363
+02-13 23:44:01 Epoch[5] Batch [130]	Speed: 1.56 samples/sec
+02-13 23:44:01 acc_ignore: 0.762353180662; IoU: 0.578452688766; SoftmaxLoss: 0.583891797538
+02-13 23:44:07 Epoch[5] Batch [140]	Speed: 1.56 samples/sec
+02-13 23:44:07 acc_ignore: 0.763018439716; IoU: 0.578332542262; SoftmaxLoss: 0.583831260312
+02-13 23:44:14 Epoch[5] Batch [150]	Speed: 1.51 samples/sec
+02-13 23:44:14 acc_ignore: 0.760243708609; IoU: 0.576494324634; SoftmaxLoss: 0.587577366457
+02-13 23:44:21 Epoch[5] Batch [160]	Speed: 1.46 samples/sec
+02-13 23:44:21 acc_ignore: 0.762280193237; IoU: 0.577509179052; SoftmaxLoss: 0.583146918403
+02-13 23:44:28 Epoch[5] Batch [170]	Speed: 1.47 samples/sec
+02-13 23:44:28 acc_ignore: 0.766828330084; IoU: 0.581420600691; SoftmaxLoss: 0.57407280283
+02-13 23:44:34 Epoch[5] Batch [180]	Speed: 1.51 samples/sec
+02-13 23:44:34 acc_ignore: 0.767400859423; IoU: 0.5802480232; SoftmaxLoss: 0.573681527322
+02-13 23:44:47 Epoch[5] Batch [190]	Speed: 0.77 samples/sec
+02-13 23:44:47 acc_ignore: 0.768064223386; IoU: 0.582609283712; SoftmaxLoss: 0.572190226422
+02-13 23:44:54 Epoch[5] Batch [200]	Speed: 1.45 samples/sec
+02-13 23:44:54 acc_ignore: 0.765756108347; IoU: 0.58041903466; SoftmaxLoss: 0.5769244891
+02-13 23:45:06 Epoch[5] Batch [210]	Speed: 0.82 samples/sec
+02-13 23:45:06 acc_ignore: 0.766482569774; IoU: 0.580761925469; SoftmaxLoss: 0.576059897787
+02-13 23:45:18 Epoch[5] Batch [220]	Speed: 0.84 samples/sec
+02-13 23:45:18 acc_ignore: 0.766671895425; IoU: 0.583885168657; SoftmaxLoss: 0.575360828797
+02-13 23:45:25 Epoch[5] Batch [230]	Speed: 1.43 samples/sec
+02-13 23:45:25 acc_ignore: 0.767307359307; IoU: 0.585070422599; SoftmaxLoss: 0.574205211715
+02-13 23:45:43 Epoch[5] Batch [240]	Speed: 0.56 samples/sec
+02-13 23:45:43 acc_ignore: 0.767790502536; IoU: 0.586945294031; SoftmaxLoss: 0.573679856789
+02-13 23:45:50 Epoch[5] Batch [250]	Speed: 1.46 samples/sec
+02-13 23:45:50 acc_ignore: 0.764384240815; IoU: 0.583131537169; SoftmaxLoss: 0.579542333444
+02-13 23:45:51 Epoch[5] Train-acc_ignore=0.764378
+02-13 23:45:51 Epoch[5] Train-IoU=0.583145
+02-13 23:45:51 Epoch[5] Train-SoftmaxLoss=0.579513
+02-13 23:45:51 Epoch[5] Time cost=244.064
+02-13 23:45:53 Saved checkpoint to "F:/Code/MyCode/CNN_Segmentation/Models/crossEx/Folder1\TusimpleDUC_Seg\2018_02_13_23_18_29\TusimpleDUC_Seg-0006.params"
+02-13 23:46:25 Epoch[5] Validation-acc_ignore=0.762913
+02-13 23:46:25 Epoch[5] Validation-IoU=0.566189
+02-13 23:46:25 Epoch[5] Validation-SoftmaxLoss=0.593997
+02-13 23:46:26 Update[1513]: Change learning rate to 2.50000e-05
+02-13 23:46:26 Epoch[6] Batch [0]	Speed: 0.28 samples/sec
+02-13 23:46:26 acc_ignore: 0.6976; IoU: 0.518013944121; SoftmaxLoss: 0.716049305556
+02-13 23:46:33 Epoch[6] Batch [10]	Speed: 1.45 samples/sec
+02-13 23:46:33 acc_ignore: 0.777519191919; IoU: 0.574654186028; SoftmaxLoss: 0.56685884233
+02-13 23:46:41 Epoch[6] Batch [20]	Speed: 1.19 samples/sec
+02-13 23:46:41 acc_ignore: 0.816169312169; IoU: 0.627555227635; SoftmaxLoss: 0.480445406023
+02-13 23:46:54 Epoch[6] Batch [30]	Speed: 0.80 samples/sec
+02-13 23:46:54 acc_ignore: 0.795268817204; IoU: 0.602116613534; SoftmaxLoss: 0.52523953678
+02-13 23:47:07 Epoch[6] Batch [40]	Speed: 0.77 samples/sec
+02-13 23:47:07 acc_ignore: 0.787594579946; IoU: 0.609598997656; SoftmaxLoss: 0.534390275396
+02-13 23:47:20 Epoch[6] Batch [50]	Speed: 0.77 samples/sec
+02-13 23:47:20 acc_ignore: 0.790877559913; IoU: 0.607645314759; SoftmaxLoss: 0.536105373221
+02-13 23:47:27 Epoch[6] Batch [60]	Speed: 1.34 samples/sec
+02-13 23:47:27 acc_ignore: 0.777177413479; IoU: 0.594867305158; SoftmaxLoss: 0.557682204683
+02-13 23:47:34 Epoch[6] Batch [70]	Speed: 1.45 samples/sec
+02-13 23:47:34 acc_ignore: 0.783959937402; IoU: 0.599699181723; SoftmaxLoss: 0.54442184581
+02-13 23:47:41 Epoch[6] Batch [80]	Speed: 1.50 samples/sec
+02-13 23:47:41 acc_ignore: 0.790204663923; IoU: 0.605606005871; SoftmaxLoss: 0.532609947943
+02-13 23:48:04 Epoch[6] Batch [90]	Speed: 0.43 samples/sec
+02-13 23:48:04 acc_ignore: 0.78383980464; IoU: 0.59721133118; SoftmaxLoss: 0.544864143701
+02-13 23:48:11 Epoch[6] Batch [100]	Speed: 1.44 samples/sec
+02-13 23:48:11 acc_ignore: 0.774072607261; IoU: 0.589793712994; SoftmaxLoss: 0.560748809969
+02-13 23:48:23 Epoch[6] Batch [110]	Speed: 0.82 samples/sec
+02-13 23:48:23 acc_ignore: 0.776920920921; IoU: 0.592307590213; SoftmaxLoss: 0.555183934814
+02-13 23:48:30 Epoch[6] Batch [120]	Speed: 1.44 samples/sec
+02-13 23:48:30 acc_ignore: 0.775487235996; IoU: 0.590256228236; SoftmaxLoss: 0.558918938766
+02-13 23:48:39 Epoch[6] Batch [130]	Speed: 1.09 samples/sec
+02-13 23:48:39 acc_ignore: 0.774831552163; IoU: 0.588566993524; SoftmaxLoss: 0.558483571469
+02-13 23:48:52 Epoch[6] Batch [140]	Speed: 0.76 samples/sec
+02-13 23:48:52 acc_ignore: 0.772116627266; IoU: 0.58774634223; SoftmaxLoss: 0.563140016053
+02-13 23:48:59 Epoch[6] Batch [150]	Speed: 1.44 samples/sec
+02-13 23:48:59 acc_ignore: 0.768881824871; IoU: 0.582968191917; SoftmaxLoss: 0.570261551678
+02-13 23:49:12 Epoch[6] Batch [160]	Speed: 0.78 samples/sec
+02-13 23:49:12 acc_ignore: 0.768796135266; IoU: 0.583208622427; SoftmaxLoss: 0.569964797719
+02-13 23:49:19 Epoch[6] Batch [170]	Speed: 1.45 samples/sec
+02-13 23:49:19 acc_ignore: 0.771268615984; IoU: 0.585510264956; SoftmaxLoss: 0.56539920993
+02-13 23:49:26 Epoch[6] Batch [180]	Speed: 1.45 samples/sec
+02-13 23:49:26 acc_ignore: 0.769624554942; IoU: 0.584958021244; SoftmaxLoss: 0.568346755163
+02-13 23:49:34 Epoch[6] Batch [190]	Speed: 1.18 samples/sec
+02-13 23:49:34 acc_ignore: 0.770689936009; IoU: 0.587847877506; SoftmaxLoss: 0.566864555553
+02-13 23:49:41 Epoch[6] Batch [200]	Speed: 1.46 samples/sec
+02-13 23:49:41 acc_ignore: 0.770954118297; IoU: 0.588623782776; SoftmaxLoss: 0.566117068466
+02-13 23:49:58 Epoch[6] Batch [210]	Speed: 0.59 samples/sec
+02-13 23:49:58 acc_ignore: 0.768747340706; IoU: 0.586231608477; SoftmaxLoss: 0.570785205978
+02-13 23:50:05 Epoch[6] Batch [220]	Speed: 1.41 samples/sec
+02-13 23:50:05 acc_ignore: 0.771386626445; IoU: 0.591530540505; SoftmaxLoss: 0.564772704366
+02-13 23:50:12 Epoch[6] Batch [230]	Speed: 1.45 samples/sec
+02-13 23:50:12 acc_ignore: 0.771911880712; IoU: 0.592412907539; SoftmaxLoss: 0.564026808355
+02-13 23:50:19 Epoch[6] Batch [240]	Speed: 1.44 samples/sec
+02-13 23:50:19 acc_ignore: 0.770865099124; IoU: 0.592223746065; SoftmaxLoss: 0.566363306733
+02-13 23:50:34 Epoch[6] Batch [250]	Speed: 0.68 samples/sec
+02-13 23:50:34 acc_ignore: 0.771119964586; IoU: 0.59338776182; SoftmaxLoss: 0.566296499851
+02-13 23:50:34 Epoch[6] Train-acc_ignore=0.771025
+02-13 23:50:34 Epoch[6] Train-IoU=0.593277
+02-13 23:50:34 Epoch[6] Train-SoftmaxLoss=0.566434
+02-13 23:50:34 Epoch[6] Time cost=249.407
+02-13 23:50:38 Saved checkpoint to "F:/Code/MyCode/CNN_Segmentation/Models/crossEx/Folder1\TusimpleDUC_Seg\2018_02_13_23_18_29\TusimpleDUC_Seg-0007.params"
+02-13 23:51:09 Epoch[6] Validation-acc_ignore=0.756453
+02-13 23:51:09 Epoch[6] Validation-IoU=0.561628
+02-13 23:51:09 Epoch[6] Validation-SoftmaxLoss=0.601621
+02-13 23:51:16 Epoch[7] Batch [0]	Speed: 0.24 samples/sec
+02-13 23:51:16 acc_ignore: 0.7184; IoU: 0.447374770569; SoftmaxLoss: 0.700345138889
+02-13 23:51:29 Epoch[7] Batch [10]	Speed: 0.78 samples/sec
+02-13 23:51:29 acc_ignore: 0.810036363636; IoU: 0.670785628103; SoftmaxLoss: 0.471307436671
+02-13 23:51:36 Epoch[7] Batch [20]	Speed: 1.43 samples/sec
+02-13 23:51:36 acc_ignore: 0.79508994709; IoU: 0.635944013458; SoftmaxLoss: 0.510320940807
+02-13 23:51:44 Epoch[7] Batch [30]	Speed: 1.13 samples/sec
+02-13 23:51:44 acc_ignore: 0.794110394265; IoU: 0.627979956049; SoftmaxLoss: 0.521436110411
+02-13 23:51:51 Epoch[7] Batch [40]	Speed: 1.47 samples/sec
+02-13 23:51:51 acc_ignore: 0.801062330623; IoU: 0.633053162848; SoftmaxLoss: 0.509789500498
+02-13 23:51:58 Epoch[7] Batch [50]	Speed: 1.45 samples/sec
+02-13 23:51:58 acc_ignore: 0.795844880174; IoU: 0.619525905103; SoftmaxLoss: 0.519125728699
+02-13 23:52:17 Epoch[7] Batch [60]	Speed: 0.53 samples/sec
+02-13 23:52:17 acc_ignore: 0.782070673953; IoU: 0.608210501976; SoftmaxLoss: 0.541971886562
+02-13 23:52:24 Epoch[7] Batch [70]	Speed: 1.47 samples/sec
+02-13 23:52:24 acc_ignore: 0.783020970266; IoU: 0.606744832216; SoftmaxLoss: 0.542376820624
+02-13 23:52:31 Epoch[7] Batch [80]	Speed: 1.49 samples/sec
+02-13 23:52:31 acc_ignore: 0.783659807956; IoU: 0.603944551724; SoftmaxLoss: 0.542233273989
+02-13 23:52:43 Epoch[7] Batch [90]	Speed: 0.80 samples/sec
+02-13 23:52:43 acc_ignore: 0.785855921856; IoU: 0.606527853322; SoftmaxLoss: 0.54289928135
+02-13 23:52:50 Epoch[7] Batch [100]	Speed: 1.44 samples/sec
+02-13 23:52:50 acc_ignore: 0.781817381738; IoU: 0.60301365363; SoftmaxLoss: 0.550693886332
+02-13 23:53:01 Epoch[7] Batch [110]	Speed: 0.93 samples/sec
+02-13 23:53:01 acc_ignore: 0.775112712713; IoU: 0.597662698024; SoftmaxLoss: 0.562675283975
+02-13 23:53:18 Epoch[7] Batch [120]	Speed: 0.57 samples/sec
+02-13 23:53:18 acc_ignore: 0.775550413223; IoU: 0.603796301654; SoftmaxLoss: 0.560688951034
+02-13 23:53:30 Epoch[7] Batch [130]	Speed: 0.81 samples/sec
+02-13 23:53:30 acc_ignore: 0.77285971162; IoU: 0.601258864051; SoftmaxLoss: 0.564995373214
+02-13 23:53:43 Epoch[7] Batch [140]	Speed: 0.81 samples/sec
+02-13 23:53:43 acc_ignore: 0.77502537431; IoU: 0.604436659701; SoftmaxLoss: 0.55968028121
+02-13 23:53:51 Epoch[7] Batch [150]	Speed: 1.29 samples/sec
+02-13 23:53:51 acc_ignore: 0.775965857248; IoU: 0.604580503229; SoftmaxLoss: 0.557752987678
+02-13 23:53:57 Epoch[7] Batch [160]	Speed: 1.47 samples/sec
+02-13 23:53:57 acc_ignore: 0.773688888889; IoU: 0.600864136833; SoftmaxLoss: 0.56122168946
+02-13 23:54:04 Epoch[7] Batch [170]	Speed: 1.43 samples/sec
+02-13 23:54:04 acc_ignore: 0.775349187784; IoU: 0.600442363414; SoftmaxLoss: 0.558856811634
+02-13 23:54:12 Epoch[7] Batch [180]	Speed: 1.39 samples/sec
+02-13 23:54:12 acc_ignore: 0.773257704113; IoU: 0.597469282814; SoftmaxLoss: 0.56447209603
+02-13 23:54:23 Epoch[7] Batch [190]	Speed: 0.84 samples/sec
+02-13 23:54:23 acc_ignore: 0.773000116347; IoU: 0.596937601566; SoftmaxLoss: 0.56404767494
+02-13 23:54:30 Epoch[7] Batch [200]	Speed: 1.46 samples/sec
+02-13 23:54:30 acc_ignore: 0.778042233278; IoU: 0.602586241707; SoftmaxLoss: 0.553703168241
+02-13 23:54:37 Epoch[7] Batch [210]	Speed: 1.44 samples/sec
+02-13 23:54:37 acc_ignore: 0.778686045287; IoU: 0.604329573815; SoftmaxLoss: 0.551503869995
+02-13 23:54:49 Epoch[7] Batch [220]	Speed: 0.82 samples/sec
+02-13 23:54:49 acc_ignore: 0.778828355958; IoU: 0.604661926481; SoftmaxLoss: 0.550532451187
+02-13 23:55:02 Epoch[7] Batch [230]	Speed: 0.83 samples/sec
+02-13 23:55:02 acc_ignore: 0.776327849928; IoU: 0.601024810968; SoftmaxLoss: 0.555216209012
+02-13 23:55:14 Epoch[7] Batch [240]	Speed: 0.82 samples/sec
+02-13 23:55:14 acc_ignore: 0.774035592439; IoU: 0.598684065366; SoftmaxLoss: 0.559343649912
+02-13 23:55:21 Epoch[7] Batch [250]	Speed: 1.41 samples/sec
+02-13 23:55:21 acc_ignore: 0.772964320496; IoU: 0.59719204645; SoftmaxLoss: 0.561914486369
+02-13 23:55:22 Epoch[7] Train-acc_ignore=0.772815
+02-13 23:55:22 Epoch[7] Train-IoU=0.597033
+02-13 23:55:22 Epoch[7] Train-SoftmaxLoss=0.562212
+02-13 23:55:22 Epoch[7] Time cost=252.033
+02-13 23:55:25 Saved checkpoint to "F:/Code/MyCode/CNN_Segmentation/Models/crossEx/Folder1\TusimpleDUC_Seg\2018_02_13_23_18_29\TusimpleDUC_Seg-0008.params"
+02-13 23:55:56 Epoch[7] Validation-acc_ignore=0.751848
+02-13 23:55:56 Epoch[7] Validation-IoU=0.555237
+02-13 23:55:56 Epoch[7] Validation-SoftmaxLoss=0.612032
+02-13 23:55:57 Epoch[8] Batch [0]	Speed: 0.28 samples/sec
+02-13 23:55:57 acc_ignore: 0.948444444444; IoU: 0.751278350375; SoftmaxLoss: 0.198739366319
+02-13 23:56:09 Epoch[8] Batch [10]	Speed: 0.83 samples/sec
+02-13 23:56:09 acc_ignore: 0.811539393939; IoU: 0.650928582464; SoftmaxLoss: 0.502520115215
+02-13 23:56:16 Epoch[8] Batch [20]	Speed: 1.45 samples/sec
+02-13 23:56:16 acc_ignore: 0.805917460317; IoU: 0.630421748003; SoftmaxLoss: 0.496982916873
+02-13 23:56:23 Epoch[8] Batch [30]	Speed: 1.44 samples/sec
+02-13 23:56:23 acc_ignore: 0.815833691756; IoU: 0.636827400999; SoftmaxLoss: 0.473479310176
+02-13 23:56:37 Epoch[8] Batch [40]	Speed: 0.71 samples/sec
+02-13 23:56:37 acc_ignore: 0.793821138211; IoU: 0.606076278551; SoftmaxLoss: 0.506898802189
+02-13 23:56:56 Epoch[8] Batch [50]	Speed: 0.54 samples/sec
+02-13 23:56:56 acc_ignore: 0.793906753813; IoU: 0.614628723278; SoftmaxLoss: 0.512417313666
+02-13 23:57:09 Epoch[8] Batch [60]	Speed: 0.74 samples/sec
+02-13 23:57:09 acc_ignore: 0.776090346084; IoU: 0.600599459969; SoftmaxLoss: 0.539168549529
+02-13 23:57:16 Epoch[8] Batch [70]	Speed: 1.43 samples/sec
+02-13 23:57:16 acc_ignore: 0.777840375587; IoU: 0.601642294603; SoftmaxLoss: 0.536513755166
+02-13 23:57:35 Epoch[8] Batch [80]	Speed: 0.52 samples/sec
+02-13 23:57:35 acc_ignore: 0.770559122085; IoU: 0.596246947158; SoftmaxLoss: 0.551182947129
+02-13 23:57:42 Epoch[8] Batch [90]	Speed: 1.51 samples/sec
+02-13 23:57:42 acc_ignore: 0.776687667888; IoU: 0.601449845934; SoftmaxLoss: 0.540480640811
+02-13 23:57:49 Epoch[8] Batch [100]	Speed: 1.50 samples/sec
+02-13 23:57:49 acc_ignore: 0.777027942794; IoU: 0.599308586215; SoftmaxLoss: 0.543183984268
+02-13 23:57:56 Epoch[8] Batch [110]	Speed: 1.35 samples/sec
+02-13 23:57:56 acc_ignore: 0.776712712713; IoU: 0.601250639213; SoftmaxLoss: 0.54488494344
+02-13 23:58:03 Epoch[8] Batch [120]	Speed: 1.42 samples/sec
+02-13 23:58:03 acc_ignore: 0.769730762167; IoU: 0.591802785294; SoftmaxLoss: 0.560758065653
+02-13 23:58:16 Epoch[8] Batch [130]	Speed: 0.76 samples/sec
+02-13 23:58:16 acc_ignore: 0.767446310433; IoU: 0.591028229144; SoftmaxLoss: 0.56553812114
+02-13 23:58:23 Epoch[8] Batch [140]	Speed: 1.44 samples/sec
+02-13 23:58:23 acc_ignore: 0.770328762805; IoU: 0.592144476617; SoftmaxLoss: 0.561902468956
+02-13 23:58:30 Epoch[8] Batch [150]	Speed: 1.40 samples/sec
+02-13 23:58:30 acc_ignore: 0.768103605592; IoU: 0.590076872216; SoftmaxLoss: 0.567658155339
+02-13 23:58:44 Epoch[8] Batch [160]	Speed: 0.75 samples/sec
+02-13 23:58:44 acc_ignore: 0.766138302277; IoU: 0.589640958869; SoftmaxLoss: 0.57152270983
+02-13 23:58:51 Epoch[8] Batch [170]	Speed: 1.43 samples/sec
+02-13 23:58:51 acc_ignore: 0.768631059129; IoU: 0.592240984777; SoftmaxLoss: 0.567786808792
+02-13 23:58:57 Epoch[8] Batch [180]	Speed: 1.45 samples/sec
+02-13 23:58:57 acc_ignore: 0.770039042357; IoU: 0.593979468515; SoftmaxLoss: 0.563873961151
+02-13 23:59:05 Epoch[8] Batch [190]	Speed: 1.42 samples/sec
+02-13 23:59:05 acc_ignore: 0.769231413613; IoU: 0.592356782986; SoftmaxLoss: 0.565607897885
+02-13 23:59:11 Epoch[8] Batch [200]	Speed: 1.43 samples/sec
+02-13 23:59:11 acc_ignore: 0.768100829187; IoU: 0.590944203549; SoftmaxLoss: 0.56808223331
+02-13 23:59:20 Epoch[8] Batch [210]	Speed: 1.21 samples/sec
+02-13 23:59:20 acc_ignore: 0.77078883623; IoU: 0.593641372537; SoftmaxLoss: 0.564039600458
+02-13 23:59:33 Epoch[8] Batch [220]	Speed: 0.78 samples/sec
+02-13 23:59:33 acc_ignore: 0.773461236802; IoU: 0.598119016456; SoftmaxLoss: 0.558995021618
+02-13 23:59:45 Epoch[8] Batch [230]	Speed: 0.78 samples/sec
+02-13 23:59:45 acc_ignore: 0.77231976912; IoU: 0.597466376833; SoftmaxLoss: 0.56117605085
+02-14 00:00:01 Epoch[8] Batch [240]	Speed: 0.64 samples/sec
+02-14 00:00:01 acc_ignore: 0.769771138774; IoU: 0.595416840375; SoftmaxLoss: 0.565575866232
+02-14 00:00:08 Epoch[8] Batch [250]	Speed: 1.45 samples/sec
+02-14 00:00:08 acc_ignore: 0.771432315184; IoU: 0.596117130862; SoftmaxLoss: 0.563869982721
+02-14 00:00:08 Epoch[8] Train-acc_ignore=0.772062
+02-14 00:00:08 Epoch[8] Train-IoU=0.596763
+02-14 00:00:08 Epoch[8] Train-SoftmaxLoss=0.562642
+02-14 00:00:08 Epoch[8] Time cost=252.393
+02-14 00:00:11 Saved checkpoint to "F:/Code/MyCode/CNN_Segmentation/Models/crossEx/Folder1\TusimpleDUC_Seg\2018_02_13_23_18_29\TusimpleDUC_Seg-0009.params"
+02-14 00:00:41 Epoch[8] Validation-acc_ignore=0.762632
+02-14 00:00:41 Epoch[8] Validation-IoU=0.558386
+02-14 00:00:41 Epoch[8] Validation-SoftmaxLoss=0.596028
+02-14 00:00:42 Update[2269]: Change learning rate to 1.25000e-05
+02-14 00:00:42 Epoch[9] Batch [0]	Speed: 0.29 samples/sec
+02-14 00:00:42 acc_ignore: 0.955733333333; IoU: 0.756775950094; SoftmaxLoss: 0.156238498264
+02-14 00:00:49 Epoch[9] Batch [10]	Speed: 1.46 samples/sec
+02-14 00:00:49 acc_ignore: 0.792985858586; IoU: 0.594053176368; SoftmaxLoss: 0.535748098169
+02-14 00:01:07 Epoch[9] Batch [20]	Speed: 0.54 samples/sec
+02-14 00:01:07 acc_ignore: 0.773291005291; IoU: 0.587511921275; SoftmaxLoss: 0.550155215567
+02-14 00:01:14 Epoch[9] Batch [30]	Speed: 1.47 samples/sec
+02-14 00:01:14 acc_ignore: 0.776246594982; IoU: 0.582242926033; SoftmaxLoss: 0.558121754592
+02-14 00:01:21 Epoch[9] Batch [40]	Speed: 1.48 samples/sec
+02-14 00:01:21 acc_ignore: 0.768524661247; IoU: 0.569005740781; SoftmaxLoss: 0.57137498518
+02-14 00:01:28 Epoch[9] Batch [50]	Speed: 1.47 samples/sec
+02-14 00:01:28 acc_ignore: 0.763635729847; IoU: 0.568885269957; SoftmaxLoss: 0.575738697406
+02-14 00:01:35 Epoch[9] Batch [60]	Speed: 1.47 samples/sec
+02-14 00:01:35 acc_ignore: 0.769148269581; IoU: 0.574036486468; SoftmaxLoss: 0.566350420509
+02-14 00:01:47 Epoch[9] Batch [70]	Speed: 0.83 samples/sec
+02-14 00:01:47 acc_ignore: 0.771868544601; IoU: 0.576607878993; SoftmaxLoss: 0.562866832636
+02-14 00:01:59 Epoch[9] Batch [80]	Speed: 0.81 samples/sec
+02-14 00:01:59 acc_ignore: 0.776515775034; IoU: 0.583686063969; SoftmaxLoss: 0.554610197375
+02-14 00:02:06 Epoch[9] Batch [90]	Speed: 1.47 samples/sec
+02-14 00:02:06 acc_ignore: 0.776312576313; IoU: 0.586613772886; SoftmaxLoss: 0.555538481928
+02-14 00:02:17 Epoch[9] Batch [100]	Speed: 0.85 samples/sec
+02-14 00:02:17 acc_ignore: 0.783466666667; IoU: 0.597708000127; SoftmaxLoss: 0.54127808525
+02-14 00:02:30 Epoch[9] Batch [110]	Speed: 0.81 samples/sec
+02-14 00:02:30 acc_ignore: 0.783271271271; IoU: 0.600789707201; SoftmaxLoss: 0.540859077437
+02-14 00:02:42 Epoch[9] Batch [120]	Speed: 0.81 samples/sec
+02-14 00:02:42 acc_ignore: 0.785743985308; IoU: 0.608145956395; SoftmaxLoss: 0.536360064243
+02-14 00:02:49 Epoch[9] Batch [130]	Speed: 1.46 samples/sec
+02-14 00:02:49 acc_ignore: 0.786472603902; IoU: 0.611734073854; SoftmaxLoss: 0.534214295252
+02-14 00:03:02 Epoch[9] Batch [140]	Speed: 0.80 samples/sec
+02-14 00:03:02 acc_ignore: 0.78414751773; IoU: 0.608647540202; SoftmaxLoss: 0.537742808452
+02-14 00:03:09 Epoch[9] Batch [150]	Speed: 1.35 samples/sec
+02-14 00:03:09 acc_ignore: 0.782334069169; IoU: 0.608717318371; SoftmaxLoss: 0.542133190837
+02-14 00:03:16 Epoch[9] Batch [160]	Speed: 1.45 samples/sec
+02-14 00:03:16 acc_ignore: 0.784819323671; IoU: 0.610888440609; SoftmaxLoss: 0.5377414109
+02-14 00:03:29 Epoch[9] Batch [170]	Speed: 0.76 samples/sec
+02-14 00:03:29 acc_ignore: 0.783759844055; IoU: 0.610927170518; SoftmaxLoss: 0.54051756169
+02-14 00:03:42 Epoch[9] Batch [180]	Speed: 0.79 samples/sec
+02-14 00:03:42 acc_ignore: 0.784154205034; IoU: 0.610402853793; SoftmaxLoss: 0.540697028528
+02-14 00:03:51 Epoch[9] Batch [190]	Speed: 1.06 samples/sec
+02-14 00:03:51 acc_ignore: 0.781280279232; IoU: 0.609367565004; SoftmaxLoss: 0.54495503103
+02-14 00:04:04 Epoch[9] Batch [200]	Speed: 0.79 samples/sec
+02-14 00:04:04 acc_ignore: 0.781808291874; IoU: 0.609440179846; SoftmaxLoss: 0.544987815966
+02-14 00:04:11 Epoch[9] Batch [210]	Speed: 1.44 samples/sec
+02-14 00:04:11 acc_ignore: 0.781104160084; IoU: 0.608389179342; SoftmaxLoss: 0.546380062852
+02-14 00:04:23 Epoch[9] Batch [220]	Speed: 0.82 samples/sec
+02-14 00:04:23 acc_ignore: 0.778904776269; IoU: 0.606346089642; SoftmaxLoss: 0.550042672393
+02-14 00:04:30 Epoch[9] Batch [230]	Speed: 1.40 samples/sec
+02-14 00:04:30 acc_ignore: 0.779316209716; IoU: 0.604994123064; SoftmaxLoss: 0.549704534933
+02-14 00:04:37 Epoch[9] Batch [240]	Speed: 1.40 samples/sec
+02-14 00:04:37 acc_ignore: 0.77955186722; IoU: 0.604037662483; SoftmaxLoss: 0.550251038515
+02-14 00:04:48 Epoch[9] Batch [250]	Speed: 0.91 samples/sec
+02-14 00:04:48 acc_ignore: 0.778241699867; IoU: 0.60294770571; SoftmaxLoss: 0.551652932541
+02-14 00:04:49 Epoch[9] Train-acc_ignore=0.777013
+02-14 00:04:49 Epoch[9] Train-IoU=0.601406
+02-14 00:04:49 Epoch[9] Train-SoftmaxLoss=0.553954
+02-14 00:04:49 Epoch[9] Time cost=247.550
+02-14 00:04:52 Saved checkpoint to "F:/Code/MyCode/CNN_Segmentation/Models/crossEx/Folder1\TusimpleDUC_Seg\2018_02_13_23_18_29\TusimpleDUC_Seg-0010.params"
+02-14 00:05:22 Epoch[9] Validation-acc_ignore=0.759785
+02-14 00:05:22 Epoch[9] Validation-IoU=0.558596
+02-14 00:05:22 Epoch[9] Validation-SoftmaxLoss=0.596655
+02-14 00:05:23 Epoch[10] Batch [0]	Speed: 0.28 samples/sec
+02-14 00:05:23 acc_ignore: 0.711288888889; IoU: 0.456056872134; SoftmaxLoss: 0.692137543403
+02-14 00:05:35 Epoch[10] Batch [10]	Speed: 0.87 samples/sec
+02-14 00:05:35 acc_ignore: 0.820945454545; IoU: 0.630701609928; SoftmaxLoss: 0.477635160196
+02-14 00:05:47 Epoch[10] Batch [20]	Speed: 0.80 samples/sec
+02-14 00:05:47 acc_ignore: 0.78653968254; IoU: 0.573830212332; SoftmaxLoss: 0.527502075066
+02-14 00:06:05 Epoch[10] Batch [30]	Speed: 0.58 samples/sec
+02-14 00:06:05 acc_ignore: 0.785318996416; IoU: 0.605426004498; SoftmaxLoss: 0.531576799465
+02-14 00:06:11 Epoch[10] Batch [40]	Speed: 1.45 samples/sec
+02-14 00:06:11 acc_ignore: 0.79149701897; IoU: 0.618586334627; SoftmaxLoss: 0.518420620289
+02-14 00:06:25 Epoch[10] Batch [50]	Speed: 0.75 samples/sec
+02-14 00:06:25 acc_ignore: 0.784059259259; IoU: 0.606527430606; SoftmaxLoss: 0.536867718333
+02-14 00:06:38 Epoch[10] Batch [60]	Speed: 0.77 samples/sec
+02-14 00:06:38 acc_ignore: 0.787981056466; IoU: 0.618511215566; SoftmaxLoss: 0.530885029421
+02-14 00:06:44 Epoch[10] Batch [70]	Speed: 1.49 samples/sec
+02-14 00:06:44 acc_ignore: 0.788554616588; IoU: 0.619153316137; SoftmaxLoss: 0.527623537143
+02-14 00:06:57 Epoch[10] Batch [80]	Speed: 0.82 samples/sec
+02-14 00:06:57 acc_ignore: 0.783244993141; IoU: 0.614077815207; SoftmaxLoss: 0.538796371849
+02-14 00:07:04 Epoch[10] Batch [90]	Speed: 1.45 samples/sec
+02-14 00:07:04 acc_ignore: 0.777605860806; IoU: 0.604556975134; SoftmaxLoss: 0.551582724741
+02-14 00:07:11 Epoch[10] Batch [100]	Speed: 1.40 samples/sec
+02-14 00:07:11 acc_ignore: 0.77801540154; IoU: 0.607502220007; SoftmaxLoss: 0.55195035861
+02-14 00:07:18 Epoch[10] Batch [110]	Speed: 1.47 samples/sec
+02-14 00:07:18 acc_ignore: 0.779103903904; IoU: 0.606493597466; SoftmaxLoss: 0.550568877667
+02-14 00:07:24 Epoch[10] Batch [120]	Speed: 1.45 samples/sec
+02-14 00:07:24 acc_ignore: 0.780498806244; IoU: 0.60917558778; SoftmaxLoss: 0.54630615602
+02-14 00:07:37 Epoch[10] Batch [130]	Speed: 0.81 samples/sec
+02-14 00:07:37 acc_ignore: 0.780565224767; IoU: 0.611550459816; SoftmaxLoss: 0.543489345529
+02-14 00:07:45 Epoch[10] Batch [140]	Speed: 1.19 samples/sec
+02-14 00:07:45 acc_ignore: 0.782937115839; IoU: 0.614919198939; SoftmaxLoss: 0.539336489962
+02-14 00:07:53 Epoch[10] Batch [150]	Speed: 1.29 samples/sec
+02-14 00:07:53 acc_ignore: 0.783122884474; IoU: 0.615200255444; SoftmaxLoss: 0.538917194183
+02-14 00:08:00 Epoch[10] Batch [160]	Speed: 1.46 samples/sec
+02-14 00:08:00 acc_ignore: 0.78455100069; IoU: 0.615952477358; SoftmaxLoss: 0.536838483639
+02-14 00:08:06 Epoch[10] Batch [170]	Speed: 1.49 samples/sec
+02-14 00:08:06 acc_ignore: 0.784164262508; IoU: 0.612592029858; SoftmaxLoss: 0.539915531532
+02-14 00:08:14 Epoch[10] Batch [180]	Speed: 1.39 samples/sec
+02-14 00:08:14 acc_ignore: 0.77968422345; IoU: 0.606443860465; SoftmaxLoss: 0.548037012678
+02-14 00:08:26 Epoch[10] Batch [190]	Speed: 0.81 samples/sec
+02-14 00:08:26 acc_ignore: 0.779791041303; IoU: 0.605861182756; SoftmaxLoss: 0.547361349201
+02-14 00:08:39 Epoch[10] Batch [200]	Speed: 0.78 samples/sec
+02-14 00:08:39 acc_ignore: 0.778410171365; IoU: 0.60547238895; SoftmaxLoss: 0.548435942844
+02-14 00:08:52 Epoch[10] Batch [210]	Speed: 0.76 samples/sec
+02-14 00:08:52 acc_ignore: 0.777621906266; IoU: 0.604547198629; SoftmaxLoss: 0.549764289028
+02-14 00:08:59 Epoch[10] Batch [220]	Speed: 1.48 samples/sec
+02-14 00:08:59 acc_ignore: 0.776427953746; IoU: 0.6029373438; SoftmaxLoss: 0.552547807571
+02-14 00:09:06 Epoch[10] Batch [230]	Speed: 1.46 samples/sec
+02-14 00:09:06 acc_ignore: 0.774971043771; IoU: 0.601073063204; SoftmaxLoss: 0.554773949972
+02-14 00:09:18 Epoch[10] Batch [240]	Speed: 0.81 samples/sec
+02-14 00:09:18 acc_ignore: 0.774898662978; IoU: 0.60075036514; SoftmaxLoss: 0.554816628577
+02-14 00:09:25 Epoch[10] Batch [250]	Speed: 1.47 samples/sec
+02-14 00:09:25 acc_ignore: 0.776157237716; IoU: 0.602022669481; SoftmaxLoss: 0.55256236054
+02-14 00:09:25 Epoch[10] Train-acc_ignore=0.776372
+02-14 00:09:25 Epoch[10] Train-IoU=0.602223
+02-14 00:09:25 Epoch[10] Train-SoftmaxLoss=0.552337
+02-14 00:09:25 Epoch[10] Time cost=242.741
+02-14 00:09:29 Saved checkpoint to "F:/Code/MyCode/CNN_Segmentation/Models/crossEx/Folder1\TusimpleDUC_Seg\2018_02_13_23_18_29\TusimpleDUC_Seg-0011.params"
+02-14 00:10:00 Epoch[10] Validation-acc_ignore=0.754695
+02-14 00:10:00 Epoch[10] Validation-IoU=0.557880
+02-14 00:10:00 Epoch[10] Validation-SoftmaxLoss=0.600031
+02-14 00:10:00 Epoch[11] Batch [0]	Speed: 0.28 samples/sec
+02-14 00:10:00 acc_ignore: 0.627733333333; IoU: 0.462777141699; SoftmaxLoss: 0.793227777778
+02-14 00:10:07 Epoch[11] Batch [10]	Speed: 1.48 samples/sec
+02-14 00:10:07 acc_ignore: 0.747846464646; IoU: 0.580374840302; SoftmaxLoss: 0.592213890862
+02-14 00:10:20 Epoch[11] Batch [20]	Speed: 0.76 samples/sec
+02-14 00:10:20 acc_ignore: 0.757324867725; IoU: 0.598550962534; SoftmaxLoss: 0.5839682364
+02-14 00:10:27 Epoch[11] Batch [30]	Speed: 1.46 samples/sec
+02-14 00:10:27 acc_ignore: 0.781889605735; IoU: 0.615875600042; SoftmaxLoss: 0.538014577033
+02-14 00:10:34 Epoch[11] Batch [40]	Speed: 1.47 samples/sec
+02-14 00:10:34 acc_ignore: 0.784355555556; IoU: 0.616719925661; SoftmaxLoss: 0.53653334339
+02-14 00:10:41 Epoch[11] Batch [50]	Speed: 1.42 samples/sec
+02-14 00:10:41 acc_ignore: 0.787677559913; IoU: 0.619704258437; SoftmaxLoss: 0.527696673305
+02-14 00:10:48 Epoch[11] Batch [60]	Speed: 1.49 samples/sec
+02-14 00:10:48 acc_ignore: 0.787127140255; IoU: 0.617972419516; SoftmaxLoss: 0.528959848873
+02-14 00:11:07 Epoch[11] Batch [70]	Speed: 0.52 samples/sec
+02-14 00:11:07 acc_ignore: 0.785602503912; IoU: 0.615771463807; SoftmaxLoss: 0.528735410248
+02-14 00:11:19 Epoch[11] Batch [80]	Speed: 0.82 samples/sec
+02-14 00:11:19 acc_ignore: 0.787296570645; IoU: 0.620834514; SoftmaxLoss: 0.528317961784
+02-14 00:11:26 Epoch[11] Batch [90]	Speed: 1.47 samples/sec
+02-14 00:11:26 acc_ignore: 0.786348229548; IoU: 0.616354379195; SoftmaxLoss: 0.530182975737
+02-14 00:11:33 Epoch[11] Batch [100]	Speed: 1.47 samples/sec
+02-14 00:11:33 acc_ignore: 0.782630583058; IoU: 0.609107905101; SoftmaxLoss: 0.539916551177
+02-14 00:11:39 Epoch[11] Batch [110]	Speed: 1.54 samples/sec
+02-14 00:11:39 acc_ignore: 0.781655255255; IoU: 0.607732705333; SoftmaxLoss: 0.542660924108
+02-14 00:11:51 Epoch[11] Batch [120]	Speed: 0.86 samples/sec
+02-14 00:11:51 acc_ignore: 0.785871808999; IoU: 0.613991027675; SoftmaxLoss: 0.534322901153
+02-14 00:11:57 Epoch[11] Batch [130]	Speed: 1.59 samples/sec
+02-14 00:11:57 acc_ignore: 0.785244444444; IoU: 0.611164929968; SoftmaxLoss: 0.53611090677
+02-14 00:12:08 Epoch[11] Batch [140]	Speed: 0.93 samples/sec
+02-14 00:12:08 acc_ignore: 0.788213711584; IoU: 0.614019136038; SoftmaxLoss: 0.532031460011
+02-14 00:12:14 Epoch[11] Batch [150]	Speed: 1.57 samples/sec
+02-14 00:12:14 acc_ignore: 0.791140544518; IoU: 0.61785119106; SoftmaxLoss: 0.527748225301
+02-14 00:12:21 Epoch[11] Batch [160]	Speed: 1.58 samples/sec
+02-14 00:12:21 acc_ignore: 0.78686652864; IoU: 0.612622589496; SoftmaxLoss: 0.534798183216
+02-14 00:12:31 Epoch[11] Batch [170]	Speed: 0.93 samples/sec
+02-14 00:12:31 acc_ignore: 0.786483690708; IoU: 0.614626866912; SoftmaxLoss: 0.535037958394
+02-14 00:12:38 Epoch[11] Batch [180]	Speed: 1.60 samples/sec
+02-14 00:12:38 acc_ignore: 0.783697483118; IoU: 0.610217762355; SoftmaxLoss: 0.538927556328
+02-14 00:12:44 Epoch[11] Batch [190]	Speed: 1.58 samples/sec
+02-14 00:12:44 acc_ignore: 0.778660151251; IoU: 0.604622304948; SoftmaxLoss: 0.547272101899
+02-14 00:13:01 Epoch[11] Batch [200]	Speed: 0.58 samples/sec
+02-14 00:13:01 acc_ignore: 0.778475621891; IoU: 0.604613519223; SoftmaxLoss: 0.546396463537
+02-14 00:13:08 Epoch[11] Batch [210]	Speed: 1.59 samples/sec
+02-14 00:13:08 acc_ignore: 0.776329436546; IoU: 0.602592655157; SoftmaxLoss: 0.551108652169
+02-14 00:13:14 Epoch[11] Batch [220]	Speed: 1.61 samples/sec
+02-14 00:13:14 acc_ignore: 0.776371644042; IoU: 0.602456052559; SoftmaxLoss: 0.550398176396
+02-14 00:13:25 Epoch[11] Batch [230]	Speed: 0.92 samples/sec
+02-14 00:13:25 acc_ignore: 0.775559018759; IoU: 0.600569149717; SoftmaxLoss: 0.552690099751
+02-14 00:13:36 Epoch[11] Batch [240]	Speed: 0.88 samples/sec
+02-14 00:13:36 acc_ignore: 0.776177040111; IoU: 0.600919253449; SoftmaxLoss: 0.550436182248
+02-14 00:13:47 Epoch[11] Batch [250]	Speed: 0.88 samples/sec
+02-14 00:13:47 acc_ignore: 0.77755396193; IoU: 0.604965158289; SoftmaxLoss: 0.548544120999
+02-14 00:13:48 Epoch[11] Train-acc_ignore=0.778248
+02-14 00:13:48 Epoch[11] Train-IoU=0.605585
+02-14 00:13:48 Epoch[11] Train-SoftmaxLoss=0.547144
+02-14 00:13:48 Epoch[11] Time cost=228.238
+02-14 00:13:51 Saved checkpoint to "F:/Code/MyCode/CNN_Segmentation/Models/crossEx/Folder1\TusimpleDUC_Seg\2018_02_13_23_18_29\TusimpleDUC_Seg-0012.params"
+02-14 00:14:20 Epoch[11] Validation-acc_ignore=0.754684
+02-14 00:14:20 Epoch[11] Validation-IoU=0.556251
+02-14 00:14:20 Epoch[11] Validation-SoftmaxLoss=0.601341
+02-14 00:14:21 Update[3025]: Change learning rate to 6.25000e-06
+02-14 00:14:21 Epoch[12] Batch [0]	Speed: 0.30 samples/sec
+02-14 00:14:21 acc_ignore: 0.706488888889; IoU: 0.495340489806; SoftmaxLoss: 0.635838498264
+02-14 00:14:29 Epoch[12] Batch [10]	Speed: 1.36 samples/sec
+02-14 00:14:29 acc_ignore: 0.799628282828; IoU: 0.63260953776; SoftmaxLoss: 0.509589427478
+02-14 00:14:41 Epoch[12] Batch [20]	Speed: 0.81 samples/sec
+02-14 00:14:41 acc_ignore: 0.784457142857; IoU: 0.618908098127; SoftmaxLoss: 0.536611709966
+02-14 00:14:53 Epoch[12] Batch [30]	Speed: 0.83 samples/sec
+02-14 00:14:53 acc_ignore: 0.794924731183; IoU: 0.63760862328; SoftmaxLoss: 0.516623015023
+02-14 00:15:05 Epoch[12] Batch [40]	Speed: 0.80 samples/sec
+02-14 00:15:05 acc_ignore: 0.793851490515; IoU: 0.635293099413; SoftmaxLoss: 0.522200316787
+02-14 00:15:12 Epoch[12] Batch [50]	Speed: 1.46 samples/sec
+02-14 00:15:12 acc_ignore: 0.784916775599; IoU: 0.622277923311; SoftmaxLoss: 0.531454240068
+02-14 00:15:19 Epoch[12] Batch [60]	Speed: 1.47 samples/sec
+02-14 00:15:19 acc_ignore: 0.789936612022; IoU: 0.622722262623; SoftmaxLoss: 0.524448624808
+02-14 00:15:32 Epoch[12] Batch [70]	Speed: 0.78 samples/sec
+02-14 00:15:32 acc_ignore: 0.784060093897; IoU: 0.613658098905; SoftmaxLoss: 0.531295971336
+02-14 00:15:39 Epoch[12] Batch [80]	Speed: 1.47 samples/sec
+02-14 00:15:39 acc_ignore: 0.781148971193; IoU: 0.613314209341; SoftmaxLoss: 0.537541085418
+02-14 00:15:46 Epoch[12] Batch [90]	Speed: 1.47 samples/sec
+02-14 00:15:46 acc_ignore: 0.779155067155; IoU: 0.609348408927; SoftmaxLoss: 0.540913694292
+02-14 00:15:52 Epoch[12] Batch [100]	Speed: 1.47 samples/sec
+02-14 00:15:52 acc_ignore: 0.772391639164; IoU: 0.600026747791; SoftmaxLoss: 0.553092136792
+02-14 00:15:59 Epoch[12] Batch [110]	Speed: 1.48 samples/sec
+02-14 00:15:59 acc_ignore: 0.770894094094; IoU: 0.596306655668; SoftmaxLoss: 0.557883955049
+02-14 00:16:05 Epoch[12] Batch [120]	Speed: 1.58 samples/sec
+02-14 00:16:05 acc_ignore: 0.771314600551; IoU: 0.59454010033; SoftmaxLoss: 0.557345079883
+02-14 00:16:12 Epoch[12] Batch [130]	Speed: 1.55 samples/sec
+02-14 00:16:12 acc_ignore: 0.773729601357; IoU: 0.595121001149; SoftmaxLoss: 0.55241559369
+02-14 00:16:18 Epoch[12] Batch [140]	Speed: 1.52 samples/sec
+02-14 00:16:18 acc_ignore: 0.776668242711; IoU: 0.598839519582; SoftmaxLoss: 0.544814875379
+02-14 00:16:30 Epoch[12] Batch [150]	Speed: 0.85 samples/sec
+02-14 00:16:30 acc_ignore: 0.774217512877; IoU: 0.5950400305; SoftmaxLoss: 0.550281244467
+02-14 00:16:47 Epoch[12] Batch [160]	Speed: 0.60 samples/sec
+02-14 00:16:47 acc_ignore: 0.776161214631; IoU: 0.602486505045; SoftmaxLoss: 0.54704042032
+02-14 00:16:54 Epoch[12] Batch [170]	Speed: 1.47 samples/sec
+02-14 00:16:54 acc_ignore: 0.778629239766; IoU: 0.605381819116; SoftmaxLoss: 0.54364484592
+02-14 00:17:06 Epoch[12] Batch [180]	Speed: 0.80 samples/sec
+02-14 00:17:06 acc_ignore: 0.781277348066; IoU: 0.607376321842; SoftmaxLoss: 0.540032890253
+02-14 00:17:19 Epoch[12] Batch [190]	Speed: 0.79 samples/sec
+02-14 00:17:19 acc_ignore: 0.782653170448; IoU: 0.60991703995; SoftmaxLoss: 0.537561923436
+02-14 00:17:29 Epoch[12] Batch [200]	Speed: 1.03 samples/sec
+02-14 00:17:29 acc_ignore: 0.780447982311; IoU: 0.607557346225; SoftmaxLoss: 0.541472965954
+02-14 00:17:52 Epoch[12] Batch [210]	Speed: 0.43 samples/sec
+02-14 00:17:52 acc_ignore: 0.779867298578; IoU: 0.607600326093; SoftmaxLoss: 0.543017731835
+02-14 00:18:02 Epoch[12] Batch [220]	Speed: 1.03 samples/sec
+02-14 00:18:02 acc_ignore: 0.781174057315; IoU: 0.609082491063; SoftmaxLoss: 0.541114434713
+02-14 00:18:08 Epoch[12] Batch [230]	Speed: 1.46 samples/sec
+02-14 00:18:08 acc_ignore: 0.781408754209; IoU: 0.608517992914; SoftmaxLoss: 0.540330596939
+02-14 00:18:15 Epoch[12] Batch [240]	Speed: 1.51 samples/sec
+02-14 00:18:15 acc_ignore: 0.779987090825; IoU: 0.606477636512; SoftmaxLoss: 0.543504433612
+02-14 00:18:23 Epoch[12] Batch [250]	Speed: 1.30 samples/sec
+02-14 00:18:23 acc_ignore: 0.7793416556; IoU: 0.606630135012; SoftmaxLoss: 0.5447720656
+02-14 00:18:23 Epoch[12] Train-acc_ignore=0.779324
+02-14 00:18:23 Epoch[12] Train-IoU=0.606985
+02-14 00:18:23 Epoch[12] Train-SoftmaxLoss=0.544796
+02-14 00:18:23 Epoch[12] Time cost=242.956
+02-14 00:18:26 Saved checkpoint to "F:/Code/MyCode/CNN_Segmentation/Models/crossEx/Folder1\TusimpleDUC_Seg\2018_02_13_23_18_29\TusimpleDUC_Seg-0013.params"
+02-14 00:18:58 Epoch[12] Validation-acc_ignore=0.753600
+02-14 00:18:58 Epoch[12] Validation-IoU=0.559021
+02-14 00:18:58 Epoch[12] Validation-SoftmaxLoss=0.601693
+02-14 00:19:04 Epoch[13] Batch [0]	Speed: 0.24 samples/sec
+02-14 00:19:04 acc_ignore: 0.640177777778; IoU: 0.442103948364; SoftmaxLoss: 0.794309895833
+02-14 00:19:11 Epoch[13] Batch [10]	Speed: 1.47 samples/sec
+02-14 00:19:11 acc_ignore: 0.789834343434; IoU: 0.602018063471; SoftmaxLoss: 0.526026818971
+02-14 00:19:18 Epoch[13] Batch [20]	Speed: 1.47 samples/sec
+02-14 00:19:18 acc_ignore: 0.780783068783; IoU: 0.593935870969; SoftmaxLoss: 0.550649697214
+02-14 00:19:25 Epoch[13] Batch [30]	Speed: 1.46 samples/sec
+02-14 00:19:25 acc_ignore: 0.78022078853; IoU: 0.583938689129; SoftmaxLoss: 0.559646020245
+02-14 00:19:36 Epoch[13] Batch [40]	Speed: 0.89 samples/sec
+02-14 00:19:36 acc_ignore: 0.772544173442; IoU: 0.586120510173; SoftmaxLoss: 0.567509718517
+02-14 00:19:43 Epoch[13] Batch [50]	Speed: 1.40 samples/sec
+02-14 00:19:43 acc_ignore: 0.760996949891; IoU: 0.576827287095; SoftmaxLoss: 0.589884520952
+02-14 00:19:56 Epoch[13] Batch [60]	Speed: 0.79 samples/sec
+02-14 00:19:56 acc_ignore: 0.776574134791; IoU: 0.597024171915; SoftmaxLoss: 0.559296620987
+02-14 00:20:08 Epoch[13] Batch [70]	Speed: 0.81 samples/sec
+02-14 00:20:08 acc_ignore: 0.779197496088; IoU: 0.604477664438; SoftmaxLoss: 0.554218218774
+02-14 00:20:20 Epoch[13] Batch [80]	Speed: 0.85 samples/sec
+02-14 00:20:20 acc_ignore: 0.7844521262; IoU: 0.61788239373; SoftmaxLoss: 0.545121317864
+02-14 00:20:27 Epoch[13] Batch [90]	Speed: 1.48 samples/sec
+02-14 00:20:27 acc_ignore: 0.786821001221; IoU: 0.618393644418; SoftmaxLoss: 0.540311982625
+02-14 00:20:33 Epoch[13] Batch [100]	Speed: 1.51 samples/sec
+02-14 00:20:33 acc_ignore: 0.783677887789; IoU: 0.610586678269; SoftmaxLoss: 0.546650201006
+02-14 00:20:40 Epoch[13] Batch [110]	Speed: 1.51 samples/sec
+02-14 00:20:40 acc_ignore: 0.786650650651; IoU: 0.614570018619; SoftmaxLoss: 0.540146439506
+02-14 00:20:52 Epoch[13] Batch [120]	Speed: 0.82 samples/sec
+02-14 00:20:52 acc_ignore: 0.786721028466; IoU: 0.617270141098; SoftmaxLoss: 0.539582235978
+02-14 00:20:59 Epoch[13] Batch [130]	Speed: 1.51 samples/sec
+02-14 00:20:59 acc_ignore: 0.785959626802; IoU: 0.615422992483; SoftmaxLoss: 0.540678697436
+02-14 00:21:11 Epoch[13] Batch [140]	Speed: 0.79 samples/sec
+02-14 00:21:11 acc_ignore: 0.785945468873; IoU: 0.617500579178; SoftmaxLoss: 0.539737520393
+02-14 00:21:18 Epoch[13] Batch [150]	Speed: 1.47 samples/sec
+02-14 00:21:18 acc_ignore: 0.788217218543; IoU: 0.618440615499; SoftmaxLoss: 0.536798958405
+02-14 00:21:25 Epoch[13] Batch [160]	Speed: 1.48 samples/sec
+02-14 00:21:25 acc_ignore: 0.787949758454; IoU: 0.617010952005; SoftmaxLoss: 0.536427579163
+02-14 00:21:32 Epoch[13] Batch [170]	Speed: 1.48 samples/sec
+02-14 00:21:32 acc_ignore: 0.789590123457; IoU: 0.617206497099; SoftmaxLoss: 0.533193819609
+02-14 00:21:44 Epoch[13] Batch [180]	Speed: 0.82 samples/sec
+02-14 00:21:44 acc_ignore: 0.788603560467; IoU: 0.617892133925; SoftmaxLoss: 0.533897652114
+02-14 00:22:02 Epoch[13] Batch [190]	Speed: 0.57 samples/sec
+02-14 00:22:02 acc_ignore: 0.786810936591; IoU: 0.616294298742; SoftmaxLoss: 0.536100399317
+02-14 00:22:08 Epoch[13] Batch [200]	Speed: 1.45 samples/sec
+02-14 00:22:08 acc_ignore: 0.785472636816; IoU: 0.614711271446; SoftmaxLoss: 0.536948642907
+02-14 00:22:15 Epoch[13] Batch [210]	Speed: 1.47 samples/sec
+02-14 00:22:15 acc_ignore: 0.785818220116; IoU: 0.614610111968; SoftmaxLoss: 0.536778667586
+02-14 00:22:34 Epoch[13] Batch [220]	Speed: 0.54 samples/sec
+02-14 00:22:34 acc_ignore: 0.78052166918; IoU: 0.608258338021; SoftmaxLoss: 0.544485898958
+02-14 00:22:41 Epoch[13] Batch [230]	Speed: 1.36 samples/sec
+02-14 00:22:41 acc_ignore: 0.780171236171; IoU: 0.607842365801; SoftmaxLoss: 0.544843554265
+02-14 00:22:54 Epoch[13] Batch [240]	Speed: 0.80 samples/sec
+02-14 00:22:54 acc_ignore: 0.781220470263; IoU: 0.608958867144; SoftmaxLoss: 0.542837762443
+02-14 00:23:00 Epoch[13] Batch [250]	Speed: 1.48 samples/sec
+02-14 00:23:00 acc_ignore: 0.780384240815; IoU: 0.607971479122; SoftmaxLoss: 0.543931132977
+02-14 00:23:01 Epoch[13] Train-acc_ignore=0.780111
+02-14 00:23:01 Epoch[13] Train-IoU=0.607867
+02-14 00:23:01 Epoch[13] Train-SoftmaxLoss=0.544372
+02-14 00:23:01 Epoch[13] Time cost=242.456
+02-14 00:23:04 Saved checkpoint to "F:/Code/MyCode/CNN_Segmentation/Models/crossEx/Folder1\TusimpleDUC_Seg\2018_02_13_23_18_29\TusimpleDUC_Seg-0014.params"
+02-14 00:23:34 Epoch[13] Validation-acc_ignore=0.757778
+02-14 00:23:34 Epoch[13] Validation-IoU=0.561406
+02-14 00:23:34 Epoch[13] Validation-SoftmaxLoss=0.597669
+02-14 00:23:35 Epoch[14] Batch [0]	Speed: 0.29 samples/sec
+02-14 00:23:35 acc_ignore: 0.761955555556; IoU: 0.599916054644; SoftmaxLoss: 0.536328428819
+02-14 00:23:42 Epoch[14] Batch [10]	Speed: 1.44 samples/sec
+02-14 00:23:42 acc_ignore: 0.807563636364; IoU: 0.620981874987; SoftmaxLoss: 0.474021229877
+02-14 00:24:06 Epoch[14] Batch [20]	Speed: 0.42 samples/sec
+02-14 00:24:06 acc_ignore: 0.762294179894; IoU: 0.588121552656; SoftmaxLoss: 0.559472248057
+02-14 00:24:19 Epoch[14] Batch [30]	Speed: 0.79 samples/sec
+02-14 00:24:19 acc_ignore: 0.768688172043; IoU: 0.601889529009; SoftmaxLoss: 0.557353991305
+02-14 00:24:31 Epoch[14] Batch [40]	Speed: 0.80 samples/sec
+02-14 00:24:31 acc_ignore: 0.770311111111; IoU: 0.607772292216; SoftmaxLoss: 0.55741018245
+02-14 00:24:38 Epoch[14] Batch [50]	Speed: 1.46 samples/sec
+02-14 00:24:38 acc_ignore: 0.780946405229; IoU: 0.619912035588; SoftmaxLoss: 0.538461704921
+02-14 00:24:45 Epoch[14] Batch [60]	Speed: 1.43 samples/sec
+02-14 00:24:45 acc_ignore: 0.787071766849; IoU: 0.625453779235; SoftmaxLoss: 0.524901817936
+02-14 00:24:52 Epoch[14] Batch [70]	Speed: 1.45 samples/sec
+02-14 00:24:52 acc_ignore: 0.788672300469; IoU: 0.625485461582; SoftmaxLoss: 0.524537358482
+02-14 00:25:04 Epoch[14] Batch [80]	Speed: 0.82 samples/sec
+02-14 00:25:04 acc_ignore: 0.785951165981; IoU: 0.618956649953; SoftmaxLoss: 0.528741408929
+02-14 00:25:17 Epoch[14] Batch [90]	Speed: 0.81 samples/sec
+02-14 00:25:17 acc_ignore: 0.788526495726; IoU: 0.62047505616; SoftmaxLoss: 0.524988983803
+02-14 00:25:24 Epoch[14] Batch [100]	Speed: 1.38 samples/sec
+02-14 00:25:24 acc_ignore: 0.790667546755; IoU: 0.621808411758; SoftmaxLoss: 0.52173019845
+02-14 00:25:31 Epoch[14] Batch [110]	Speed: 1.44 samples/sec
+02-14 00:25:31 acc_ignore: 0.790046046046; IoU: 0.618955543302; SoftmaxLoss: 0.525378229792
+02-14 00:25:38 Epoch[14] Batch [120]	Speed: 1.41 samples/sec
+02-14 00:25:38 acc_ignore: 0.790801101928; IoU: 0.617002777492; SoftmaxLoss: 0.525651074398
+02-14 00:25:50 Epoch[14] Batch [130]	Speed: 0.81 samples/sec
+02-14 00:25:50 acc_ignore: 0.790488210348; IoU: 0.618452073142; SoftmaxLoss: 0.525401212876
+02-14 00:25:57 Epoch[14] Batch [140]	Speed: 1.41 samples/sec
+02-14 00:25:57 acc_ignore: 0.788380141844; IoU: 0.61566340178; SoftmaxLoss: 0.527805866532
+02-14 00:26:06 Epoch[14] Batch [150]	Speed: 1.12 samples/sec
+02-14 00:26:06 acc_ignore: 0.784532155997; IoU: 0.612254284549; SoftmaxLoss: 0.533865011972
+02-14 00:26:18 Epoch[14] Batch [160]	Speed: 0.82 samples/sec
+02-14 00:26:18 acc_ignore: 0.787084057971; IoU: 0.61332038979; SoftmaxLoss: 0.529927060823
+02-14 00:26:25 Epoch[14] Batch [170]	Speed: 1.42 samples/sec
+02-14 00:26:25 acc_ignore: 0.784446003899; IoU: 0.612087786218; SoftmaxLoss: 0.53502106234
+02-14 00:26:33 Epoch[14] Batch [180]	Speed: 1.33 samples/sec
+02-14 00:26:33 acc_ignore: 0.782956906077; IoU: 0.610947388733; SoftmaxLoss: 0.537032575403
+02-14 00:26:40 Epoch[14] Batch [190]	Speed: 1.35 samples/sec
+02-14 00:26:40 acc_ignore: 0.786508435137; IoU: 0.614584019913; SoftmaxLoss: 0.530769816549
+02-14 00:26:47 Epoch[14] Batch [200]	Speed: 1.42 samples/sec
+02-14 00:26:47 acc_ignore: 0.784710226645; IoU: 0.611444787887; SoftmaxLoss: 0.533798599667
+02-14 00:26:59 Epoch[14] Batch [210]	Speed: 0.83 samples/sec
+02-14 00:26:59 acc_ignore: 0.784210637177; IoU: 0.612153494142; SoftmaxLoss: 0.534915721371
+02-14 00:27:08 Epoch[14] Batch [220]	Speed: 1.24 samples/sec
+02-14 00:27:08 acc_ignore: 0.785825238813; IoU: 0.615157137692; SoftmaxLoss: 0.532208501544
+02-14 00:27:15 Epoch[14] Batch [230]	Speed: 1.43 samples/sec
+02-14 00:27:15 acc_ignore: 0.785944781145; IoU: 0.614194230822; SoftmaxLoss: 0.532895347354
+02-14 00:27:21 Epoch[14] Batch [240]	Speed: 1.45 samples/sec
+02-14 00:27:21 acc_ignore: 0.782982757031; IoU: 0.610368445666; SoftmaxLoss: 0.53836791202
+02-14 00:27:40 Epoch[14] Batch [250]	Speed: 0.55 samples/sec
+02-14 00:27:40 acc_ignore: 0.781876582559; IoU: 0.610169829907; SoftmaxLoss: 0.541122827267
+02-14 00:27:40 Epoch[14] Train-acc_ignore=0.781987
+02-14 00:27:40 Epoch[14] Train-IoU=0.610141
+02-14 00:27:40 Epoch[14] Train-SoftmaxLoss=0.540470
+02-14 00:27:40 Epoch[14] Time cost=245.783
+02-14 00:27:43 Saved checkpoint to "F:/Code/MyCode/CNN_Segmentation/Models/crossEx/Folder1\TusimpleDUC_Seg\2018_02_13_23_18_29\TusimpleDUC_Seg-0015.params"
+02-14 00:28:15 Epoch[14] Validation-acc_ignore=0.758219
+02-14 00:28:15 Epoch[14] Validation-IoU=0.560233
+02-14 00:28:15 Epoch[14] Validation-SoftmaxLoss=0.596228
+02-14 00:28:15 Update[3781]: Change learning rate to 3.12500e-06
+02-14 00:28:15 Epoch[15] Batch [0]	Speed: 0.28 samples/sec
+02-14 00:28:15 acc_ignore: 0.819377777778; IoU: 0.577584849715; SoftmaxLoss: 0.448250260417
+02-14 00:28:22 Epoch[15] Batch [10]	Speed: 1.46 samples/sec
+02-14 00:28:22 acc_ignore: 0.808145454545; IoU: 0.590420078831; SoftmaxLoss: 0.494248709754
+02-14 00:28:34 Epoch[15] Batch [20]	Speed: 0.81 samples/sec
+02-14 00:28:34 acc_ignore: 0.792744973545; IoU: 0.60864302372; SoftmaxLoss: 0.518372047578
+02-14 00:28:41 Epoch[15] Batch [30]	Speed: 1.46 samples/sec
+02-14 00:28:41 acc_ignore: 0.812140501792; IoU: 0.637196715452; SoftmaxLoss: 0.477360714536
+02-14 00:28:49 Epoch[15] Batch [40]	Speed: 1.36 samples/sec
+02-14 00:28:49 acc_ignore: 0.807475338753; IoU: 0.634071439034; SoftmaxLoss: 0.488398393833
+02-14 00:28:55 Epoch[15] Batch [50]	Speed: 1.46 samples/sec
+02-14 00:28:55 acc_ignore: 0.808013943355; IoU: 0.632482558639; SoftmaxLoss: 0.489029007736
+02-14 00:29:08 Epoch[15] Batch [60]	Speed: 0.80 samples/sec
+02-14 00:29:08 acc_ignore: 0.808498360656; IoU: 0.635631539306; SoftmaxLoss: 0.492212923711
+02-14 00:29:15 Epoch[15] Batch [70]	Speed: 1.42 samples/sec
+02-14 00:29:15 acc_ignore: 0.803220031299; IoU: 0.626433491557; SoftmaxLoss: 0.505435751051
+02-14 00:29:22 Epoch[15] Batch [80]	Speed: 1.39 samples/sec
+02-14 00:29:22 acc_ignore: 0.79940521262; IoU: 0.623613459993; SoftmaxLoss: 0.510530583553
+02-14 00:29:34 Epoch[15] Batch [90]	Speed: 0.86 samples/sec
+02-14 00:29:34 acc_ignore: 0.791154090354; IoU: 0.616810068611; SoftmaxLoss: 0.525703489273
+02-14 00:29:54 Epoch[15] Batch [100]	Speed: 0.50 samples/sec
+02-14 00:29:54 acc_ignore: 0.787319691969; IoU: 0.612939752907; SoftmaxLoss: 0.531346323978
+02-14 00:30:01 Epoch[15] Batch [110]	Speed: 1.49 samples/sec
+02-14 00:30:01 acc_ignore: 0.787714114114; IoU: 0.614260102128; SoftmaxLoss: 0.528243680692
+02-14 00:30:08 Epoch[15] Batch [120]	Speed: 1.44 samples/sec
+02-14 00:30:08 acc_ignore: 0.788832323232; IoU: 0.613160830024; SoftmaxLoss: 0.52719176504
+02-14 00:30:16 Epoch[15] Batch [130]	Speed: 1.26 samples/sec
+02-14 00:30:16 acc_ignore: 0.789797455471; IoU: 0.614298345185; SoftmaxLoss: 0.525516221291
+02-14 00:30:28 Epoch[15] Batch [140]	Speed: 0.82 samples/sec
+02-14 00:30:28 acc_ignore: 0.78850748621; IoU: 0.614530751626; SoftmaxLoss: 0.528049578824
+02-14 00:30:35 Epoch[15] Batch [150]	Speed: 1.43 samples/sec
+02-14 00:30:35 acc_ignore: 0.787302428256; IoU: 0.613088433337; SoftmaxLoss: 0.530587957669
+02-14 00:30:47 Epoch[15] Batch [160]	Speed: 0.79 samples/sec
+02-14 00:30:47 acc_ignore: 0.786196273292; IoU: 0.61260934123; SoftmaxLoss: 0.53315949948
+02-14 00:31:00 Epoch[15] Batch [170]	Speed: 0.79 samples/sec
+02-14 00:31:00 acc_ignore: 0.785681091618; IoU: 0.612300728119; SoftmaxLoss: 0.534543636734
+02-14 00:31:07 Epoch[15] Batch [180]	Speed: 1.44 samples/sec
+02-14 00:31:07 acc_ignore: 0.785696255371; IoU: 0.611613863976; SoftmaxLoss: 0.534549914453
+02-14 00:31:19 Epoch[15] Batch [190]	Speed: 0.81 samples/sec
+02-14 00:31:19 acc_ignore: 0.78407539267; IoU: 0.609922403405; SoftmaxLoss: 0.539127102706
+02-14 00:31:26 Epoch[15] Batch [200]	Speed: 1.49 samples/sec
+02-14 00:31:26 acc_ignore: 0.784792482034; IoU: 0.610560474965; SoftmaxLoss: 0.538416969244
+02-14 00:31:43 Epoch[15] Batch [210]	Speed: 0.57 samples/sec
+02-14 00:31:43 acc_ignore: 0.783426224329; IoU: 0.611670267879; SoftmaxLoss: 0.53943852791
+02-14 00:31:55 Epoch[15] Batch [220]	Speed: 0.83 samples/sec
+02-14 00:31:55 acc_ignore: 0.782163499246; IoU: 0.610526091598; SoftmaxLoss: 0.540382577934
+02-14 00:32:08 Epoch[15] Batch [230]	Speed: 0.79 samples/sec
+02-14 00:32:08 acc_ignore: 0.781011640212; IoU: 0.610449751106; SoftmaxLoss: 0.541404211314
+02-14 00:32:15 Epoch[15] Batch [240]	Speed: 1.45 samples/sec
+02-14 00:32:15 acc_ignore: 0.779860949746; IoU: 0.607975887857; SoftmaxLoss: 0.544195778877
+02-14 00:32:22 Epoch[15] Batch [250]	Speed: 1.46 samples/sec
+02-14 00:32:22 acc_ignore: 0.77932394865; IoU: 0.607037545776; SoftmaxLoss: 0.545036215922
+02-14 00:32:22 Epoch[15] Train-acc_ignore=0.779429
+02-14 00:32:22 Epoch[15] Train-IoU=0.606978
+02-14 00:32:22 Epoch[15] Train-SoftmaxLoss=0.545091
+02-14 00:32:22 Epoch[15] Time cost=247.846
+02-14 00:32:26 Saved checkpoint to "F:/Code/MyCode/CNN_Segmentation/Models/crossEx/Folder1\TusimpleDUC_Seg\2018_02_13_23_18_29\TusimpleDUC_Seg-0016.params"
+02-14 00:32:56 Epoch[15] Validation-acc_ignore=0.757881
+02-14 00:32:56 Epoch[15] Validation-IoU=0.561832
+02-14 00:32:56 Epoch[15] Validation-SoftmaxLoss=0.595932
+02-14 00:32:57 Epoch[16] Batch [0]	Speed: 0.28 samples/sec
+02-14 00:32:57 acc_ignore: 0.885333333333; IoU: 0.517825361893; SoftmaxLoss: 0.35392280816
+02-14 00:33:04 Epoch[16] Batch [10]	Speed: 1.45 samples/sec
+02-14 00:33:04 acc_ignore: 0.744549494949; IoU: 0.538192920517; SoftmaxLoss: 0.615800449811
+02-14 00:33:11 Epoch[16] Batch [20]	Speed: 1.49 samples/sec
+02-14 00:33:11 acc_ignore: 0.751602116402; IoU: 0.557775517844; SoftmaxLoss: 0.609338680142
+02-14 00:33:23 Epoch[16] Batch [30]	Speed: 0.79 samples/sec
+02-14 00:33:23 acc_ignore: 0.761485304659; IoU: 0.580290676591; SoftmaxLoss: 0.584676048667
+02-14 00:33:43 Epoch[16] Batch [40]	Speed: 0.50 samples/sec
+02-14 00:33:43 acc_ignore: 0.76908401084; IoU: 0.603533502467; SoftmaxLoss: 0.569881661268
+02-14 00:33:50 Epoch[16] Batch [50]	Speed: 1.43 samples/sec
+02-14 00:33:50 acc_ignore: 0.77117211329; IoU: 0.607906998402; SoftmaxLoss: 0.565063412309
+02-14 00:33:57 Epoch[16] Batch [60]	Speed: 1.43 samples/sec
+02-14 00:33:57 acc_ignore: 0.771010564663; IoU: 0.60383538893; SoftmaxLoss: 0.564848932007
+02-14 00:34:05 Epoch[16] Batch [70]	Speed: 1.30 samples/sec
+02-14 00:34:05 acc_ignore: 0.771330203443; IoU: 0.603789411446; SoftmaxLoss: 0.56206639708
+02-14 00:34:18 Epoch[16] Batch [80]	Speed: 0.76 samples/sec
+02-14 00:34:18 acc_ignore: 0.775890260631; IoU: 0.60742036135; SoftmaxLoss: 0.553003318973
+02-14 00:34:25 Epoch[16] Batch [90]	Speed: 1.51 samples/sec
+02-14 00:34:25 acc_ignore: 0.779633699634; IoU: 0.610121079344; SoftmaxLoss: 0.548232744176
+02-14 00:34:32 Epoch[16] Batch [100]	Speed: 1.42 samples/sec
+02-14 00:34:32 acc_ignore: 0.781674807481; IoU: 0.609840461648; SoftmaxLoss: 0.544494064026
+02-14 00:34:39 Epoch[16] Batch [110]	Speed: 1.43 samples/sec
+02-14 00:34:39 acc_ignore: 0.786074074074; IoU: 0.613905218246; SoftmaxLoss: 0.534751484004
+02-14 00:34:46 Epoch[16] Batch [120]	Speed: 1.45 samples/sec
+02-14 00:34:46 acc_ignore: 0.783732598714; IoU: 0.610642770432; SoftmaxLoss: 0.537312693071
+02-14 00:34:57 Epoch[16] Batch [130]	Speed: 0.85 samples/sec
+02-14 00:34:57 acc_ignore: 0.785274300254; IoU: 0.613008353932; SoftmaxLoss: 0.534635211663
+02-14 00:35:04 Epoch[16] Batch [140]	Speed: 1.48 samples/sec
+02-14 00:35:04 acc_ignore: 0.786728447597; IoU: 0.61296592039; SoftmaxLoss: 0.533017944047
+02-14 00:35:16 Epoch[16] Batch [150]	Speed: 0.84 samples/sec
+02-14 00:35:16 acc_ignore: 0.78630522443; IoU: 0.611064103513; SoftmaxLoss: 0.533500596213
+02-14 00:35:23 Epoch[16] Batch [160]	Speed: 1.48 samples/sec
+02-14 00:35:23 acc_ignore: 0.78604278813; IoU: 0.613864138976; SoftmaxLoss: 0.53221510875
+02-14 00:35:34 Epoch[16] Batch [170]	Speed: 0.85 samples/sec
+02-14 00:35:34 acc_ignore: 0.785398310591; IoU: 0.615125924546; SoftmaxLoss: 0.532907409819
+02-14 00:35:41 Epoch[16] Batch [180]	Speed: 1.52 samples/sec
+02-14 00:35:41 acc_ignore: 0.787697974217; IoU: 0.617333382021; SoftmaxLoss: 0.528242752216
+02-14 00:35:53 Epoch[16] Batch [190]	Speed: 0.84 samples/sec
+02-14 00:35:53 acc_ignore: 0.790984525887; IoU: 0.621272569754; SoftmaxLoss: 0.522586322217
+02-14 00:36:05 Epoch[16] Batch [200]	Speed: 0.83 samples/sec
+02-14 00:36:05 acc_ignore: 0.788053510227; IoU: 0.618071953484; SoftmaxLoss: 0.528292825586
+02-14 00:36:23 Epoch[16] Batch [210]	Speed: 0.57 samples/sec
+02-14 00:36:23 acc_ignore: 0.784460031596; IoU: 0.613496747455; SoftmaxLoss: 0.534362935673
+02-14 00:36:29 Epoch[16] Batch [220]	Speed: 1.49 samples/sec
+02-14 00:36:29 acc_ignore: 0.782565711413; IoU: 0.611032354945; SoftmaxLoss: 0.538579302963
+02-14 00:36:36 Epoch[16] Batch [230]	Speed: 1.46 samples/sec
+02-14 00:36:36 acc_ignore: 0.785226743627; IoU: 0.613323259254; SoftmaxLoss: 0.534374935225
+02-14 00:36:43 Epoch[16] Batch [240]	Speed: 1.43 samples/sec
+02-14 00:36:43 acc_ignore: 0.783904840941; IoU: 0.611887297187; SoftmaxLoss: 0.537880331023
+02-14 00:36:55 Epoch[16] Batch [250]	Speed: 0.84 samples/sec
+02-14 00:36:55 acc_ignore: 0.779901903497; IoU: 0.606611546491; SoftmaxLoss: 0.54459149552
+02-14 00:36:56 Epoch[16] Train-acc_ignore=0.780062
+02-14 00:36:56 Epoch[16] Train-IoU=0.606679
+02-14 00:36:56 Epoch[16] Train-SoftmaxLoss=0.544206
+02-14 00:36:56 Epoch[16] Time cost=239.425
+02-14 00:36:59 Saved checkpoint to "F:/Code/MyCode/CNN_Segmentation/Models/crossEx/Folder1\TusimpleDUC_Seg\2018_02_13_23_18_29\TusimpleDUC_Seg-0017.params"
+02-14 00:37:30 Epoch[16] Validation-acc_ignore=0.754225
+02-14 00:37:30 Epoch[16] Validation-IoU=0.559561
+02-14 00:37:30 Epoch[16] Validation-SoftmaxLoss=0.599548
+02-14 00:37:31 Epoch[17] Batch [0]	Speed: 0.28 samples/sec
+02-14 00:37:31 acc_ignore: 0.908977777778; IoU: 0.572656720977; SoftmaxLoss: 0.31052280816
+02-14 00:37:43 Epoch[17] Batch [10]	Speed: 0.83 samples/sec
+02-14 00:37:43 acc_ignore: 0.803894949495; IoU: 0.657219551063; SoftmaxLoss: 0.499154090219
+02-14 00:38:01 Epoch[17] Batch [20]	Speed: 0.57 samples/sec
+02-14 00:38:01 acc_ignore: 0.781798941799; IoU: 0.642404709973; SoftmaxLoss: 0.530211134104
+02-14 00:38:07 Epoch[17] Batch [30]	Speed: 1.48 samples/sec
+02-14 00:38:07 acc_ignore: 0.791736200717; IoU: 0.645466163366; SoftmaxLoss: 0.519053258184
+02-14 00:38:14 Epoch[17] Batch [40]	Speed: 1.43 samples/sec
+02-14 00:38:14 acc_ignore: 0.78406504065; IoU: 0.626957970565; SoftmaxLoss: 0.534392400412
+02-14 00:38:21 Epoch[17] Batch [50]	Speed: 1.44 samples/sec
+02-14 00:38:21 acc_ignore: 0.772071459695; IoU: 0.611905392176; SoftmaxLoss: 0.559230856077
+02-14 00:38:33 Epoch[17] Batch [60]	Speed: 0.83 samples/sec
+02-14 00:38:33 acc_ignore: 0.76610856102; IoU: 0.605101544373; SoftmaxLoss: 0.56948568073
+02-14 00:38:45 Epoch[17] Batch [70]	Speed: 0.84 samples/sec
+02-14 00:38:45 acc_ignore: 0.766457589984; IoU: 0.602134921163; SoftmaxLoss: 0.567140307503
+02-14 00:38:52 Epoch[17] Batch [80]	Speed: 1.46 samples/sec
+02-14 00:38:52 acc_ignore: 0.763206584362; IoU: 0.595902767221; SoftmaxLoss: 0.572604156285
+02-14 00:38:59 Epoch[17] Batch [90]	Speed: 1.41 samples/sec
+02-14 00:38:59 acc_ignore: 0.771737240537; IoU: 0.601346135376; SoftmaxLoss: 0.557695749211
+02-14 00:39:11 Epoch[17] Batch [100]	Speed: 0.83 samples/sec
+02-14 00:39:11 acc_ignore: 0.772252585259; IoU: 0.603312766852; SoftmaxLoss: 0.556278602269
+02-14 00:39:23 Epoch[17] Batch [110]	Speed: 0.82 samples/sec
+02-14 00:39:23 acc_ignore: 0.777963563564; IoU: 0.612039536909; SoftmaxLoss: 0.545821112372
+02-14 00:39:35 Epoch[17] Batch [120]	Speed: 0.83 samples/sec
+02-14 00:39:35 acc_ignore: 0.779151515152; IoU: 0.613119847828; SoftmaxLoss: 0.544688551934
+02-14 00:39:47 Epoch[17] Batch [130]	Speed: 0.84 samples/sec
+02-14 00:39:47 acc_ignore: 0.778321967769; IoU: 0.611999377164; SoftmaxLoss: 0.545027982243
+02-14 00:39:54 Epoch[17] Batch [140]	Speed: 1.46 samples/sec
+02-14 00:39:54 acc_ignore: 0.784818282112; IoU: 0.618834648712; SoftmaxLoss: 0.532494776776
+02-14 00:40:01 Epoch[17] Batch [150]	Speed: 1.47 samples/sec
+02-14 00:40:01 acc_ignore: 0.787653274467; IoU: 0.620345198592; SoftmaxLoss: 0.526953775359
+02-14 00:40:13 Epoch[17] Batch [160]	Speed: 0.81 samples/sec
+02-14 00:40:13 acc_ignore: 0.783519668737; IoU: 0.613930053011; SoftmaxLoss: 0.534363986511
+02-14 00:40:26 Epoch[17] Batch [170]	Speed: 0.80 samples/sec
+02-14 00:40:26 acc_ignore: 0.781635867446; IoU: 0.612494761396; SoftmaxLoss: 0.538314413561
+02-14 00:40:33 Epoch[17] Batch [180]	Speed: 1.46 samples/sec
+02-14 00:40:33 acc_ignore: 0.782448127686; IoU: 0.612491442255; SoftmaxLoss: 0.537896850091
+02-14 00:40:46 Epoch[17] Batch [190]	Speed: 0.77 samples/sec
+02-14 00:40:46 acc_ignore: 0.781638627109; IoU: 0.612352556284; SoftmaxLoss: 0.539332307375
+02-14 00:40:53 Epoch[17] Batch [200]	Speed: 1.40 samples/sec
+02-14 00:40:53 acc_ignore: 0.784140630182; IoU: 0.616252004246; SoftmaxLoss: 0.534983888581
+02-14 00:41:00 Epoch[17] Batch [210]	Speed: 1.46 samples/sec
+02-14 00:41:00 acc_ignore: 0.782462348605; IoU: 0.613319639595; SoftmaxLoss: 0.538046356712
+02-14 00:41:07 Epoch[17] Batch [220]	Speed: 1.45 samples/sec
+02-14 00:41:07 acc_ignore: 0.784734439417; IoU: 0.614350919339; SoftmaxLoss: 0.53501811656
+02-14 00:41:13 Epoch[17] Batch [230]	Speed: 1.46 samples/sec
+02-14 00:41:13 acc_ignore: 0.783655988456; IoU: 0.612335137134; SoftmaxLoss: 0.538073838482
+02-14 00:41:26 Epoch[17] Batch [240]	Speed: 0.79 samples/sec
+02-14 00:41:26 acc_ignore: 0.784348916551; IoU: 0.613386109994; SoftmaxLoss: 0.536873812119
+02-14 00:41:33 Epoch[17] Batch [250]	Speed: 1.38 samples/sec
+02-14 00:41:33 acc_ignore: 0.78113643205; IoU: 0.611361320353; SoftmaxLoss: 0.542018085146
+02-14 00:41:34 Epoch[17] Train-acc_ignore=0.781125
+02-14 00:41:34 Epoch[17] Train-IoU=0.611440
+02-14 00:41:34 Epoch[17] Train-SoftmaxLoss=0.542216
+02-14 00:41:34 Epoch[17] Time cost=244.018
+02-14 00:41:37 Saved checkpoint to "F:/Code/MyCode/CNN_Segmentation/Models/crossEx/Folder1\TusimpleDUC_Seg\2018_02_13_23_18_29\TusimpleDUC_Seg-0018.params"
+02-14 00:42:07 Epoch[17] Validation-acc_ignore=0.759619
+02-14 00:42:07 Epoch[17] Validation-IoU=0.560880
+02-14 00:42:07 Epoch[17] Validation-SoftmaxLoss=0.595235
+02-14 00:42:07 Update[4537]: Change learning rate to 1.56250e-06
+02-14 00:42:07 Epoch[18] Batch [0]	Speed: 0.29 samples/sec
+02-14 00:42:07 acc_ignore: 0.602133333333; IoU: 0.427746376197; SoftmaxLoss: 0.802672222222
+02-14 00:42:19 Epoch[18] Batch [10]	Speed: 0.84 samples/sec
+02-14 00:42:19 acc_ignore: 0.751822222222; IoU: 0.557208397898; SoftmaxLoss: 0.599071346275
+02-14 00:42:31 Epoch[18] Batch [20]	Speed: 0.84 samples/sec
+02-14 00:42:31 acc_ignore: 0.784728042328; IoU: 0.614442249865; SoftmaxLoss: 0.53814281529
+02-14 00:42:44 Epoch[18] Batch [30]	Speed: 0.79 samples/sec
+02-14 00:42:44 acc_ignore: 0.794477419355; IoU: 0.627194348156; SoftmaxLoss: 0.518337938578
+02-14 00:43:03 Epoch[18] Batch [40]	Speed: 0.53 samples/sec
+02-14 00:43:03 acc_ignore: 0.800329539295; IoU: 0.642551921249; SoftmaxLoss: 0.510541006362
+02-14 00:43:10 Epoch[18] Batch [50]	Speed: 1.37 samples/sec
+02-14 00:43:10 acc_ignore: 0.792324183007; IoU: 0.62612886481; SoftmaxLoss: 0.530957485064
+02-14 00:43:23 Epoch[18] Batch [60]	Speed: 0.77 samples/sec
+02-14 00:43:23 acc_ignore: 0.78647140255; IoU: 0.62036407971; SoftmaxLoss: 0.537815878479
+02-14 00:43:30 Epoch[18] Batch [70]	Speed: 1.51 samples/sec
+02-14 00:43:30 acc_ignore: 0.782700469484; IoU: 0.615513226433; SoftmaxLoss: 0.541854793409
+02-14 00:43:36 Epoch[18] Batch [80]	Speed: 1.48 samples/sec
+02-14 00:43:36 acc_ignore: 0.77746611797; IoU: 0.608230652576; SoftmaxLoss: 0.550560938974
+02-14 00:43:48 Epoch[18] Batch [90]	Speed: 0.87 samples/sec
+02-14 00:43:48 acc_ignore: 0.781311843712; IoU: 0.612231352341; SoftmaxLoss: 0.541151514208
+02-14 00:43:55 Epoch[18] Batch [100]	Speed: 1.49 samples/sec
+02-14 00:43:55 acc_ignore: 0.776112651265; IoU: 0.604337557801; SoftmaxLoss: 0.549929165055
+02-14 00:44:01 Epoch[18] Batch [110]	Speed: 1.55 samples/sec
+02-14 00:44:01 acc_ignore: 0.782736336336; IoU: 0.609298060526; SoftmaxLoss: 0.537640683066
+02-14 00:44:08 Epoch[18] Batch [120]	Speed: 1.42 samples/sec
+02-14 00:44:08 acc_ignore: 0.78143030303; IoU: 0.608288725307; SoftmaxLoss: 0.539870005094
+02-14 00:44:15 Epoch[18] Batch [130]	Speed: 1.56 samples/sec
+02-14 00:44:15 acc_ignore: 0.781622391858; IoU: 0.607177946424; SoftmaxLoss: 0.539707472567
+02-14 00:44:22 Epoch[18] Batch [140]	Speed: 1.43 samples/sec
+02-14 00:44:22 acc_ignore: 0.782033096927; IoU: 0.607249571863; SoftmaxLoss: 0.538752724833
+02-14 00:44:29 Epoch[18] Batch [150]	Speed: 1.45 samples/sec
+02-14 00:44:29 acc_ignore: 0.782251655629; IoU: 0.606239879568; SoftmaxLoss: 0.539672858605
+02-14 00:44:41 Epoch[18] Batch [160]	Speed: 0.77 samples/sec
+02-14 00:44:41 acc_ignore: 0.783569358178; IoU: 0.608096868101; SoftmaxLoss: 0.537811029428
+02-14 00:44:54 Epoch[18] Batch [170]	Speed: 0.82 samples/sec
+02-14 00:44:54 acc_ignore: 0.783482261209; IoU: 0.609626826552; SoftmaxLoss: 0.537765194145
+02-14 00:45:06 Epoch[18] Batch [180]	Speed: 0.81 samples/sec
+02-14 00:45:06 acc_ignore: 0.784182688766; IoU: 0.610294870095; SoftmaxLoss: 0.536228077041
+02-14 00:45:13 Epoch[18] Batch [190]	Speed: 1.44 samples/sec
+02-14 00:45:13 acc_ignore: 0.785457591623; IoU: 0.613576292448; SoftmaxLoss: 0.533600209174
+02-14 00:45:20 Epoch[18] Batch [200]	Speed: 1.43 samples/sec
+02-14 00:45:20 acc_ignore: 0.784974682145; IoU: 0.612340522371; SoftmaxLoss: 0.535124220154
+02-14 00:45:32 Epoch[18] Batch [210]	Speed: 0.81 samples/sec
+02-14 00:45:32 acc_ignore: 0.783753975777; IoU: 0.612635752296; SoftmaxLoss: 0.537235222588
+02-14 00:45:45 Epoch[18] Batch [220]	Speed: 0.78 samples/sec
+02-14 00:45:45 acc_ignore: 0.781795877325; IoU: 0.610601582567; SoftmaxLoss: 0.54083561139
+02-14 00:45:52 Epoch[18] Batch [230]	Speed: 1.47 samples/sec
+02-14 00:45:52 acc_ignore: 0.781783549784; IoU: 0.609526297112; SoftmaxLoss: 0.540709999737
+02-14 00:45:59 Epoch[18] Batch [240]	Speed: 1.47 samples/sec
+02-14 00:45:59 acc_ignore: 0.781628400184; IoU: 0.60891579242; SoftmaxLoss: 0.54107153165
+02-14 00:46:06 Epoch[18] Batch [250]	Speed: 1.42 samples/sec
+02-14 00:46:06 acc_ignore: 0.781148472776; IoU: 0.608449305324; SoftmaxLoss: 0.542283840765
+02-14 00:46:06 Epoch[18] Train-acc_ignore=0.780646
+02-14 00:46:06 Epoch[18] Train-IoU=0.607736
+02-14 00:46:06 Epoch[18] Train-SoftmaxLoss=0.543394
+02-14 00:46:06 Epoch[18] Time cost=239.642
+02-14 00:46:10 Saved checkpoint to "F:/Code/MyCode/CNN_Segmentation/Models/crossEx/Folder1\TusimpleDUC_Seg\2018_02_13_23_18_29\TusimpleDUC_Seg-0019.params"
+02-14 00:46:41 Epoch[18] Validation-acc_ignore=0.758033
+02-14 00:46:41 Epoch[18] Validation-IoU=0.560950
+02-14 00:46:41 Epoch[18] Validation-SoftmaxLoss=0.596545
+02-14 00:46:42 Epoch[19] Batch [0]	Speed: 0.28 samples/sec
+02-14 00:46:42 acc_ignore: 0.740622222222; IoU: 0.45919976061; SoftmaxLoss: 0.650312413194
+02-14 00:46:49 Epoch[19] Batch [10]	Speed: 1.45 samples/sec
+02-14 00:46:49 acc_ignore: 0.773575757576; IoU: 0.532063234197; SoftmaxLoss: 0.567667810922
+02-14 00:46:56 Epoch[19] Batch [20]	Speed: 1.46 samples/sec
+02-14 00:46:56 acc_ignore: 0.77368042328; IoU: 0.564421066743; SoftmaxLoss: 0.564275538918
+02-14 00:47:09 Epoch[19] Batch [30]	Speed: 0.78 samples/sec
+02-14 00:47:09 acc_ignore: 0.78176344086; IoU: 0.593715965941; SoftmaxLoss: 0.544208377086
+02-14 00:47:21 Epoch[19] Batch [40]	Speed: 0.78 samples/sec
+02-14 00:47:21 acc_ignore: 0.783579403794; IoU: 0.601901451149; SoftmaxLoss: 0.539453817592
+02-14 00:47:29 Epoch[19] Batch [50]	Speed: 1.38 samples/sec
+02-14 00:47:29 acc_ignore: 0.773814379085; IoU: 0.600167602058; SoftmaxLoss: 0.560882334431
+02-14 00:47:36 Epoch[19] Batch [60]	Speed: 1.45 samples/sec
+02-14 00:47:36 acc_ignore: 0.78137704918; IoU: 0.612299115076; SoftmaxLoss: 0.54561175735
+02-14 00:47:48 Epoch[19] Batch [70]	Speed: 0.84 samples/sec
+02-14 00:47:48 acc_ignore: 0.782204694836; IoU: 0.613478811222; SoftmaxLoss: 0.544713288433
+02-14 00:48:00 Epoch[19] Batch [80]	Speed: 0.83 samples/sec
+02-14 00:48:00 acc_ignore: 0.77672866941; IoU: 0.608279316271; SoftmaxLoss: 0.553728077712
+02-14 00:48:12 Epoch[19] Batch [90]	Speed: 0.83 samples/sec
+02-14 00:48:12 acc_ignore: 0.781485714286; IoU: 0.614785068417; SoftmaxLoss: 0.5436024674
+02-14 00:48:18 Epoch[19] Batch [100]	Speed: 1.47 samples/sec
+02-14 00:48:18 acc_ignore: 0.784139053905; IoU: 0.61505380057; SoftmaxLoss: 0.539123686851
+02-14 00:48:25 Epoch[19] Batch [110]	Speed: 1.47 samples/sec
+02-14 00:48:25 acc_ignore: 0.789081881882; IoU: 0.617565728815; SoftmaxLoss: 0.530135507676
+02-14 00:48:38 Epoch[19] Batch [120]	Speed: 0.81 samples/sec
+02-14 00:48:38 acc_ignore: 0.785184205693; IoU: 0.610850071282; SoftmaxLoss: 0.535747732564
+02-14 00:48:48 Epoch[19] Batch [130]	Speed: 0.92 samples/sec
+02-14 00:48:48 acc_ignore: 0.7869014419; IoU: 0.61238824313; SoftmaxLoss: 0.533199076117
+02-14 00:48:57 Epoch[19] Batch [140]	Speed: 1.22 samples/sec
+02-14 00:48:57 acc_ignore: 0.783943262411; IoU: 0.61118522002; SoftmaxLoss: 0.538035754193
+02-14 00:49:03 Epoch[19] Batch [150]	Speed: 1.46 samples/sec
+02-14 00:49:03 acc_ignore: 0.783477262693; IoU: 0.609944097182; SoftmaxLoss: 0.5384720157
+02-14 00:49:10 Epoch[19] Batch [160]	Speed: 1.46 samples/sec
+02-14 00:49:10 acc_ignore: 0.783273429952; IoU: 0.609237346342; SoftmaxLoss: 0.537958756173
+02-14 00:49:23 Epoch[19] Batch [170]	Speed: 0.81 samples/sec
+02-14 00:49:23 acc_ignore: 0.780549447693; IoU: 0.608539615874; SoftmaxLoss: 0.541748654133
+02-14 00:49:30 Epoch[19] Batch [180]	Speed: 1.41 samples/sec
+02-14 00:49:30 acc_ignore: 0.778051810927; IoU: 0.604159444577; SoftmaxLoss: 0.549094025644
+02-14 00:49:41 Epoch[19] Batch [190]	Speed: 0.86 samples/sec
+02-14 00:49:41 acc_ignore: 0.777528330425; IoU: 0.60345029819; SoftmaxLoss: 0.549783625677
+02-14 00:49:48 Epoch[19] Batch [200]	Speed: 1.46 samples/sec
+02-14 00:49:48 acc_ignore: 0.777290436705; IoU: 0.602306235656; SoftmaxLoss: 0.550754606957
+02-14 00:50:00 Epoch[19] Batch [210]	Speed: 0.82 samples/sec
+02-14 00:50:00 acc_ignore: 0.78038209584; IoU: 0.606890565195; SoftmaxLoss: 0.543554639778
+02-14 00:50:13 Epoch[19] Batch [220]	Speed: 0.82 samples/sec
+02-14 00:50:13 acc_ignore: 0.780294821518; IoU: 0.607859140515; SoftmaxLoss: 0.543800660763
+02-14 00:50:31 Epoch[19] Batch [230]	Speed: 0.54 samples/sec
+02-14 00:50:31 acc_ignore: 0.781920538721; IoU: 0.611262619072; SoftmaxLoss: 0.540160640703
+02-14 00:50:38 Epoch[19] Batch [240]	Speed: 1.41 samples/sec
+02-14 00:50:38 acc_ignore: 0.782492946058; IoU: 0.612793325227; SoftmaxLoss: 0.539366930393
+02-14 00:50:45 Epoch[19] Batch [250]	Speed: 1.49 samples/sec
+02-14 00:50:45 acc_ignore: 0.782716600266; IoU: 0.612452314315; SoftmaxLoss: 0.539538573462
+02-14 00:50:46 Epoch[19] Train-acc_ignore=0.782638
+02-14 00:50:46 Epoch[19] Train-IoU=0.612357
+02-14 00:50:46 Epoch[19] Train-SoftmaxLoss=0.539874
+02-14 00:50:46 Epoch[19] Time cost=244.253
+02-14 00:50:49 Saved checkpoint to "F:/Code/MyCode/CNN_Segmentation/Models/crossEx/Folder1\TusimpleDUC_Seg\2018_02_13_23_18_29\TusimpleDUC_Seg-0020.params"
+02-14 00:51:20 Epoch[19] Validation-acc_ignore=0.758320
+02-14 00:51:20 Epoch[19] Validation-IoU=0.560891
+02-14 00:51:20 Epoch[19] Validation-SoftmaxLoss=0.596389
+02-14 00:51:21 Epoch[20] Batch [0]	Speed: 0.28 samples/sec
+02-14 00:51:21 acc_ignore: 0.870755555556; IoU: 0.560772494175; SoftmaxLoss: 0.325564930556
+02-14 00:51:33 Epoch[20] Batch [10]	Speed: 0.81 samples/sec
+02-14 00:51:33 acc_ignore: 0.80842020202; IoU: 0.661436331731; SoftmaxLoss: 0.472286623067
+02-14 00:51:40 Epoch[20] Batch [20]	Speed: 1.43 samples/sec
+02-14 00:51:40 acc_ignore: 0.774696296296; IoU: 0.612426283297; SoftmaxLoss: 0.550187820871
+02-14 00:51:47 Epoch[20] Batch [30]	Speed: 1.40 samples/sec
+02-14 00:51:47 acc_ignore: 0.771796415771; IoU: 0.605019742692; SoftmaxLoss: 0.553264674689
+02-14 00:52:11 Epoch[20] Batch [40]	Speed: 0.41 samples/sec
+02-14 00:52:11 acc_ignore: 0.775839566396; IoU: 0.61613500524; SoftmaxLoss: 0.539978956269
+02-14 00:52:24 Epoch[20] Batch [50]	Speed: 0.78 samples/sec
+02-14 00:52:24 acc_ignore: 0.776805228758; IoU: 0.615911257992; SoftmaxLoss: 0.54025924926
+02-14 00:52:31 Epoch[20] Batch [60]	Speed: 1.44 samples/sec
+02-14 00:52:31 acc_ignore: 0.782761384335; IoU: 0.619776324466; SoftmaxLoss: 0.530225065816
+02-14 00:52:38 Epoch[20] Batch [70]	Speed: 1.40 samples/sec
+02-14 00:52:38 acc_ignore: 0.785680125196; IoU: 0.62129417786; SoftmaxLoss: 0.528408172254
+02-14 00:52:45 Epoch[20] Batch [80]	Speed: 1.47 samples/sec
+02-14 00:52:45 acc_ignore: 0.782689711934; IoU: 0.616289599857; SoftmaxLoss: 0.536743038677
+02-14 00:52:52 Epoch[20] Batch [90]	Speed: 1.46 samples/sec
+02-14 00:52:52 acc_ignore: 0.78148962149; IoU: 0.613407025121; SoftmaxLoss: 0.539741319444
+02-14 00:52:59 Epoch[20] Batch [100]	Speed: 1.43 samples/sec
+02-14 00:52:59 acc_ignore: 0.78784070407; IoU: 0.621746370186; SoftmaxLoss: 0.528061313729
+02-14 00:53:06 Epoch[20] Batch [110]	Speed: 1.44 samples/sec
+02-14 00:53:06 acc_ignore: 0.787328128128; IoU: 0.620085080039; SoftmaxLoss: 0.528272367289
+02-14 00:53:17 Epoch[20] Batch [120]	Speed: 0.90 samples/sec
+02-14 00:53:17 acc_ignore: 0.788178512397; IoU: 0.619681612851; SoftmaxLoss: 0.529586096404
+02-14 00:53:29 Epoch[20] Batch [130]	Speed: 0.81 samples/sec
+02-14 00:53:29 acc_ignore: 0.790264291773; IoU: 0.625465663376; SoftmaxLoss: 0.523038708817
+02-14 00:53:41 Epoch[20] Batch [140]	Speed: 0.84 samples/sec
+02-14 00:53:41 acc_ignore: 0.789523719464; IoU: 0.624009584385; SoftmaxLoss: 0.525035100996
+02-14 00:53:54 Epoch[20] Batch [150]	Speed: 0.77 samples/sec
+02-14 00:53:54 acc_ignore: 0.788231346578; IoU: 0.622653574862; SoftmaxLoss: 0.527956656003
+02-14 00:54:06 Epoch[20] Batch [160]	Speed: 0.81 samples/sec
+02-14 00:54:06 acc_ignore: 0.792305866115; IoU: 0.627438047176; SoftmaxLoss: 0.520640836218
+02-14 00:54:13 Epoch[20] Batch [170]	Speed: 1.47 samples/sec
+02-14 00:54:13 acc_ignore: 0.791588304094; IoU: 0.625694513428; SoftmaxLoss: 0.522329448214
+02-14 00:54:20 Epoch[20] Batch [180]	Speed: 1.44 samples/sec
+02-14 00:54:20 acc_ignore: 0.78929699202; IoU: 0.62249017581; SoftmaxLoss: 0.527376910262
+02-14 00:54:33 Epoch[20] Batch [190]	Speed: 0.80 samples/sec
+02-14 00:54:33 acc_ignore: 0.78680069808; IoU: 0.619310528724; SoftmaxLoss: 0.532969132274
+02-14 00:54:45 Epoch[20] Batch [200]	Speed: 0.81 samples/sec
+02-14 00:54:45 acc_ignore: 0.786764842454; IoU: 0.619267664749; SoftmaxLoss: 0.534016572357
+02-14 00:54:57 Epoch[20] Batch [210]	Speed: 0.83 samples/sec
+02-14 00:54:57 acc_ignore: 0.78286340179; IoU: 0.613789732808; SoftmaxLoss: 0.538769100976
+02-14 00:55:10 Epoch[20] Batch [220]	Speed: 0.76 samples/sec
+02-14 00:55:10 acc_ignore: 0.783961387632; IoU: 0.614992852853; SoftmaxLoss: 0.535964098293
+02-14 00:55:17 Epoch[20] Batch [230]	Speed: 1.51 samples/sec
+02-14 00:55:17 acc_ignore: 0.781934391534; IoU: 0.612339735148; SoftmaxLoss: 0.539434854262
+02-14 00:55:24 Epoch[20] Batch [240]	Speed: 1.50 samples/sec
+02-14 00:55:24 acc_ignore: 0.781435869064; IoU: 0.610687775706; SoftmaxLoss: 0.540486511506
+02-14 00:55:30 Epoch[20] Batch [250]	Speed: 1.48 samples/sec
+02-14 00:55:30 acc_ignore: 0.781576980965; IoU: 0.610064158676; SoftmaxLoss: 0.540450258298
+02-14 00:55:31 Epoch[20] Train-acc_ignore=0.781217
+02-14 00:55:31 Epoch[20] Train-IoU=0.609533
+02-14 00:55:31 Epoch[20] Train-SoftmaxLoss=0.541170
+02-14 00:55:31 Epoch[20] Time cost=251.080
+02-14 00:55:34 Saved checkpoint to "F:/Code/MyCode/CNN_Segmentation/Models/crossEx/Folder1\TusimpleDUC_Seg\2018_02_13_23_18_29\TusimpleDUC_Seg-0021.params"
+02-14 00:56:05 Epoch[20] Validation-acc_ignore=0.758113
+02-14 00:56:05 Epoch[20] Validation-IoU=0.560837
+02-14 00:56:05 Epoch[20] Validation-SoftmaxLoss=0.596465
+02-14 00:56:05 Update[5293]: Change learning rate to 7.81250e-07
+02-14 00:56:05 Epoch[21] Batch [0]	Speed: 0.29 samples/sec
+02-14 00:56:05 acc_ignore: 0.880888888889; IoU: 0.576761413328; SoftmaxLoss: 0.374379644097
+02-14 00:56:12 Epoch[21] Batch [10]	Speed: 1.46 samples/sec
+02-14 00:56:12 acc_ignore: 0.786602020202; IoU: 0.599878805331; SoftmaxLoss: 0.540223474984
+02-14 00:56:19 Epoch[21] Batch [20]	Speed: 1.44 samples/sec
+02-14 00:56:19 acc_ignore: 0.803614814815; IoU: 0.618257785615; SoftmaxLoss: 0.512296937521
+02-14 00:56:26 Epoch[21] Batch [30]	Speed: 1.47 samples/sec
+02-14 00:56:26 acc_ignore: 0.796507526882; IoU: 0.609390878766; SoftmaxLoss: 0.527579263623
+02-14 00:56:35 Epoch[21] Batch [40]	Speed: 1.09 samples/sec
+02-14 00:56:35 acc_ignore: 0.79621897019; IoU: 0.61060442608; SoftmaxLoss: 0.528475459699
+02-14 00:56:44 Epoch[21] Batch [50]	Speed: 1.10 samples/sec
+02-14 00:56:44 acc_ignore: 0.798096732026; IoU: 0.607964270662; SoftmaxLoss: 0.526190507344
+02-14 00:56:51 Epoch[21] Batch [60]	Speed: 1.45 samples/sec
+02-14 00:56:51 acc_ignore: 0.794786156648; IoU: 0.611094429903; SoftmaxLoss: 0.531672840712
+02-14 00:57:10 Epoch[21] Batch [70]	Speed: 0.54 samples/sec
+02-14 00:57:10 acc_ignore: 0.79479687011; IoU: 0.621000777713; SoftmaxLoss: 0.525545742478
+02-14 00:57:16 Epoch[21] Batch [80]	Speed: 1.45 samples/sec
+02-14 00:57:16 acc_ignore: 0.796418106996; IoU: 0.623892677116; SoftmaxLoss: 0.519242800966
+02-14 00:57:25 Epoch[21] Batch [90]	Speed: 1.11 samples/sec
+02-14 00:57:25 acc_ignore: 0.7946002442; IoU: 0.624273616157; SoftmaxLoss: 0.519509286346
+02-14 00:57:32 Epoch[21] Batch [100]	Speed: 1.42 samples/sec
+02-14 00:57:32 acc_ignore: 0.787884708471; IoU: 0.613817903052; SoftmaxLoss: 0.531718661529
+02-14 00:57:50 Epoch[21] Batch [110]	Speed: 0.56 samples/sec
+02-14 00:57:50 acc_ignore: 0.786884484484; IoU: 0.614845573603; SoftmaxLoss: 0.53203385969
+02-14 00:57:57 Epoch[21] Batch [120]	Speed: 1.47 samples/sec
+02-14 00:57:57 acc_ignore: 0.788985123967; IoU: 0.615661611052; SoftmaxLoss: 0.528581910592
+02-14 00:58:04 Epoch[21] Batch [130]	Speed: 1.37 samples/sec
+02-14 00:58:04 acc_ignore: 0.783877862595; IoU: 0.608537632275; SoftmaxLoss: 0.539414013672
+02-14 00:58:16 Epoch[21] Batch [140]	Speed: 0.83 samples/sec
+02-14 00:58:16 acc_ignore: 0.784988494878; IoU: 0.61143827494; SoftmaxLoss: 0.535769510049
+02-14 00:58:29 Epoch[21] Batch [150]	Speed: 0.79 samples/sec
+02-14 00:58:29 acc_ignore: 0.782421192053; IoU: 0.608916891479; SoftmaxLoss: 0.54169200099
+02-14 00:58:36 Epoch[21] Batch [160]	Speed: 1.45 samples/sec
+02-14 00:58:36 acc_ignore: 0.783176259489; IoU: 0.608850890532; SoftmaxLoss: 0.540930686067
+02-14 00:58:55 Epoch[21] Batch [170]	Speed: 0.52 samples/sec
+02-14 00:58:55 acc_ignore: 0.785981546459; IoU: 0.61190443101; SoftmaxLoss: 0.533286823799
+02-14 00:59:02 Epoch[21] Batch [180]	Speed: 1.46 samples/sec
+02-14 00:59:02 acc_ignore: 0.784529404543; IoU: 0.60945609786; SoftmaxLoss: 0.537314624428
+02-14 00:59:09 Epoch[21] Batch [190]	Speed: 1.41 samples/sec
+02-14 00:59:09 acc_ignore: 0.782289237929; IoU: 0.606243714897; SoftmaxLoss: 0.541414243809
+02-14 00:59:16 Epoch[21] Batch [200]	Speed: 1.46 samples/sec
+02-14 00:59:16 acc_ignore: 0.783188059701; IoU: 0.607790211456; SoftmaxLoss: 0.540090269707
+02-14 00:59:29 Epoch[21] Batch [210]	Speed: 0.78 samples/sec
+02-14 00:59:29 acc_ignore: 0.784715323855; IoU: 0.609042394598; SoftmaxLoss: 0.537792157699
+02-14 00:59:47 Epoch[21] Batch [220]	Speed: 0.55 samples/sec
+02-14 00:59:47 acc_ignore: 0.784228456511; IoU: 0.608048820112; SoftmaxLoss: 0.539494790906
+02-14 01:00:00 Epoch[21] Batch [230]	Speed: 0.79 samples/sec
+02-14 01:00:00 acc_ignore: 0.783846079846; IoU: 0.610015349271; SoftmaxLoss: 0.539843975211
+02-14 01:00:07 Epoch[21] Batch [240]	Speed: 1.42 samples/sec
+02-14 01:00:07 acc_ignore: 0.783087505763; IoU: 0.610096031398; SoftmaxLoss: 0.540010544646
+02-14 01:00:14 Epoch[21] Batch [250]	Speed: 1.40 samples/sec
+02-14 01:00:14 acc_ignore: 0.78084249668; IoU: 0.607816930614; SoftmaxLoss: 0.543498340082
+02-14 01:00:14 Epoch[21] Train-acc_ignore=0.780532
+02-14 01:00:14 Epoch[21] Train-IoU=0.607410
+02-14 01:00:14 Epoch[21] Train-SoftmaxLoss=0.544231
+02-14 01:00:14 Epoch[21] Time cost=249.882
+02-14 01:00:18 Saved checkpoint to "F:/Code/MyCode/CNN_Segmentation/Models/crossEx/Folder1\TusimpleDUC_Seg\2018_02_13_23_18_29\TusimpleDUC_Seg-0022.params"
+02-14 01:00:51 Epoch[21] Validation-acc_ignore=0.757718
+02-14 01:00:52 Epoch[21] Validation-IoU=0.560550
+02-14 01:00:52 Epoch[21] Validation-SoftmaxLoss=0.596679
+02-14 01:00:52 Epoch[22] Batch [0]	Speed: 0.26 samples/sec
+02-14 01:00:52 acc_ignore: 0.932622222222; IoU: 0.652079525172; SoftmaxLoss: 0.224243077257
+02-14 01:00:59 Epoch[22] Batch [10]	Speed: 1.45 samples/sec
+02-14 01:00:59 acc_ignore: 0.852121212121; IoU: 0.617890383881; SoftmaxLoss: 0.415089005287
+02-14 01:01:12 Epoch[22] Batch [20]	Speed: 0.75 samples/sec
+02-14 01:01:12 acc_ignore: 0.845866666667; IoU: 0.691897253725; SoftmaxLoss: 0.419271543279
+02-14 01:01:26 Epoch[22] Batch [30]	Speed: 0.72 samples/sec
+02-14 01:01:26 acc_ignore: 0.838164874552; IoU: 0.684869954487; SoftmaxLoss: 0.429092957549
+02-14 01:01:45 Epoch[22] Batch [40]	Speed: 0.53 samples/sec
+02-14 01:01:45 acc_ignore: 0.806326287263; IoU: 0.650879180538; SoftmaxLoss: 0.485119530721
+02-14 01:01:52 Epoch[22] Batch [50]	Speed: 1.43 samples/sec
+02-14 01:01:52 acc_ignore: 0.79517211329; IoU: 0.630635266254; SoftmaxLoss: 0.509993815104
+02-14 01:02:00 Epoch[22] Batch [60]	Speed: 1.30 samples/sec
+02-14 01:02:00 acc_ignore: 0.791283060109; IoU: 0.622219097861; SoftmaxLoss: 0.517609490266
+02-14 01:02:07 Epoch[22] Batch [70]	Speed: 1.42 samples/sec
+02-14 01:02:07 acc_ignore: 0.791153677621; IoU: 0.616159543386; SoftmaxLoss: 0.521168903744
+02-14 01:02:20 Epoch[22] Batch [80]	Speed: 0.77 samples/sec
+02-14 01:02:20 acc_ignore: 0.79310617284; IoU: 0.620037345926; SoftmaxLoss: 0.520749889886
+02-14 01:02:27 Epoch[22] Batch [90]	Speed: 1.45 samples/sec
+02-14 01:02:27 acc_ignore: 0.795434432234; IoU: 0.620658405422; SoftmaxLoss: 0.517842037021
+02-14 01:02:34 Epoch[22] Batch [100]	Speed: 1.43 samples/sec
+02-14 01:02:34 acc_ignore: 0.790843564356; IoU: 0.612381231651; SoftmaxLoss: 0.527316546987
+02-14 01:02:47 Epoch[22] Batch [110]	Speed: 0.74 samples/sec
+02-14 01:02:47 acc_ignore: 0.791855855856; IoU: 0.613133947441; SoftmaxLoss: 0.523915767525
+02-14 01:02:55 Epoch[22] Batch [120]	Speed: 1.38 samples/sec
+02-14 01:02:55 acc_ignore: 0.786377226814; IoU: 0.60929590357; SoftmaxLoss: 0.534564933605
+02-14 01:03:08 Epoch[22] Batch [130]	Speed: 0.77 samples/sec
+02-14 01:03:08 acc_ignore: 0.789646819338; IoU: 0.612863149956; SoftmaxLoss: 0.528712199659
+02-14 01:03:15 Epoch[22] Batch [140]	Speed: 1.42 samples/sec
+02-14 01:03:15 acc_ignore: 0.791974783294; IoU: 0.615107239914; SoftmaxLoss: 0.524074945362
+02-14 01:03:22 Epoch[22] Batch [150]	Speed: 1.38 samples/sec
+02-14 01:03:22 acc_ignore: 0.790454157469; IoU: 0.61408787147; SoftmaxLoss: 0.528321095043
+02-14 01:03:29 Epoch[22] Batch [160]	Speed: 1.43 samples/sec
+02-14 01:03:29 acc_ignore: 0.787193374741; IoU: 0.609824508083; SoftmaxLoss: 0.533257466087
+02-14 01:03:36 Epoch[22] Batch [170]	Speed: 1.44 samples/sec
+02-14 01:03:36 acc_ignore: 0.787026380767; IoU: 0.610401913874; SoftmaxLoss: 0.532817771153
+02-14 01:03:55 Epoch[22] Batch [180]	Speed: 0.53 samples/sec
+02-14 01:03:55 acc_ignore: 0.786024309392; IoU: 0.611491218596; SoftmaxLoss: 0.533561708079
+02-14 01:04:13 Epoch[22] Batch [190]	Speed: 0.54 samples/sec
+02-14 01:04:13 acc_ignore: 0.78460034904; IoU: 0.610472422671; SoftmaxLoss: 0.535504452421
+02-14 01:04:20 Epoch[22] Batch [200]	Speed: 1.43 samples/sec
+02-14 01:04:20 acc_ignore: 0.783398562742; IoU: 0.608607501758; SoftmaxLoss: 0.538758961162
+02-14 01:04:36 Epoch[22] Batch [210]	Speed: 0.63 samples/sec
+02-14 01:04:36 acc_ignore: 0.782620747762; IoU: 0.609241186018; SoftmaxLoss: 0.54029411121
+02-14 01:04:43 Epoch[22] Batch [220]	Speed: 1.43 samples/sec
+02-14 01:04:43 acc_ignore: 0.784843841126; IoU: 0.611707793908; SoftmaxLoss: 0.536064267534
+02-14 01:04:50 Epoch[22] Batch [230]	Speed: 1.47 samples/sec
+02-14 01:04:50 acc_ignore: 0.783732178932; IoU: 0.609756621729; SoftmaxLoss: 0.538725230354
+02-14 01:05:07 Epoch[22] Batch [240]	Speed: 0.57 samples/sec
+02-14 01:05:07 acc_ignore: 0.782487782388; IoU: 0.609695964935; SoftmaxLoss: 0.540990198896
+02-14 01:05:14 Epoch[22] Batch [250]	Speed: 1.46 samples/sec
+02-14 01:05:14 acc_ignore: 0.781843293493; IoU: 0.609542591429; SoftmaxLoss: 0.541979438237
+02-14 01:05:15 Epoch[22] Train-acc_ignore=0.782291
+02-14 01:05:15 Epoch[22] Train-IoU=0.609954
+02-14 01:05:15 Epoch[22] Train-SoftmaxLoss=0.541190
+02-14 01:05:15 Epoch[22] Time cost=263.456
+02-14 01:05:18 Saved checkpoint to "F:/Code/MyCode/CNN_Segmentation/Models/crossEx/Folder1\TusimpleDUC_Seg\2018_02_13_23_18_29\TusimpleDUC_Seg-0023.params"
+02-14 01:05:49 Epoch[22] Validation-acc_ignore=0.757970
+02-14 01:05:49 Epoch[22] Validation-IoU=0.560872
+02-14 01:05:49 Epoch[22] Validation-SoftmaxLoss=0.596567
+02-14 01:05:50 Epoch[23] Batch [0]	Speed: 0.28 samples/sec
+02-14 01:05:50 acc_ignore: 0.853155555556; IoU: 0.408768234155; SoftmaxLoss: 0.438645529514
+02-14 01:05:58 Epoch[23] Batch [10]	Speed: 1.27 samples/sec
+02-14 01:05:58 acc_ignore: 0.797527272727; IoU: 0.591518750354; SoftmaxLoss: 0.542358167614
+02-14 01:06:10 Epoch[23] Batch [20]	Speed: 0.79 samples/sec
+02-14 01:06:10 acc_ignore: 0.797722751323; IoU: 0.614078849878; SoftmaxLoss: 0.511768067956
+02-14 01:06:17 Epoch[23] Batch [30]	Speed: 1.50 samples/sec
+02-14 01:06:17 acc_ignore: 0.802701075269; IoU: 0.626110552342; SoftmaxLoss: 0.496072723454
+02-14 01:06:24 Epoch[23] Batch [40]	Speed: 1.47 samples/sec
+02-14 01:06:24 acc_ignore: 0.80432303523; IoU: 0.629315417441; SoftmaxLoss: 0.496705032076
+02-14 01:06:47 Epoch[23] Batch [50]	Speed: 0.44 samples/sec
+02-14 01:06:47 acc_ignore: 0.800613507625; IoU: 0.635986593979; SoftmaxLoss: 0.504469348703
+02-14 01:06:53 Epoch[23] Batch [60]	Speed: 1.50 samples/sec
+02-14 01:06:53 acc_ignore: 0.799769763206; IoU: 0.634891180766; SoftmaxLoss: 0.506541782645
+02-14 01:07:00 Epoch[23] Batch [70]	Speed: 1.43 samples/sec
+02-14 01:07:00 acc_ignore: 0.794093270736; IoU: 0.624555449623; SoftmaxLoss: 0.516777065605
+02-14 01:07:13 Epoch[23] Batch [80]	Speed: 0.79 samples/sec
+02-14 01:07:13 acc_ignore: 0.798656790123; IoU: 0.627934280924; SoftmaxLoss: 0.507486480035
+02-14 01:07:21 Epoch[23] Batch [90]	Speed: 1.26 samples/sec
+02-14 01:07:21 acc_ignore: 0.792998290598; IoU: 0.626500131351; SoftmaxLoss: 0.51922783382
+02-14 01:07:28 Epoch[23] Batch [100]	Speed: 1.42 samples/sec
+02-14 01:07:28 acc_ignore: 0.790042684268; IoU: 0.621566365875; SoftmaxLoss: 0.526404885069
+02-14 01:07:37 Epoch[23] Batch [110]	Speed: 1.11 samples/sec
+02-14 01:07:37 acc_ignore: 0.786298298298; IoU: 0.618863590257; SoftmaxLoss: 0.535734016732
+02-14 01:07:44 Epoch[23] Batch [120]	Speed: 1.48 samples/sec
+02-14 01:07:44 acc_ignore: 0.781662442608; IoU: 0.611412531649; SoftmaxLoss: 0.543579669834
+02-14 01:07:50 Epoch[23] Batch [130]	Speed: 1.47 samples/sec
+02-14 01:07:50 acc_ignore: 0.775765224767; IoU: 0.603741476682; SoftmaxLoss: 0.552861253164
+02-14 01:08:08 Epoch[23] Batch [140]	Speed: 0.58 samples/sec
+02-14 01:08:08 acc_ignore: 0.775225847124; IoU: 0.603626709625; SoftmaxLoss: 0.552720919754
+02-14 01:08:15 Epoch[23] Batch [150]	Speed: 1.44 samples/sec
+02-14 01:08:15 acc_ignore: 0.775385430464; IoU: 0.606254751304; SoftmaxLoss: 0.553326140401
+02-14 01:08:21 Epoch[23] Batch [160]	Speed: 1.52 samples/sec
+02-14 01:08:21 acc_ignore: 0.777865010352; IoU: 0.60948514067; SoftmaxLoss: 0.548749570151
+02-14 01:08:35 Epoch[23] Batch [170]	Speed: 0.71 samples/sec
+02-14 01:08:35 acc_ignore: 0.779920467836; IoU: 0.612832550618; SoftmaxLoss: 0.544717939688
+02-14 01:08:42 Epoch[23] Batch [180]	Speed: 1.47 samples/sec
+02-14 01:08:42 acc_ignore: 0.780334438306; IoU: 0.613228956366; SoftmaxLoss: 0.545042889978
+02-14 01:08:49 Epoch[23] Batch [190]	Speed: 1.48 samples/sec
+02-14 01:08:49 acc_ignore: 0.783054333915; IoU: 0.614593302619; SoftmaxLoss: 0.540625979971
+02-14 01:09:06 Epoch[23] Batch [200]	Speed: 0.59 samples/sec
+02-14 01:09:06 acc_ignore: 0.778358872305; IoU: 0.609768294628; SoftmaxLoss: 0.545994776011
+02-14 01:09:18 Epoch[23] Batch [210]	Speed: 0.85 samples/sec
+02-14 01:09:18 acc_ignore: 0.777947972617; IoU: 0.607709278707; SoftmaxLoss: 0.547543698421
+02-14 01:09:29 Epoch[23] Batch [220]	Speed: 0.85 samples/sec
+02-14 01:09:29 acc_ignore: 0.77829984917; IoU: 0.60840536268; SoftmaxLoss: 0.547154531515
+02-14 01:09:36 Epoch[23] Batch [230]	Speed: 1.49 samples/sec
+02-14 01:09:36 acc_ignore: 0.779033766234; IoU: 0.608922093902; SoftmaxLoss: 0.545505423985
+02-14 01:09:43 Epoch[23] Batch [240]	Speed: 1.49 samples/sec
+02-14 01:09:43 acc_ignore: 0.779152051637; IoU: 0.608678971299; SoftmaxLoss: 0.54469842755
+02-14 01:09:50 Epoch[23] Batch [250]	Speed: 1.48 samples/sec
+02-14 01:09:50 acc_ignore: 0.78061230633; IoU: 0.609295039033; SoftmaxLoss: 0.54174223047
+02-14 01:09:50 Epoch[23] Train-acc_ignore=0.780666
+02-14 01:09:50 Epoch[23] Train-IoU=0.609301
+02-14 01:09:50 Epoch[23] Train-SoftmaxLoss=0.541699
+02-14 01:09:50 Epoch[23] Time cost=241.064
+02-14 01:09:53 Saved checkpoint to "F:/Code/MyCode/CNN_Segmentation/Models/crossEx/Folder1\TusimpleDUC_Seg\2018_02_13_23_18_29\TusimpleDUC_Seg-0024.params"
+02-14 01:10:23 Epoch[23] Validation-acc_ignore=0.758059
+02-14 01:10:23 Epoch[23] Validation-IoU=0.561029
+02-14 01:10:23 Epoch[23] Validation-SoftmaxLoss=0.596306
+02-14 01:10:23 Update[6049]: Change learning rate to 3.90625e-07
+02-14 01:10:23 Epoch[24] Batch [0]	Speed: 0.30 samples/sec
+02-14 01:10:23 acc_ignore: 0.749688888889; IoU: 0.448203371739; SoftmaxLoss: 0.670252604167
+02-14 01:10:30 Epoch[24] Batch [10]	Speed: 1.45 samples/sec
+02-14 01:10:30 acc_ignore: 0.789931313131; IoU: 0.590067078047; SoftmaxLoss: 0.525273319129
+02-14 01:10:37 Epoch[24] Batch [20]	Speed: 1.47 samples/sec
+02-14 01:10:37 acc_ignore: 0.78328042328; IoU: 0.595603057076; SoftmaxLoss: 0.544337665344
+02-14 01:10:55 Epoch[24] Batch [30]	Speed: 0.57 samples/sec
+02-14 01:10:55 acc_ignore: 0.790268100358; IoU: 0.605461792717; SoftmaxLoss: 0.5282296896
+02-14 01:11:01 Epoch[24] Batch [40]	Speed: 1.49 samples/sec
+02-14 01:11:01 acc_ignore: 0.798330623306; IoU: 0.61249520837; SoftmaxLoss: 0.50521353902
+02-14 01:11:08 Epoch[24] Batch [50]	Speed: 1.49 samples/sec
+02-14 01:11:08 acc_ignore: 0.795036165577; IoU: 0.608897193139; SoftmaxLoss: 0.516341662837
+02-14 01:11:15 Epoch[24] Batch [60]	Speed: 1.48 samples/sec
+02-14 01:11:15 acc_ignore: 0.781260473588; IoU: 0.588461334025; SoftmaxLoss: 0.542563919484
+02-14 01:11:27 Epoch[24] Batch [70]	Speed: 0.81 samples/sec
+02-14 01:11:27 acc_ignore: 0.784663536776; IoU: 0.596329092199; SoftmaxLoss: 0.539421255135
+02-14 01:11:34 Epoch[24] Batch [80]	Speed: 1.45 samples/sec
+02-14 01:11:34 acc_ignore: 0.78601920439; IoU: 0.596435606751; SoftmaxLoss: 0.537634119674
+02-14 01:11:53 Epoch[24] Batch [90]	Speed: 0.54 samples/sec
+02-14 01:11:53 acc_ignore: 0.782165567766; IoU: 0.597810466392; SoftmaxLoss: 0.542621975637
+02-14 01:12:00 Epoch[24] Batch [100]	Speed: 1.43 samples/sec
+02-14 01:12:00 acc_ignore: 0.782637623762; IoU: 0.598398457909; SoftmaxLoss: 0.542502004048
+02-14 01:12:07 Epoch[24] Batch [110]	Speed: 1.40 samples/sec
+02-14 01:12:07 acc_ignore: 0.782947747748; IoU: 0.599134974518; SoftmaxLoss: 0.538989346378
+02-14 01:12:20 Epoch[24] Batch [120]	Speed: 0.78 samples/sec
+02-14 01:12:20 acc_ignore: 0.783729660239; IoU: 0.604084643382; SoftmaxLoss: 0.535277961971
+02-14 01:12:39 Epoch[24] Batch [130]	Speed: 0.52 samples/sec
+02-14 01:12:39 acc_ignore: 0.778180831213; IoU: 0.597000584197; SoftmaxLoss: 0.543343314647
+02-14 01:12:46 Epoch[24] Batch [140]	Speed: 1.46 samples/sec
+02-14 01:12:46 acc_ignore: 0.775713790386; IoU: 0.59370077588; SoftmaxLoss: 0.548749157186
+02-14 01:12:53 Epoch[24] Batch [150]	Speed: 1.39 samples/sec
+02-14 01:12:53 acc_ignore: 0.774456512141; IoU: 0.591718473834; SoftmaxLoss: 0.552519409952
+02-14 01:13:05 Epoch[24] Batch [160]	Speed: 0.79 samples/sec
+02-14 01:13:05 acc_ignore: 0.773204140787; IoU: 0.592874308303; SoftmaxLoss: 0.553796754294
+02-14 01:13:12 Epoch[24] Batch [170]	Speed: 1.45 samples/sec
+02-14 01:13:12 acc_ignore: 0.774641195582; IoU: 0.595636636341; SoftmaxLoss: 0.550591374586
+02-14 01:13:19 Epoch[24] Batch [180]	Speed: 1.44 samples/sec
+02-14 01:13:19 acc_ignore: 0.774491344383; IoU: 0.594895213255; SoftmaxLoss: 0.552521144886
+02-14 01:13:26 Epoch[24] Batch [190]	Speed: 1.44 samples/sec
+02-14 01:13:26 acc_ignore: 0.773924374636; IoU: 0.593056686489; SoftmaxLoss: 0.554347881047
+02-14 01:13:33 Epoch[24] Batch [200]	Speed: 1.53 samples/sec
+02-14 01:13:33 acc_ignore: 0.77469541183; IoU: 0.592867313534; SoftmaxLoss: 0.554254660994
+02-14 01:13:39 Epoch[24] Batch [210]	Speed: 1.56 samples/sec
+02-14 01:13:39 acc_ignore: 0.776451606108; IoU: 0.595200033809; SoftmaxLoss: 0.551475301608
+02-14 01:13:51 Epoch[24] Batch [220]	Speed: 0.87 samples/sec
+02-14 01:13:51 acc_ignore: 0.778122875817; IoU: 0.598585945719; SoftmaxLoss: 0.54819594238
+02-14 01:14:02 Epoch[24] Batch [230]	Speed: 0.85 samples/sec
+02-14 01:14:02 acc_ignore: 0.779994997595; IoU: 0.60293264396; SoftmaxLoss: 0.544430252347
+02-14 01:14:19 Epoch[24] Batch [240]	Speed: 0.60 samples/sec
+02-14 01:14:19 acc_ignore: 0.779975288151; IoU: 0.605609554828; SoftmaxLoss: 0.544233960693
+02-14 01:14:31 Epoch[24] Batch [250]	Speed: 0.86 samples/sec
+02-14 01:14:31 acc_ignore: 0.779669588313; IoU: 0.606573080199; SoftmaxLoss: 0.543884442698
+02-14 01:14:31 Epoch[24] Train-acc_ignore=0.779770
+02-14 01:14:31 Epoch[24] Train-IoU=0.606450
+02-14 01:14:31 Epoch[24] Train-SoftmaxLoss=0.544008
+02-14 01:14:31 Epoch[24] Time cost=248.564
+02-14 01:14:34 Saved checkpoint to "F:/Code/MyCode/CNN_Segmentation/Models/crossEx/Folder1\TusimpleDUC_Seg\2018_02_13_23_18_29\TusimpleDUC_Seg-0025.params"
+02-14 01:15:03 Epoch[24] Validation-acc_ignore=0.757594
+02-14 01:15:03 Epoch[24] Validation-IoU=0.560640
+02-14 01:15:03 Epoch[24] Validation-SoftmaxLoss=0.596737
+02-14 01:15:04 Epoch[25] Batch [0]	Speed: 0.30 samples/sec
+02-14 01:15:04 acc_ignore: 0.627733333333; IoU: 0.424111744212; SoftmaxLoss: 1.04490199653
+02-14 01:15:11 Epoch[25] Batch [10]	Speed: 1.50 samples/sec
+02-14 01:15:11 acc_ignore: 0.722181818182; IoU: 0.533531274854; SoftmaxLoss: 0.666940214646
+02-14 01:15:23 Epoch[25] Batch [20]	Speed: 0.83 samples/sec
+02-14 01:15:23 acc_ignore: 0.772859259259; IoU: 0.601289504772; SoftmaxLoss: 0.56200666956
+02-14 01:15:29 Epoch[25] Batch [30]	Speed: 1.50 samples/sec
+02-14 01:15:29 acc_ignore: 0.785829390681; IoU: 0.605839188283; SoftmaxLoss: 0.535558380236
+02-14 01:15:36 Epoch[25] Batch [40]	Speed: 1.47 samples/sec
+02-14 01:15:36 acc_ignore: 0.793062330623; IoU: 0.61353384009; SoftmaxLoss: 0.518206222476
+02-14 01:15:43 Epoch[25] Batch [50]	Speed: 1.47 samples/sec
+02-14 01:15:43 acc_ignore: 0.777945098039; IoU: 0.594358746143; SoftmaxLoss: 0.548009425211
+02-14 01:15:50 Epoch[25] Batch [60]	Speed: 1.35 samples/sec
+02-14 01:15:50 acc_ignore: 0.779313661202; IoU: 0.602036555552; SoftmaxLoss: 0.543645309654
+02-14 01:15:57 Epoch[25] Batch [70]	Speed: 1.44 samples/sec
+02-14 01:15:57 acc_ignore: 0.78404256651; IoU: 0.608327857775; SoftmaxLoss: 0.533760236637
+02-14 01:16:04 Epoch[25] Batch [80]	Speed: 1.43 samples/sec
+02-14 01:16:04 acc_ignore: 0.783863923182; IoU: 0.607723244924; SoftmaxLoss: 0.539612413998
+02-14 01:16:11 Epoch[25] Batch [90]	Speed: 1.51 samples/sec
+02-14 01:16:11 acc_ignore: 0.791976556777; IoU: 0.612779607034; SoftmaxLoss: 0.523455868914
+02-14 01:16:24 Epoch[25] Batch [100]	Speed: 0.73 samples/sec
+02-14 01:16:24 acc_ignore: 0.783940154015; IoU: 0.60421054933; SoftmaxLoss: 0.536812997843
+02-14 01:16:41 Epoch[25] Batch [110]	Speed: 0.59 samples/sec
+02-14 01:16:41 acc_ignore: 0.786101301301; IoU: 0.615818857951; SoftmaxLoss: 0.531312401415
+02-14 01:16:59 Epoch[25] Batch [120]	Speed: 0.57 samples/sec
+02-14 01:16:59 acc_ignore: 0.782696786042; IoU: 0.613094267661; SoftmaxLoss: 0.538902223182
+02-14 01:17:06 Epoch[25] Batch [130]	Speed: 1.48 samples/sec
+02-14 01:17:06 acc_ignore: 0.786186259542; IoU: 0.618846942939; SoftmaxLoss: 0.531690551986
+02-14 01:17:13 Epoch[25] Batch [140]	Speed: 1.46 samples/sec
+02-14 01:17:13 acc_ignore: 0.782353349094; IoU: 0.61315368331; SoftmaxLoss: 0.540136278758
+02-14 01:17:24 Epoch[25] Batch [150]	Speed: 0.85 samples/sec
+02-14 01:17:24 acc_ignore: 0.782701398087; IoU: 0.613521444552; SoftmaxLoss: 0.539410852311
+02-14 01:17:37 Epoch[25] Batch [160]	Speed: 0.80 samples/sec
+02-14 01:17:37 acc_ignore: 0.777615458937; IoU: 0.608806923559; SoftmaxLoss: 0.548604962643
+02-14 01:17:44 Epoch[25] Batch [170]	Speed: 1.46 samples/sec
+02-14 01:17:44 acc_ignore: 0.773973749188; IoU: 0.60363014527; SoftmaxLoss: 0.555526817745
+02-14 01:17:51 Epoch[25] Batch [180]	Speed: 1.48 samples/sec
+02-14 01:17:51 acc_ignore: 0.776541190915; IoU: 0.604141538871; SoftmaxLoss: 0.552231069225
+02-14 01:18:03 Epoch[25] Batch [190]	Speed: 0.80 samples/sec
+02-14 01:18:03 acc_ignore: 0.778334380454; IoU: 0.605299906525; SoftmaxLoss: 0.547242034653
+02-14 01:18:16 Epoch[25] Batch [200]	Speed: 0.81 samples/sec
+02-14 01:18:16 acc_ignore: 0.779443228303; IoU: 0.606092505227; SoftmaxLoss: 0.545604407946
+02-14 01:18:22 Epoch[25] Batch [210]	Speed: 1.47 samples/sec
+02-14 01:18:22 acc_ignore: 0.77987909426; IoU: 0.60765105173; SoftmaxLoss: 0.545478501715
+02-14 01:18:40 Epoch[25] Batch [220]	Speed: 0.56 samples/sec
+02-14 01:18:40 acc_ignore: 0.782262443439; IoU: 0.60979890594; SoftmaxLoss: 0.540344802542
+02-14 01:18:47 Epoch[25] Batch [230]	Speed: 1.44 samples/sec
+02-14 01:18:47 acc_ignore: 0.782729389129; IoU: 0.610504269217; SoftmaxLoss: 0.539526920784
+02-14 01:18:59 Epoch[25] Batch [240]	Speed: 0.83 samples/sec
+02-14 01:18:59 acc_ignore: 0.783595020747; IoU: 0.612098271267; SoftmaxLoss: 0.537878907533
+02-14 01:19:09 Epoch[25] Batch [250]	Speed: 0.99 samples/sec
+02-14 01:19:09 acc_ignore: 0.782206640106; IoU: 0.610645843633; SoftmaxLoss: 0.540850831764
+02-14 01:19:10 Epoch[25] Train-acc_ignore=0.781321
+02-14 01:19:10 Epoch[25] Train-IoU=0.609914
+02-14 01:19:10 Epoch[25] Train-SoftmaxLoss=0.542225
+02-14 01:19:10 Epoch[25] Time cost=246.628
+02-14 01:19:13 Saved checkpoint to "F:/Code/MyCode/CNN_Segmentation/Models/crossEx/Folder1\TusimpleDUC_Seg\2018_02_13_23_18_29\TusimpleDUC_Seg-0026.params"
+02-14 01:19:43 Epoch[25] Validation-acc_ignore=0.757907
+02-14 01:19:43 Epoch[25] Validation-IoU=0.560821
+02-14 01:19:43 Epoch[25] Validation-SoftmaxLoss=0.596495
+02-14 01:19:44 Epoch[26] Batch [0]	Speed: 0.29 samples/sec
+02-14 01:19:44 acc_ignore: 0.834666666667; IoU: 0.535314208058; SoftmaxLoss: 0.45362109375
+02-14 01:19:56 Epoch[26] Batch [10]	Speed: 0.84 samples/sec
+02-14 01:19:56 acc_ignore: 0.81216969697; IoU: 0.627662671001; SoftmaxLoss: 0.491108239623
+02-14 01:20:02 Epoch[26] Batch [20]	Speed: 1.48 samples/sec
+02-14 01:20:02 acc_ignore: 0.801362962963; IoU: 0.614482934681; SoftmaxLoss: 0.518434407552
+02-14 01:20:09 Epoch[26] Batch [30]	Speed: 1.46 samples/sec
+02-14 01:20:09 acc_ignore: 0.799443727599; IoU: 0.609468113102; SoftmaxLoss: 0.523485638931
+02-14 01:20:16 Epoch[26] Batch [40]	Speed: 1.46 samples/sec
+02-14 01:20:16 acc_ignore: 0.789064498645; IoU: 0.59262132273; SoftmaxLoss: 0.539223718295
+02-14 01:20:33 Epoch[26] Batch [50]	Speed: 0.58 samples/sec
+02-14 01:20:33 acc_ignore: 0.784108061002; IoU: 0.597681571701; SoftmaxLoss: 0.544135293479
+02-14 01:20:45 Epoch[26] Batch [60]	Speed: 0.84 samples/sec
+02-14 01:20:45 acc_ignore: 0.78226010929; IoU: 0.602067022784; SoftmaxLoss: 0.546324650821
+02-14 01:20:52 Epoch[26] Batch [70]	Speed: 1.55 samples/sec
+02-14 01:20:52 acc_ignore: 0.782372456964; IoU: 0.600349562621; SoftmaxLoss: 0.543770974698
+02-14 01:21:04 Epoch[26] Batch [80]	Speed: 0.83 samples/sec
+02-14 01:21:04 acc_ignore: 0.777567078189; IoU: 0.600434022499; SoftmaxLoss: 0.552132731723
+02-14 01:21:16 Epoch[26] Batch [90]	Speed: 0.85 samples/sec
+02-14 01:21:16 acc_ignore: 0.777062759463; IoU: 0.596615237047; SoftmaxLoss: 0.550002018348
+02-14 01:21:22 Epoch[26] Batch [100]	Speed: 1.49 samples/sec
+02-14 01:21:22 acc_ignore: 0.778622662266; IoU: 0.598110532436; SoftmaxLoss: 0.549467378837
+02-14 01:21:29 Epoch[26] Batch [110]	Speed: 1.38 samples/sec
+02-14 01:21:29 acc_ignore: 0.779340940941; IoU: 0.597703609816; SoftmaxLoss: 0.548375489259
+02-14 01:21:36 Epoch[26] Batch [120]	Speed: 1.47 samples/sec
+02-14 01:21:36 acc_ignore: 0.779673094582; IoU: 0.596574047681; SoftmaxLoss: 0.548420620534
+02-14 01:21:43 Epoch[26] Batch [130]	Speed: 1.43 samples/sec
+02-14 01:21:43 acc_ignore: 0.781557251908; IoU: 0.596580739433; SoftmaxLoss: 0.544598655756
+02-14 01:21:53 Epoch[26] Batch [140]	Speed: 1.08 samples/sec
+02-14 01:21:53 acc_ignore: 0.780235145784; IoU: 0.596075658178; SoftmaxLoss: 0.546453586655
+02-14 01:22:04 Epoch[26] Batch [150]	Speed: 0.85 samples/sec
+02-14 01:22:04 acc_ignore: 0.782408241354; IoU: 0.600500890961; SoftmaxLoss: 0.541977857757
+02-14 01:22:14 Epoch[26] Batch [160]	Speed: 1.01 samples/sec
+02-14 01:22:14 acc_ignore: 0.780623326432; IoU: 0.599435855722; SoftmaxLoss: 0.545278204594
+02-14 01:22:21 Epoch[26] Batch [170]	Speed: 1.47 samples/sec
+02-14 01:22:21 acc_ignore: 0.781578687459; IoU: 0.600771004738; SoftmaxLoss: 0.542617576158
+02-14 01:22:28 Epoch[26] Batch [180]	Speed: 1.49 samples/sec
+02-14 01:22:28 acc_ignore: 0.785476243094; IoU: 0.605199493508; SoftmaxLoss: 0.535370777042
+02-14 01:22:35 Epoch[26] Batch [190]	Speed: 1.46 samples/sec
+02-14 01:22:35 acc_ignore: 0.786179872019; IoU: 0.606176698801; SoftmaxLoss: 0.533779924
+02-14 01:22:53 Epoch[26] Batch [200]	Speed: 0.54 samples/sec
+02-14 01:22:53 acc_ignore: 0.783609950249; IoU: 0.605884020023; SoftmaxLoss: 0.539386054806
+02-14 01:23:01 Epoch[26] Batch [210]	Speed: 1.28 samples/sec
+02-14 01:23:01 acc_ignore: 0.781594523433; IoU: 0.605544612197; SoftmaxLoss: 0.541721882868
+02-14 01:23:13 Epoch[26] Batch [220]	Speed: 0.86 samples/sec
+02-14 01:23:13 acc_ignore: 0.782801407743; IoU: 0.607815330648; SoftmaxLoss: 0.539529956362
+02-14 01:23:20 Epoch[26] Batch [230]	Speed: 1.34 samples/sec
+02-14 01:23:20 acc_ignore: 0.779539393939; IoU: 0.604527272529; SoftmaxLoss: 0.545755136935
+02-14 01:23:34 Epoch[26] Batch [240]	Speed: 0.74 samples/sec
+02-14 01:23:34 acc_ignore: 0.781157768557; IoU: 0.607866977768; SoftmaxLoss: 0.542517247809
+02-14 01:23:45 Epoch[26] Batch [250]	Speed: 0.87 samples/sec
+02-14 01:23:45 acc_ignore: 0.780400531208; IoU: 0.606443838101; SoftmaxLoss: 0.543569685213
+02-14 01:23:46 Epoch[26] Train-acc_ignore=0.780837
+02-14 01:23:46 Epoch[26] Train-IoU=0.606840
+02-14 01:23:46 Epoch[26] Train-SoftmaxLoss=0.542773
+02-14 01:23:46 Epoch[26] Time cost=242.786
+02-14 01:23:49 Saved checkpoint to "F:/Code/MyCode/CNN_Segmentation/Models/crossEx/Folder1\TusimpleDUC_Seg\2018_02_13_23_18_29\TusimpleDUC_Seg-0027.params"
+02-14 01:24:19 Epoch[26] Validation-acc_ignore=0.758153
+02-14 01:24:19 Epoch[26] Validation-IoU=0.560862
+02-14 01:24:19 Epoch[26] Validation-SoftmaxLoss=0.596512
+02-14 01:24:19 Update[6805]: Change learning rate to 1.95313e-07
+02-14 01:24:20 Epoch[27] Batch [0]	Speed: 0.29 samples/sec
+02-14 01:24:20 acc_ignore: 0.594488888889; IoU: 0.418359476328; SoftmaxLoss: 0.846118402778
+02-14 01:24:26 Epoch[27] Batch [10]	Speed: 1.50 samples/sec
+02-14 01:24:26 acc_ignore: 0.73343030303; IoU: 0.562518813411; SoftmaxLoss: 0.609960467961
+02-14 01:24:43 Epoch[27] Batch [20]	Speed: 0.59 samples/sec
+02-14 01:24:43 acc_ignore: 0.755834920635; IoU: 0.586559720698; SoftmaxLoss: 0.581436155547
+02-14 01:24:53 Epoch[27] Batch [30]	Speed: 1.02 samples/sec
+02-14 01:24:53 acc_ignore: 0.768315412186; IoU: 0.597991035363; SoftmaxLoss: 0.564035814992
+02-14 01:25:00 Epoch[27] Batch [40]	Speed: 1.50 samples/sec
+02-14 01:25:00 acc_ignore: 0.776481300813; IoU: 0.605985437271; SoftmaxLoss: 0.555018229696
+02-14 01:25:06 Epoch[27] Batch [50]	Speed: 1.51 samples/sec
+02-14 01:25:06 acc_ignore: 0.782100217865; IoU: 0.61527486376; SoftmaxLoss: 0.541966341146
+02-14 01:25:13 Epoch[27] Batch [60]	Speed: 1.50 samples/sec
+02-14 01:25:13 acc_ignore: 0.78546010929; IoU: 0.617143132459; SoftmaxLoss: 0.539170994849
+02-14 01:25:20 Epoch[27] Batch [70]	Speed: 1.34 samples/sec
+02-14 01:25:20 acc_ignore: 0.784060093897; IoU: 0.612029411546; SoftmaxLoss: 0.540302695557
+02-14 01:25:27 Epoch[27] Batch [80]	Speed: 1.48 samples/sec
+02-14 01:25:27 acc_ignore: 0.781043621399; IoU: 0.60750543381; SoftmaxLoss: 0.549291724269
+02-14 01:25:40 Epoch[27] Batch [90]	Speed: 0.80 samples/sec
+02-14 01:25:40 acc_ignore: 0.777742612943; IoU: 0.601369277781; SoftmaxLoss: 0.551678084697
+02-14 01:25:52 Epoch[27] Batch [100]	Speed: 0.84 samples/sec
+02-14 01:25:52 acc_ignore: 0.77339669967; IoU: 0.59667714674; SoftmaxLoss: 0.560651068955
+02-14 01:26:09 Epoch[27] Batch [110]	Speed: 0.57 samples/sec
+02-14 01:26:09 acc_ignore: 0.771766966967; IoU: 0.597442034495; SoftmaxLoss: 0.561095628636
+02-14 01:26:16 Epoch[27] Batch [120]	Speed: 1.48 samples/sec
+02-14 01:26:16 acc_ignore: 0.771999265381; IoU: 0.597906191484; SoftmaxLoss: 0.561066321776
+02-14 01:26:23 Epoch[27] Batch [130]	Speed: 1.50 samples/sec
+02-14 01:26:23 acc_ignore: 0.769023240034; IoU: 0.593619781576; SoftmaxLoss: 0.56676581965
+02-14 01:26:33 Epoch[27] Batch [140]	Speed: 0.93 samples/sec
+02-14 01:26:33 acc_ignore: 0.766575256107; IoU: 0.591457177597; SoftmaxLoss: 0.571649279852
+02-14 01:26:50 Epoch[27] Batch [150]	Speed: 0.60 samples/sec
+02-14 01:26:50 acc_ignore: 0.772289036056; IoU: 0.600436157266; SoftmaxLoss: 0.560724657269
+02-14 01:27:04 Epoch[27] Batch [160]	Speed: 0.74 samples/sec
+02-14 01:27:04 acc_ignore: 0.772074534161; IoU: 0.601425227386; SoftmaxLoss: 0.561715974952
+02-14 01:27:11 Epoch[27] Batch [170]	Speed: 1.43 samples/sec
+02-14 01:27:11 acc_ignore: 0.774475893437; IoU: 0.603640541846; SoftmaxLoss: 0.55770489985
+02-14 01:27:18 Epoch[27] Batch [180]	Speed: 1.44 samples/sec
+02-14 01:27:18 acc_ignore: 0.776921301412; IoU: 0.605859715682; SoftmaxLoss: 0.552108766432
+02-14 01:27:25 Epoch[27] Batch [190]	Speed: 1.41 samples/sec
+02-14 01:27:25 acc_ignore: 0.779141361257; IoU: 0.607631038189; SoftmaxLoss: 0.547749199804
+02-14 01:27:32 Epoch[27] Batch [200]	Speed: 1.43 samples/sec
+02-14 01:27:32 acc_ignore: 0.780057932559; IoU: 0.607374386582; SoftmaxLoss: 0.545102556472
+02-14 01:27:39 Epoch[27] Batch [210]	Speed: 1.45 samples/sec
+02-14 01:27:39 acc_ignore: 0.780735966298; IoU: 0.60809857606; SoftmaxLoss: 0.544242357229
+02-14 01:27:51 Epoch[27] Batch [220]	Speed: 0.80 samples/sec
+02-14 01:27:51 acc_ignore: 0.779981096028; IoU: 0.607439646514; SoftmaxLoss: 0.544937606175
+02-14 01:28:03 Epoch[27] Batch [230]	Speed: 0.83 samples/sec
+02-14 01:28:03 acc_ignore: 0.781365656566; IoU: 0.609451479305; SoftmaxLoss: 0.541806514292
+02-14 01:28:11 Epoch[27] Batch [240]	Speed: 1.36 samples/sec
+02-14 01:28:11 acc_ignore: 0.780975564776; IoU: 0.608887122457; SoftmaxLoss: 0.542512964486
+02-14 01:28:23 Epoch[27] Batch [250]	Speed: 0.82 samples/sec
+02-14 01:28:23 acc_ignore: 0.78216980965; IoU: 0.610377572368; SoftmaxLoss: 0.539451804522
+02-14 01:28:23 Epoch[27] Train-acc_ignore=0.782225
+02-14 01:28:23 Epoch[27] Train-IoU=0.611449
+02-14 01:28:23 Epoch[27] Train-SoftmaxLoss=0.539339
+02-14 01:28:23 Epoch[27] Time cost=244.627
+02-14 01:28:27 Saved checkpoint to "F:/Code/MyCode/CNN_Segmentation/Models/crossEx/Folder1\TusimpleDUC_Seg\2018_02_13_23_18_29\TusimpleDUC_Seg-0028.params"
+02-14 01:28:58 Epoch[27] Validation-acc_ignore=0.758234
+02-14 01:28:58 Epoch[27] Validation-IoU=0.560894
+02-14 01:28:58 Epoch[27] Validation-SoftmaxLoss=0.596399
+02-14 01:28:59 Epoch[28] Batch [0]	Speed: 0.28 samples/sec
+02-14 01:28:59 acc_ignore: 0.644444444444; IoU: 0.466290694474; SoftmaxLoss: 0.773803472222
+02-14 01:29:05 Epoch[28] Batch [10]	Speed: 1.49 samples/sec
+02-14 01:29:05 acc_ignore: 0.773785858586; IoU: 0.594954366622; SoftmaxLoss: 0.5519732994
+02-14 01:29:12 Epoch[28] Batch [20]	Speed: 1.42 samples/sec
+02-14 01:29:12 acc_ignore: 0.785964021164; IoU: 0.609648311137; SoftmaxLoss: 0.523428267609
+02-14 01:29:25 Epoch[28] Batch [30]	Speed: 0.81 samples/sec
+02-14 01:29:25 acc_ignore: 0.805482437276; IoU: 0.633421876887; SoftmaxLoss: 0.492275972362
+02-14 01:29:43 Epoch[28] Batch [40]	Speed: 0.56 samples/sec
+02-14 01:29:43 acc_ignore: 0.780483468835; IoU: 0.606902355416; SoftmaxLoss: 0.535401747226
+02-14 01:29:49 Epoch[28] Batch [50]	Speed: 1.46 samples/sec
+02-14 01:29:49 acc_ignore: 0.775104139434; IoU: 0.597531895896; SoftmaxLoss: 0.543730385561
+02-14 01:29:56 Epoch[28] Batch [60]	Speed: 1.43 samples/sec
+02-14 01:29:56 acc_ignore: 0.780811657559; IoU: 0.601588859308; SoftmaxLoss: 0.532579482404
+02-14 01:30:04 Epoch[28] Batch [70]	Speed: 1.40 samples/sec
+02-14 01:30:04 acc_ignore: 0.778706729264; IoU: 0.598358994857; SoftmaxLoss: 0.538874550231
+02-14 01:30:16 Epoch[28] Batch [80]	Speed: 0.82 samples/sec
+02-14 01:30:16 acc_ignore: 0.78038957476; IoU: 0.599157335857; SoftmaxLoss: 0.537617182008
+02-14 01:30:23 Epoch[28] Batch [90]	Speed: 1.48 samples/sec
+02-14 01:30:23 acc_ignore: 0.777119413919; IoU: 0.598148905713; SoftmaxLoss: 0.544569967663
+02-14 01:30:30 Epoch[28] Batch [100]	Speed: 1.40 samples/sec
+02-14 01:30:30 acc_ignore: 0.774688668867; IoU: 0.595278921569; SoftmaxLoss: 0.548288667363
+02-14 01:30:37 Epoch[28] Batch [110]	Speed: 1.29 samples/sec
+02-14 01:30:37 acc_ignore: 0.77534974975; IoU: 0.598234579085; SoftmaxLoss: 0.55050545526
+02-14 01:30:44 Epoch[28] Batch [120]	Speed: 1.46 samples/sec
+02-14 01:30:44 acc_ignore: 0.778945821855; IoU: 0.601295749355; SoftmaxLoss: 0.544630199455
+02-14 01:30:51 Epoch[28] Batch [130]	Speed: 1.47 samples/sec
+02-14 01:30:51 acc_ignore: 0.777674639525; IoU: 0.599249899503; SoftmaxLoss: 0.5472087966
+02-14 01:31:03 Epoch[28] Batch [140]	Speed: 0.85 samples/sec
+02-14 01:31:03 acc_ignore: 0.780082584712; IoU: 0.600825701244; SoftmaxLoss: 0.54197626553
+02-14 01:31:15 Epoch[28] Batch [150]	Speed: 0.81 samples/sec
+02-14 01:31:15 acc_ignore: 0.776795879323; IoU: 0.599294201829; SoftmaxLoss: 0.546738583129
+02-14 01:31:27 Epoch[28] Batch [160]	Speed: 0.83 samples/sec
+02-14 01:31:27 acc_ignore: 0.776729882678; IoU: 0.601093119515; SoftmaxLoss: 0.547153185858
+02-14 01:31:44 Epoch[28] Batch [170]	Speed: 0.60 samples/sec
+02-14 01:31:44 acc_ignore: 0.77734217024; IoU: 0.603535793605; SoftmaxLoss: 0.545855591407
+02-14 01:31:56 Epoch[28] Batch [180]	Speed: 0.82 samples/sec
+02-14 01:31:56 acc_ignore: 0.778468262738; IoU: 0.603547079328; SoftmaxLoss: 0.54422561777
+02-14 01:32:08 Epoch[28] Batch [190]	Speed: 0.82 samples/sec
+02-14 01:32:08 acc_ignore: 0.777368237347; IoU: 0.602097830523; SoftmaxLoss: 0.544803966525
+02-14 01:32:32 Epoch[28] Batch [200]	Speed: 0.42 samples/sec
+02-14 01:32:32 acc_ignore: 0.779080597015; IoU: 0.608504151761; SoftmaxLoss: 0.541139615589
+02-14 01:32:39 Epoch[28] Batch [210]	Speed: 1.38 samples/sec
+02-14 01:32:39 acc_ignore: 0.778408846761; IoU: 0.609344609153; SoftmaxLoss: 0.542125002957
+02-14 01:32:49 Epoch[28] Batch [220]	Speed: 1.01 samples/sec
+02-14 01:32:49 acc_ignore: 0.780765409754; IoU: 0.611413959198; SoftmaxLoss: 0.538694658292
+02-14 01:32:56 Epoch[28] Batch [230]	Speed: 1.45 samples/sec
+02-14 01:32:56 acc_ignore: 0.779817989418; IoU: 0.610965589823; SoftmaxLoss: 0.541403664176
+02-14 01:33:03 Epoch[28] Batch [240]	Speed: 1.47 samples/sec
+02-14 01:33:03 acc_ignore: 0.778958045182; IoU: 0.609519176547; SoftmaxLoss: 0.54309109579
+02-14 01:33:10 Epoch[28] Batch [250]	Speed: 1.44 samples/sec
+02-14 01:33:10 acc_ignore: 0.780845329792; IoU: 0.610155253549; SoftmaxLoss: 0.539873800134
+02-14 01:33:10 Epoch[28] Train-acc_ignore=0.781077
+02-14 01:33:10 Epoch[28] Train-IoU=0.610127
+02-14 01:33:10 Epoch[28] Train-SoftmaxLoss=0.539865
+02-14 01:33:10 Epoch[28] Time cost=252.439
+02-14 01:33:13 Saved checkpoint to "F:/Code/MyCode/CNN_Segmentation/Models/crossEx/Folder1\TusimpleDUC_Seg\2018_02_13_23_18_29\TusimpleDUC_Seg-0029.params"
+02-14 01:33:45 Epoch[28] Validation-acc_ignore=0.757947
+02-14 01:33:45 Epoch[28] Validation-IoU=0.560830
+02-14 01:33:45 Epoch[28] Validation-SoftmaxLoss=0.596665
+02-14 01:33:46 Epoch[29] Batch [0]	Speed: 0.28 samples/sec
+02-14 01:33:46 acc_ignore: 0.575822222222; IoU: 0.411844435842; SoftmaxLoss: 0.971093142361
+02-14 01:33:58 Epoch[29] Batch [10]	Speed: 0.81 samples/sec
+02-14 01:33:58 acc_ignore: 0.736274747475; IoU: 0.52224657115; SoftmaxLoss: 0.606277349669
+02-14 01:34:06 Epoch[29] Batch [20]	Speed: 1.36 samples/sec
+02-14 01:34:06 acc_ignore: 0.759957671958; IoU: 0.569559043044; SoftmaxLoss: 0.563841358714
+02-14 01:34:13 Epoch[29] Batch [30]	Speed: 1.44 samples/sec
+02-14 01:34:13 acc_ignore: 0.773092473118; IoU: 0.586105554775; SoftmaxLoss: 0.546337219982
+02-14 01:34:24 Epoch[29] Batch [40]	Speed: 0.84 samples/sec
+02-14 01:34:24 acc_ignore: 0.77816802168; IoU: 0.598863583952; SoftmaxLoss: 0.540453284055
+02-14 01:34:37 Epoch[29] Batch [50]	Speed: 0.82 samples/sec
+02-14 01:34:37 acc_ignore: 0.775839651416; IoU: 0.59680946848; SoftmaxLoss: 0.548987586593
+02-14 01:34:55 Epoch[29] Batch [60]	Speed: 0.54 samples/sec
+02-14 01:34:55 acc_ignore: 0.767673588342; IoU: 0.589536581947; SoftmaxLoss: 0.562688948123
+02-14 01:35:02 Epoch[29] Batch [70]	Speed: 1.46 samples/sec
+02-14 01:35:02 acc_ignore: 0.772487010955; IoU: 0.594646900721; SoftmaxLoss: 0.555551178752
+02-14 01:35:09 Epoch[29] Batch [80]	Speed: 1.44 samples/sec
+02-14 01:35:09 acc_ignore: 0.77344526749; IoU: 0.595029559286; SoftmaxLoss: 0.556513404358
+02-14 01:35:27 Epoch[29] Batch [90]	Speed: 0.54 samples/sec
+02-14 01:35:27 acc_ignore: 0.780088888889; IoU: 0.607159437328; SoftmaxLoss: 0.546113293293
+02-14 01:35:34 Epoch[29] Batch [100]	Speed: 1.46 samples/sec
+02-14 01:35:34 acc_ignore: 0.781525192519; IoU: 0.605047101189; SoftmaxLoss: 0.545124451127
+02-14 01:35:48 Epoch[29] Batch [110]	Speed: 0.72 samples/sec
+02-14 01:35:48 acc_ignore: 0.780234634635; IoU: 0.605405551656; SoftmaxLoss: 0.54596311106
+02-14 01:35:55 Epoch[29] Batch [120]	Speed: 1.50 samples/sec
+02-14 01:35:55 acc_ignore: 0.780406244261; IoU: 0.604931104438; SoftmaxLoss: 0.546677835618
+02-14 01:36:02 Epoch[29] Batch [130]	Speed: 1.43 samples/sec
+02-14 01:36:02 acc_ignore: 0.779514843087; IoU: 0.603585984859; SoftmaxLoss: 0.547500220079
+02-14 01:36:09 Epoch[29] Batch [140]	Speed: 1.41 samples/sec
+02-14 01:36:09 acc_ignore: 0.777408353034; IoU: 0.603785488148; SoftmaxLoss: 0.552152372762
+02-14 01:36:21 Epoch[29] Batch [150]	Speed: 0.80 samples/sec
+02-14 01:36:21 acc_ignore: 0.777718910964; IoU: 0.603564592682; SoftmaxLoss: 0.550449636753
+02-14 01:36:34 Epoch[29] Batch [160]	Speed: 0.79 samples/sec
+02-14 01:36:34 acc_ignore: 0.777686128364; IoU: 0.605072466048; SoftmaxLoss: 0.549502973832
+02-14 01:36:47 Epoch[29] Batch [170]	Speed: 0.80 samples/sec
+02-14 01:36:47 acc_ignore: 0.780625341131; IoU: 0.609271852871; SoftmaxLoss: 0.544171268947
+02-14 01:36:54 Epoch[29] Batch [180]	Speed: 1.43 samples/sec
+02-14 01:36:54 acc_ignore: 0.781550399018; IoU: 0.610317716732; SoftmaxLoss: 0.542779323912
+02-14 01:37:01 Epoch[29] Batch [190]	Speed: 1.44 samples/sec
+02-14 01:37:01 acc_ignore: 0.781189994183; IoU: 0.608556919961; SoftmaxLoss: 0.543565205232
+02-14 01:37:14 Epoch[29] Batch [200]	Speed: 0.76 samples/sec
+02-14 01:37:14 acc_ignore: 0.778405749033; IoU: 0.605050317686; SoftmaxLoss: 0.548566921847
+02-14 01:37:20 Epoch[29] Batch [210]	Speed: 1.45 samples/sec
+02-14 01:37:20 acc_ignore: 0.777611795682; IoU: 0.604836382201; SoftmaxLoss: 0.548934755906
+02-14 01:37:27 Epoch[29] Batch [220]	Speed: 1.46 samples/sec
+02-14 01:37:27 acc_ignore: 0.777652287582; IoU: 0.603749660918; SoftmaxLoss: 0.549110482311
+02-14 01:37:35 Epoch[29] Batch [230]	Speed: 1.38 samples/sec
+02-14 01:37:35 acc_ignore: 0.777204425204; IoU: 0.604199184882; SoftmaxLoss: 0.549092548673
+02-14 01:37:44 Epoch[29] Batch [240]	Speed: 1.09 samples/sec
+02-14 01:37:44 acc_ignore: 0.779380728446; IoU: 0.607473419864; SoftmaxLoss: 0.545395273014
+02-14 01:37:51 Epoch[29] Batch [250]	Speed: 1.40 samples/sec
+02-14 01:37:51 acc_ignore: 0.780185214697; IoU: 0.608577702042; SoftmaxLoss: 0.543466551113
+02-14 01:37:51 Epoch[29] Train-acc_ignore=0.780700
+02-14 01:37:51 Epoch[29] Train-IoU=0.608931
+02-14 01:37:51 Epoch[29] Train-SoftmaxLoss=0.542549
+02-14 01:37:51 Epoch[29] Time cost=246.736
+02-14 01:37:55 Saved checkpoint to "F:/Code/MyCode/CNN_Segmentation/Models/crossEx/Folder1\TusimpleDUC_Seg\2018_02_13_23_18_29\TusimpleDUC_Seg-0030.params"
+02-14 01:38:26 Epoch[29] Validation-acc_ignore=0.757890
+02-14 01:38:26 Epoch[29] Validation-IoU=0.560753
+02-14 01:38:26 Epoch[29] Validation-SoftmaxLoss=0.596761
